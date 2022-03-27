@@ -1,0 +1,10 @@
+OAR.*
+.ipynb_checkpoints/*
+**/*.ipynb_checkpoints/*
+*.ipynb
+*.pyc
+*.sh
+.DS_Store
+.vscode/*
+results/*
+trained_models/*

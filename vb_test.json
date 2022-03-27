@@ -1,0 +1,7418 @@
+{
+ "p257_001": {
+  "p_id": "257",
+  "utt_name": "p257_001",
+  "noisy_wav": "{noisy_root}/p257_001_16k.wav",
+  "clean_wav": "{clean_root}/p257_001_16k.wav",
+  "length": 2.2195625,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p257_002": {
+  "p_id": "257",
+  "utt_name": "p257_002",
+  "noisy_wav": "{noisy_root}/p257_002_16k.wav",
+  "clean_wav": "{clean_root}/p257_002_16k.wav",
+  "length": 2.776125,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p257_003": {
+  "p_id": "257",
+  "utt_name": "p257_003",
+  "noisy_wav": "{noisy_root}/p257_003_16k.wav",
+  "clean_wav": "{clean_root}/p257_003_16k.wav",
+  "length": 5.5214375,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p257_004": {
+  "p_id": "257",
+  "utt_name": "p257_004",
+  "noisy_wav": "{noisy_root}/p257_004_16k.wav",
+  "clean_wav": "{clean_root}/p257_004_16k.wav",
+  "length": 3.6314375,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p257_006": {
+  "p_id": "257",
+  "utt_name": "p257_006",
+  "noisy_wav": "{noisy_root}/p257_006_16k.wav",
+  "clean_wav": "{clean_root}/p257_006_16k.wav",
+  "length": 4.2745,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p257_007": {
+  "p_id": "257",
+  "utt_name": "p257_007",
+  "noisy_wav": "{noisy_root}/p257_007_16k.wav",
+  "clean_wav": "{clean_root}/p257_007_16k.wav",
+  "length": 3.3976875,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p257_008": {
+  "p_id": "257",
+  "utt_name": "p257_008",
+  "noisy_wav": "{noisy_root}/p257_008_16k.wav",
+  "clean_wav": "{clean_root}/p257_008_16k.wav",
+  "length": 5.583125,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p257_009": {
+  "p_id": "257",
+  "utt_name": "p257_009",
+  "noisy_wav": "{noisy_root}/p257_009_16k.wav",
+  "clean_wav": "{clean_root}/p257_009_16k.wav",
+  "length": 3.452625,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p257_010": {
+  "p_id": "257",
+  "utt_name": "p257_010",
+  "noisy_wav": "{noisy_root}/p257_010_16k.wav",
+  "clean_wav": "{clean_root}/p257_010_16k.wav",
+  "length": 2.3696875,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p257_011": {
+  "p_id": "257",
+  "utt_name": "p257_011",
+  "noisy_wav": "{noisy_root}/p257_011_16k.wav",
+  "clean_wav": "{clean_root}/p257_011_16k.wav",
+  "length": 5.1079375,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p257_012": {
+  "p_id": "257",
+  "utt_name": "p257_012",
+  "noisy_wav": "{noisy_root}/p257_012_16k.wav",
+  "clean_wav": "{clean_root}/p257_012_16k.wav",
+  "length": 3.457625,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p257_013": {
+  "p_id": "257",
+  "utt_name": "p257_013",
+  "noisy_wav": "{noisy_root}/p257_013_16k.wav",
+  "clean_wav": "{clean_root}/p257_013_16k.wav",
+  "length": 3.1381875,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p257_014": {
+  "p_id": "257",
+  "utt_name": "p257_014",
+  "noisy_wav": "{noisy_root}/p257_014_16k.wav",
+  "clean_wav": "{clean_root}/p257_014_16k.wav",
+  "length": 3.6925,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p257_015": {
+  "p_id": "257",
+  "utt_name": "p257_015",
+  "noisy_wav": "{noisy_root}/p257_015_16k.wav",
+  "clean_wav": "{clean_root}/p257_015_16k.wav",
+  "length": 4.6928125,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p257_016": {
+  "p_id": "257",
+  "utt_name": "p257_016",
+  "noisy_wav": "{noisy_root}/p257_016_16k.wav",
+  "clean_wav": "{clean_root}/p257_016_16k.wav",
+  "length": 5.34825,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p257_017": {
+  "p_id": "257",
+  "utt_name": "p257_017",
+  "noisy_wav": "{noisy_root}/p257_017_16k.wav",
+  "clean_wav": "{clean_root}/p257_017_16k.wav",
+  "length": 2.8710625,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p257_018": {
+  "p_id": "257",
+  "utt_name": "p257_018",
+  "noisy_wav": "{noisy_root}/p257_018_16k.wav",
+  "clean_wav": "{clean_root}/p257_018_16k.wav",
+  "length": 4.418625,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p257_019": {
+  "p_id": "257",
+  "utt_name": "p257_019",
+  "noisy_wav": "{noisy_root}/p257_019_16k.wav",
+  "clean_wav": "{clean_root}/p257_019_16k.wav",
+  "length": 5.5203125,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p257_020": {
+  "p_id": "257",
+  "utt_name": "p257_020",
+  "noisy_wav": "{noisy_root}/p257_020_16k.wav",
+  "clean_wav": "{clean_root}/p257_020_16k.wav",
+  "length": 3.4194375,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p257_022": {
+  "p_id": "257",
+  "utt_name": "p257_022",
+  "noisy_wav": "{noisy_root}/p257_022_16k.wav",
+  "clean_wav": "{clean_root}/p257_022_16k.wav",
+  "length": 4.8556875,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p257_023": {
+  "p_id": "257",
+  "utt_name": "p257_023",
+  "noisy_wav": "{noisy_root}/p257_023_16k.wav",
+  "clean_wav": "{clean_root}/p257_023_16k.wav",
+  "length": 8.214375,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p257_024": {
+  "p_id": "257",
+  "utt_name": "p257_024",
+  "noisy_wav": "{noisy_root}/p257_024_16k.wav",
+  "clean_wav": "{clean_root}/p257_024_16k.wav",
+  "length": 4.68525,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p257_025": {
+  "p_id": "257",
+  "utt_name": "p257_025",
+  "noisy_wav": "{noisy_root}/p257_025_16k.wav",
+  "clean_wav": "{clean_root}/p257_025_16k.wav",
+  "length": 2.74175,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p257_026": {
+  "p_id": "257",
+  "utt_name": "p257_026",
+  "noisy_wav": "{noisy_root}/p257_026_16k.wav",
+  "clean_wav": "{clean_root}/p257_026_16k.wav",
+  "length": 1.7589375,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p257_027": {
+  "p_id": "257",
+  "utt_name": "p257_027",
+  "noisy_wav": "{noisy_root}/p257_027_16k.wav",
+  "clean_wav": "{clean_root}/p257_027_16k.wav",
+  "length": 3.0175625,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p257_028": {
+  "p_id": "257",
+  "utt_name": "p257_028",
+  "noisy_wav": "{noisy_root}/p257_028_16k.wav",
+  "clean_wav": "{clean_root}/p257_028_16k.wav",
+  "length": 1.8368125,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p257_029": {
+  "p_id": "257",
+  "utt_name": "p257_029",
+  "noisy_wav": "{noisy_root}/p257_029_16k.wav",
+  "clean_wav": "{clean_root}/p257_029_16k.wav",
+  "length": 2.1250625,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p257_030": {
+  "p_id": "257",
+  "utt_name": "p257_030",
+  "noisy_wav": "{noisy_root}/p257_030_16k.wav",
+  "clean_wav": "{clean_root}/p257_030_16k.wav",
+  "length": 2.8905625,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p257_031": {
+  "p_id": "257",
+  "utt_name": "p257_031",
+  "noisy_wav": "{noisy_root}/p257_031_16k.wav",
+  "clean_wav": "{clean_root}/p257_031_16k.wav",
+  "length": 1.31375,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p257_032": {
+  "p_id": "257",
+  "utt_name": "p257_032",
+  "noisy_wav": "{noisy_root}/p257_032_16k.wav",
+  "clean_wav": "{clean_root}/p257_032_16k.wav",
+  "length": 3.025625,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p257_033": {
+  "p_id": "257",
+  "utt_name": "p257_033",
+  "noisy_wav": "{noisy_root}/p257_033_16k.wav",
+  "clean_wav": "{clean_root}/p257_033_16k.wav",
+  "length": 1.7594375,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p257_034": {
+  "p_id": "257",
+  "utt_name": "p257_034",
+  "noisy_wav": "{noisy_root}/p257_034_16k.wav",
+  "clean_wav": "{clean_root}/p257_034_16k.wav",
+  "length": 1.9104375,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p257_035": {
+  "p_id": "257",
+  "utt_name": "p257_035",
+  "noisy_wav": "{noisy_root}/p257_035_16k.wav",
+  "clean_wav": "{clean_root}/p257_035_16k.wav",
+  "length": 3.28025,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p257_036": {
+  "p_id": "257",
+  "utt_name": "p257_036",
+  "noisy_wav": "{noisy_root}/p257_036_16k.wav",
+  "clean_wav": "{clean_root}/p257_036_16k.wav",
+  "length": 1.7859375,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p257_037": {
+  "p_id": "257",
+  "utt_name": "p257_037",
+  "noisy_wav": "{noisy_root}/p257_037_16k.wav",
+  "clean_wav": "{clean_root}/p257_037_16k.wav",
+  "length": 1.455125,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p257_038": {
+  "p_id": "257",
+  "utt_name": "p257_038",
+  "noisy_wav": "{noisy_root}/p257_038_16k.wav",
+  "clean_wav": "{clean_root}/p257_038_16k.wav",
+  "length": 3.269,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p257_039": {
+  "p_id": "257",
+  "utt_name": "p257_039",
+  "noisy_wav": "{noisy_root}/p257_039_16k.wav",
+  "clean_wav": "{clean_root}/p257_039_16k.wav",
+  "length": 2.6615625,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p257_040": {
+  "p_id": "257",
+  "utt_name": "p257_040",
+  "noisy_wav": "{noisy_root}/p257_040_16k.wav",
+  "clean_wav": "{clean_root}/p257_040_16k.wav",
+  "length": 2.6685,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p257_041": {
+  "p_id": "257",
+  "utt_name": "p257_041",
+  "noisy_wav": "{noisy_root}/p257_041_16k.wav",
+  "clean_wav": "{clean_root}/p257_041_16k.wav",
+  "length": 1.7115625,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p257_042": {
+  "p_id": "257",
+  "utt_name": "p257_042",
+  "noisy_wav": "{noisy_root}/p257_042_16k.wav",
+  "clean_wav": "{clean_root}/p257_042_16k.wav",
+  "length": 1.839875,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p257_043": {
+  "p_id": "257",
+  "utt_name": "p257_043",
+  "noisy_wav": "{noisy_root}/p257_043_16k.wav",
+  "clean_wav": "{clean_root}/p257_043_16k.wav",
+  "length": 2.077375,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p257_044": {
+  "p_id": "257",
+  "utt_name": "p257_044",
+  "noisy_wav": "{noisy_root}/p257_044_16k.wav",
+  "clean_wav": "{clean_root}/p257_044_16k.wav",
+  "length": 1.793875,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p257_045": {
+  "p_id": "257",
+  "utt_name": "p257_045",
+  "noisy_wav": "{noisy_root}/p257_045_16k.wav",
+  "clean_wav": "{clean_root}/p257_045_16k.wav",
+  "length": 1.625,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p257_046": {
+  "p_id": "257",
+  "utt_name": "p257_046",
+  "noisy_wav": "{noisy_root}/p257_046_16k.wav",
+  "clean_wav": "{clean_root}/p257_046_16k.wav",
+  "length": 1.541375,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p257_047": {
+  "p_id": "257",
+  "utt_name": "p257_047",
+  "noisy_wav": "{noisy_root}/p257_047_16k.wav",
+  "clean_wav": "{clean_root}/p257_047_16k.wav",
+  "length": 2.694,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p257_048": {
+  "p_id": "257",
+  "utt_name": "p257_048",
+  "noisy_wav": "{noisy_root}/p257_048_16k.wav",
+  "clean_wav": "{clean_root}/p257_048_16k.wav",
+  "length": 1.6825,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p257_049": {
+  "p_id": "257",
+  "utt_name": "p257_049",
+  "noisy_wav": "{noisy_root}/p257_049_16k.wav",
+  "clean_wav": "{clean_root}/p257_049_16k.wav",
+  "length": 3.1489375,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p257_050": {
+  "p_id": "257",
+  "utt_name": "p257_050",
+  "noisy_wav": "{noisy_root}/p257_050_16k.wav",
+  "clean_wav": "{clean_root}/p257_050_16k.wav",
+  "length": 1.9215,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p257_051": {
+  "p_id": "257",
+  "utt_name": "p257_051",
+  "noisy_wav": "{noisy_root}/p257_051_16k.wav",
+  "clean_wav": "{clean_root}/p257_051_16k.wav",
+  "length": 2.9038125,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p257_052": {
+  "p_id": "257",
+  "utt_name": "p257_052",
+  "noisy_wav": "{noisy_root}/p257_052_16k.wav",
+  "clean_wav": "{clean_root}/p257_052_16k.wav",
+  "length": 2.03,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p257_053": {
+  "p_id": "257",
+  "utt_name": "p257_053",
+  "noisy_wav": "{noisy_root}/p257_053_16k.wav",
+  "clean_wav": "{clean_root}/p257_053_16k.wav",
+  "length": 2.538625,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p257_054": {
+  "p_id": "257",
+  "utt_name": "p257_054",
+  "noisy_wav": "{noisy_root}/p257_054_16k.wav",
+  "clean_wav": "{clean_root}/p257_054_16k.wav",
+  "length": 2.15925,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p257_055": {
+  "p_id": "257",
+  "utt_name": "p257_055",
+  "noisy_wav": "{noisy_root}/p257_055_16k.wav",
+  "clean_wav": "{clean_root}/p257_055_16k.wav",
+  "length": 2.4968125,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p257_056": {
+  "p_id": "257",
+  "utt_name": "p257_056",
+  "noisy_wav": "{noisy_root}/p257_056_16k.wav",
+  "clean_wav": "{clean_root}/p257_056_16k.wav",
+  "length": 1.4705625,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p257_057": {
+  "p_id": "257",
+  "utt_name": "p257_057",
+  "noisy_wav": "{noisy_root}/p257_057_16k.wav",
+  "clean_wav": "{clean_root}/p257_057_16k.wav",
+  "length": 2.9156875,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p257_058": {
+  "p_id": "257",
+  "utt_name": "p257_058",
+  "noisy_wav": "{noisy_root}/p257_058_16k.wav",
+  "clean_wav": "{clean_root}/p257_058_16k.wav",
+  "length": 1.928375,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p257_059": {
+  "p_id": "257",
+  "utt_name": "p257_059",
+  "noisy_wav": "{noisy_root}/p257_059_16k.wav",
+  "clean_wav": "{clean_root}/p257_059_16k.wav",
+  "length": 3.7281875,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p257_060": {
+  "p_id": "257",
+  "utt_name": "p257_060",
+  "noisy_wav": "{noisy_root}/p257_060_16k.wav",
+  "clean_wav": "{clean_root}/p257_060_16k.wav",
+  "length": 1.64,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p257_061": {
+  "p_id": "257",
+  "utt_name": "p257_061",
+  "noisy_wav": "{noisy_root}/p257_061_16k.wav",
+  "clean_wav": "{clean_root}/p257_061_16k.wav",
+  "length": 2.067875,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p257_062": {
+  "p_id": "257",
+  "utt_name": "p257_062",
+  "noisy_wav": "{noisy_root}/p257_062_16k.wav",
+  "clean_wav": "{clean_root}/p257_062_16k.wav",
+  "length": 2.4329375,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p257_063": {
+  "p_id": "257",
+  "utt_name": "p257_063",
+  "noisy_wav": "{noisy_root}/p257_063_16k.wav",
+  "clean_wav": "{clean_root}/p257_063_16k.wav",
+  "length": 2.0545,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p257_064": {
+  "p_id": "257",
+  "utt_name": "p257_064",
+  "noisy_wav": "{noisy_root}/p257_064_16k.wav",
+  "clean_wav": "{clean_root}/p257_064_16k.wav",
+  "length": 2.061875,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p257_065": {
+  "p_id": "257",
+  "utt_name": "p257_065",
+  "noisy_wav": "{noisy_root}/p257_065_16k.wav",
+  "clean_wav": "{clean_root}/p257_065_16k.wav",
+  "length": 2.5888125,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p257_066": {
+  "p_id": "257",
+  "utt_name": "p257_066",
+  "noisy_wav": "{noisy_root}/p257_066_16k.wav",
+  "clean_wav": "{clean_root}/p257_066_16k.wav",
+  "length": 2.71,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p257_067": {
+  "p_id": "257",
+  "utt_name": "p257_067",
+  "noisy_wav": "{noisy_root}/p257_067_16k.wav",
+  "clean_wav": "{clean_root}/p257_067_16k.wav",
+  "length": 1.754125,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p257_068": {
+  "p_id": "257",
+  "utt_name": "p257_068",
+  "noisy_wav": "{noisy_root}/p257_068_16k.wav",
+  "clean_wav": "{clean_root}/p257_068_16k.wav",
+  "length": 1.982375,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p257_069": {
+  "p_id": "257",
+  "utt_name": "p257_069",
+  "noisy_wav": "{noisy_root}/p257_069_16k.wav",
+  "clean_wav": "{clean_root}/p257_069_16k.wav",
+  "length": 2.7894375,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p257_070": {
+  "p_id": "257",
+  "utt_name": "p257_070",
+  "noisy_wav": "{noisy_root}/p257_070_16k.wav",
+  "clean_wav": "{clean_root}/p257_070_16k.wav",
+  "length": 2.3895,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p257_071": {
+  "p_id": "257",
+  "utt_name": "p257_071",
+  "noisy_wav": "{noisy_root}/p257_071_16k.wav",
+  "clean_wav": "{clean_root}/p257_071_16k.wav",
+  "length": 3.7060625,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p257_072": {
+  "p_id": "257",
+  "utt_name": "p257_072",
+  "noisy_wav": "{noisy_root}/p257_072_16k.wav",
+  "clean_wav": "{clean_root}/p257_072_16k.wav",
+  "length": 1.8449375,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p257_073": {
+  "p_id": "257",
+  "utt_name": "p257_073",
+  "noisy_wav": "{noisy_root}/p257_073_16k.wav",
+  "clean_wav": "{clean_root}/p257_073_16k.wav",
+  "length": 2.4585625,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p257_074": {
+  "p_id": "257",
+  "utt_name": "p257_074",
+  "noisy_wav": "{noisy_root}/p257_074_16k.wav",
+  "clean_wav": "{clean_root}/p257_074_16k.wav",
+  "length": 1.7108125,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p257_075": {
+  "p_id": "257",
+  "utt_name": "p257_075",
+  "noisy_wav": "{noisy_root}/p257_075_16k.wav",
+  "clean_wav": "{clean_root}/p257_075_16k.wav",
+  "length": 1.979125,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p257_076": {
+  "p_id": "257",
+  "utt_name": "p257_076",
+  "noisy_wav": "{noisy_root}/p257_076_16k.wav",
+  "clean_wav": "{clean_root}/p257_076_16k.wav",
+  "length": 1.7240625,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p257_077": {
+  "p_id": "257",
+  "utt_name": "p257_077",
+  "noisy_wav": "{noisy_root}/p257_077_16k.wav",
+  "clean_wav": "{clean_root}/p257_077_16k.wav",
+  "length": 2.12,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p257_078": {
+  "p_id": "257",
+  "utt_name": "p257_078",
+  "noisy_wav": "{noisy_root}/p257_078_16k.wav",
+  "clean_wav": "{clean_root}/p257_078_16k.wav",
+  "length": 3.1721875,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p257_079": {
+  "p_id": "257",
+  "utt_name": "p257_079",
+  "noisy_wav": "{noisy_root}/p257_079_16k.wav",
+  "clean_wav": "{clean_root}/p257_079_16k.wav",
+  "length": 2.82125,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p257_080": {
+  "p_id": "257",
+  "utt_name": "p257_080",
+  "noisy_wav": "{noisy_root}/p257_080_16k.wav",
+  "clean_wav": "{clean_root}/p257_080_16k.wav",
+  "length": 3.48425,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p257_081": {
+  "p_id": "257",
+  "utt_name": "p257_081",
+  "noisy_wav": "{noisy_root}/p257_081_16k.wav",
+  "clean_wav": "{clean_root}/p257_081_16k.wav",
+  "length": 1.95,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p257_082": {
+  "p_id": "257",
+  "utt_name": "p257_082",
+  "noisy_wav": "{noisy_root}/p257_082_16k.wav",
+  "clean_wav": "{clean_root}/p257_082_16k.wav",
+  "length": 2.96525,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p257_083": {
+  "p_id": "257",
+  "utt_name": "p257_083",
+  "noisy_wav": "{noisy_root}/p257_083_16k.wav",
+  "clean_wav": "{clean_root}/p257_083_16k.wav",
+  "length": 2.2256875,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p257_084": {
+  "p_id": "257",
+  "utt_name": "p257_084",
+  "noisy_wav": "{noisy_root}/p257_084_16k.wav",
+  "clean_wav": "{clean_root}/p257_084_16k.wav",
+  "length": 2.8831875,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p257_085": {
+  "p_id": "257",
+  "utt_name": "p257_085",
+  "noisy_wav": "{noisy_root}/p257_085_16k.wav",
+  "clean_wav": "{clean_root}/p257_085_16k.wav",
+  "length": 2.526125,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p257_086": {
+  "p_id": "257",
+  "utt_name": "p257_086",
+  "noisy_wav": "{noisy_root}/p257_086_16k.wav",
+  "clean_wav": "{clean_root}/p257_086_16k.wav",
+  "length": 1.5746875,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p257_087": {
+  "p_id": "257",
+  "utt_name": "p257_087",
+  "noisy_wav": "{noisy_root}/p257_087_16k.wav",
+  "clean_wav": "{clean_root}/p257_087_16k.wav",
+  "length": 2.565375,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p257_088": {
+  "p_id": "257",
+  "utt_name": "p257_088",
+  "noisy_wav": "{noisy_root}/p257_088_16k.wav",
+  "clean_wav": "{clean_root}/p257_088_16k.wav",
+  "length": 3.301,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p257_089": {
+  "p_id": "257",
+  "utt_name": "p257_089",
+  "noisy_wav": "{noisy_root}/p257_089_16k.wav",
+  "clean_wav": "{clean_root}/p257_089_16k.wav",
+  "length": 2.889875,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p257_090": {
+  "p_id": "257",
+  "utt_name": "p257_090",
+  "noisy_wav": "{noisy_root}/p257_090_16k.wav",
+  "clean_wav": "{clean_root}/p257_090_16k.wav",
+  "length": 1.886,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p257_091": {
+  "p_id": "257",
+  "utt_name": "p257_091",
+  "noisy_wav": "{noisy_root}/p257_091_16k.wav",
+  "clean_wav": "{clean_root}/p257_091_16k.wav",
+  "length": 1.9136875,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p257_092": {
+  "p_id": "257",
+  "utt_name": "p257_092",
+  "noisy_wav": "{noisy_root}/p257_092_16k.wav",
+  "clean_wav": "{clean_root}/p257_092_16k.wav",
+  "length": 2.8,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p257_093": {
+  "p_id": "257",
+  "utt_name": "p257_093",
+  "noisy_wav": "{noisy_root}/p257_093_16k.wav",
+  "clean_wav": "{clean_root}/p257_093_16k.wav",
+  "length": 1.651125,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p257_094": {
+  "p_id": "257",
+  "utt_name": "p257_094",
+  "noisy_wav": "{noisy_root}/p257_094_16k.wav",
+  "clean_wav": "{clean_root}/p257_094_16k.wav",
+  "length": 2.26,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p257_095": {
+  "p_id": "257",
+  "utt_name": "p257_095",
+  "noisy_wav": "{noisy_root}/p257_095_16k.wav",
+  "clean_wav": "{clean_root}/p257_095_16k.wav",
+  "length": 3.4439375,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p257_096": {
+  "p_id": "257",
+  "utt_name": "p257_096",
+  "noisy_wav": "{noisy_root}/p257_096_16k.wav",
+  "clean_wav": "{clean_root}/p257_096_16k.wav",
+  "length": 2.57,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p257_097": {
+  "p_id": "257",
+  "utt_name": "p257_097",
+  "noisy_wav": "{noisy_root}/p257_097_16k.wav",
+  "clean_wav": "{clean_root}/p257_097_16k.wav",
+  "length": 2.71175,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p257_098": {
+  "p_id": "257",
+  "utt_name": "p257_098",
+  "noisy_wav": "{noisy_root}/p257_098_16k.wav",
+  "clean_wav": "{clean_root}/p257_098_16k.wav",
+  "length": 2.06,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p257_099": {
+  "p_id": "257",
+  "utt_name": "p257_099",
+  "noisy_wav": "{noisy_root}/p257_099_16k.wav",
+  "clean_wav": "{clean_root}/p257_099_16k.wav",
+  "length": 2.7181875,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p257_100": {
+  "p_id": "257",
+  "utt_name": "p257_100",
+  "noisy_wav": "{noisy_root}/p257_100_16k.wav",
+  "clean_wav": "{clean_root}/p257_100_16k.wav",
+  "length": 1.464625,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p257_101": {
+  "p_id": "257",
+  "utt_name": "p257_101",
+  "noisy_wav": "{noisy_root}/p257_101_16k.wav",
+  "clean_wav": "{clean_root}/p257_101_16k.wav",
+  "length": 4.30475,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p257_102": {
+  "p_id": "257",
+  "utt_name": "p257_102",
+  "noisy_wav": "{noisy_root}/p257_102_16k.wav",
+  "clean_wav": "{clean_root}/p257_102_16k.wav",
+  "length": 2.5924375,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p257_103": {
+  "p_id": "257",
+  "utt_name": "p257_103",
+  "noisy_wav": "{noisy_root}/p257_103_16k.wav",
+  "clean_wav": "{clean_root}/p257_103_16k.wav",
+  "length": 1.9989375,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p257_104": {
+  "p_id": "257",
+  "utt_name": "p257_104",
+  "noisy_wav": "{noisy_root}/p257_104_16k.wav",
+  "clean_wav": "{clean_root}/p257_104_16k.wav",
+  "length": 2.11425,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p257_105": {
+  "p_id": "257",
+  "utt_name": "p257_105",
+  "noisy_wav": "{noisy_root}/p257_105_16k.wav",
+  "clean_wav": "{clean_root}/p257_105_16k.wav",
+  "length": 1.96675,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p257_106": {
+  "p_id": "257",
+  "utt_name": "p257_106",
+  "noisy_wav": "{noisy_root}/p257_106_16k.wav",
+  "clean_wav": "{clean_root}/p257_106_16k.wav",
+  "length": 2.5695625,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p257_107": {
+  "p_id": "257",
+  "utt_name": "p257_107",
+  "noisy_wav": "{noisy_root}/p257_107_16k.wav",
+  "clean_wav": "{clean_root}/p257_107_16k.wav",
+  "length": 1.914625,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p257_108": {
+  "p_id": "257",
+  "utt_name": "p257_108",
+  "noisy_wav": "{noisy_root}/p257_108_16k.wav",
+  "clean_wav": "{clean_root}/p257_108_16k.wav",
+  "length": 2.2325625,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p257_109": {
+  "p_id": "257",
+  "utt_name": "p257_109",
+  "noisy_wav": "{noisy_root}/p257_109_16k.wav",
+  "clean_wav": "{clean_root}/p257_109_16k.wav",
+  "length": 2.1146875,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p257_110": {
+  "p_id": "257",
+  "utt_name": "p257_110",
+  "noisy_wav": "{noisy_root}/p257_110_16k.wav",
+  "clean_wav": "{clean_root}/p257_110_16k.wav",
+  "length": 1.5954375,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p257_111": {
+  "p_id": "257",
+  "utt_name": "p257_111",
+  "noisy_wav": "{noisy_root}/p257_111_16k.wav",
+  "clean_wav": "{clean_root}/p257_111_16k.wav",
+  "length": 2.4321875,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p257_112": {
+  "p_id": "257",
+  "utt_name": "p257_112",
+  "noisy_wav": "{noisy_root}/p257_112_16k.wav",
+  "clean_wav": "{clean_root}/p257_112_16k.wav",
+  "length": 2.1338125,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p257_113": {
+  "p_id": "257",
+  "utt_name": "p257_113",
+  "noisy_wav": "{noisy_root}/p257_113_16k.wav",
+  "clean_wav": "{clean_root}/p257_113_16k.wav",
+  "length": 1.69925,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p257_114": {
+  "p_id": "257",
+  "utt_name": "p257_114",
+  "noisy_wav": "{noisy_root}/p257_114_16k.wav",
+  "clean_wav": "{clean_root}/p257_114_16k.wav",
+  "length": 1.6243125,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p257_115": {
+  "p_id": "257",
+  "utt_name": "p257_115",
+  "noisy_wav": "{noisy_root}/p257_115_16k.wav",
+  "clean_wav": "{clean_root}/p257_115_16k.wav",
+  "length": 2.22075,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p257_116": {
+  "p_id": "257",
+  "utt_name": "p257_116",
+  "noisy_wav": "{noisy_root}/p257_116_16k.wav",
+  "clean_wav": "{clean_root}/p257_116_16k.wav",
+  "length": 3.3111875,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p257_117": {
+  "p_id": "257",
+  "utt_name": "p257_117",
+  "noisy_wav": "{noisy_root}/p257_117_16k.wav",
+  "clean_wav": "{clean_root}/p257_117_16k.wav",
+  "length": 2.235375,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p257_118": {
+  "p_id": "257",
+  "utt_name": "p257_118",
+  "noisy_wav": "{noisy_root}/p257_118_16k.wav",
+  "clean_wav": "{clean_root}/p257_118_16k.wav",
+  "length": 3.5286875,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p257_119": {
+  "p_id": "257",
+  "utt_name": "p257_119",
+  "noisy_wav": "{noisy_root}/p257_119_16k.wav",
+  "clean_wav": "{clean_root}/p257_119_16k.wav",
+  "length": 1.966125,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p257_120": {
+  "p_id": "257",
+  "utt_name": "p257_120",
+  "noisy_wav": "{noisy_root}/p257_120_16k.wav",
+  "clean_wav": "{clean_root}/p257_120_16k.wav",
+  "length": 1.4125,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p257_121": {
+  "p_id": "257",
+  "utt_name": "p257_121",
+  "noisy_wav": "{noisy_root}/p257_121_16k.wav",
+  "clean_wav": "{clean_root}/p257_121_16k.wav",
+  "length": 3.30075,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p257_122": {
+  "p_id": "257",
+  "utt_name": "p257_122",
+  "noisy_wav": "{noisy_root}/p257_122_16k.wav",
+  "clean_wav": "{clean_root}/p257_122_16k.wav",
+  "length": 1.4776875,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p257_123": {
+  "p_id": "257",
+  "utt_name": "p257_123",
+  "noisy_wav": "{noisy_root}/p257_123_16k.wav",
+  "clean_wav": "{clean_root}/p257_123_16k.wav",
+  "length": 2.2165625,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p257_124": {
+  "p_id": "257",
+  "utt_name": "p257_124",
+  "noisy_wav": "{noisy_root}/p257_124_16k.wav",
+  "clean_wav": "{clean_root}/p257_124_16k.wav",
+  "length": 1.750375,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p257_125": {
+  "p_id": "257",
+  "utt_name": "p257_125",
+  "noisy_wav": "{noisy_root}/p257_125_16k.wav",
+  "clean_wav": "{clean_root}/p257_125_16k.wav",
+  "length": 1.91,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p257_126": {
+  "p_id": "257",
+  "utt_name": "p257_126",
+  "noisy_wav": "{noisy_root}/p257_126_16k.wav",
+  "clean_wav": "{clean_root}/p257_126_16k.wav",
+  "length": 2.351125,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p257_127": {
+  "p_id": "257",
+  "utt_name": "p257_127",
+  "noisy_wav": "{noisy_root}/p257_127_16k.wav",
+  "clean_wav": "{clean_root}/p257_127_16k.wav",
+  "length": 3.027375,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p257_128": {
+  "p_id": "257",
+  "utt_name": "p257_128",
+  "noisy_wav": "{noisy_root}/p257_128_16k.wav",
+  "clean_wav": "{clean_root}/p257_128_16k.wav",
+  "length": 2.648625,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p257_129": {
+  "p_id": "257",
+  "utt_name": "p257_129",
+  "noisy_wav": "{noisy_root}/p257_129_16k.wav",
+  "clean_wav": "{clean_root}/p257_129_16k.wav",
+  "length": 2.5416875,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p257_130": {
+  "p_id": "257",
+  "utt_name": "p257_130",
+  "noisy_wav": "{noisy_root}/p257_130_16k.wav",
+  "clean_wav": "{clean_root}/p257_130_16k.wav",
+  "length": 3.171,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p257_131": {
+  "p_id": "257",
+  "utt_name": "p257_131",
+  "noisy_wav": "{noisy_root}/p257_131_16k.wav",
+  "clean_wav": "{clean_root}/p257_131_16k.wav",
+  "length": 1.5006875,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p257_132": {
+  "p_id": "257",
+  "utt_name": "p257_132",
+  "noisy_wav": "{noisy_root}/p257_132_16k.wav",
+  "clean_wav": "{clean_root}/p257_132_16k.wav",
+  "length": 3.133,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p257_133": {
+  "p_id": "257",
+  "utt_name": "p257_133",
+  "noisy_wav": "{noisy_root}/p257_133_16k.wav",
+  "clean_wav": "{clean_root}/p257_133_16k.wav",
+  "length": 2.476,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p257_135": {
+  "p_id": "257",
+  "utt_name": "p257_135",
+  "noisy_wav": "{noisy_root}/p257_135_16k.wav",
+  "clean_wav": "{clean_root}/p257_135_16k.wav",
+  "length": 3.480875,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p257_136": {
+  "p_id": "257",
+  "utt_name": "p257_136",
+  "noisy_wav": "{noisy_root}/p257_136_16k.wav",
+  "clean_wav": "{clean_root}/p257_136_16k.wav",
+  "length": 2.2118125,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p257_137": {
+  "p_id": "257",
+  "utt_name": "p257_137",
+  "noisy_wav": "{noisy_root}/p257_137_16k.wav",
+  "clean_wav": "{clean_root}/p257_137_16k.wav",
+  "length": 1.9689375,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p257_138": {
+  "p_id": "257",
+  "utt_name": "p257_138",
+  "noisy_wav": "{noisy_root}/p257_138_16k.wav",
+  "clean_wav": "{clean_root}/p257_138_16k.wav",
+  "length": 1.963625,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p257_139": {
+  "p_id": "257",
+  "utt_name": "p257_139",
+  "noisy_wav": "{noisy_root}/p257_139_16k.wav",
+  "clean_wav": "{clean_root}/p257_139_16k.wav",
+  "length": 1.7641875,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p257_140": {
+  "p_id": "257",
+  "utt_name": "p257_140",
+  "noisy_wav": "{noisy_root}/p257_140_16k.wav",
+  "clean_wav": "{clean_root}/p257_140_16k.wav",
+  "length": 1.88,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p257_141": {
+  "p_id": "257",
+  "utt_name": "p257_141",
+  "noisy_wav": "{noisy_root}/p257_141_16k.wav",
+  "clean_wav": "{clean_root}/p257_141_16k.wav",
+  "length": 2.109125,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p257_142": {
+  "p_id": "257",
+  "utt_name": "p257_142",
+  "noisy_wav": "{noisy_root}/p257_142_16k.wav",
+  "clean_wav": "{clean_root}/p257_142_16k.wav",
+  "length": 3.7466875,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p257_143": {
+  "p_id": "257",
+  "utt_name": "p257_143",
+  "noisy_wav": "{noisy_root}/p257_143_16k.wav",
+  "clean_wav": "{clean_root}/p257_143_16k.wav",
+  "length": 2.520625,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p257_144": {
+  "p_id": "257",
+  "utt_name": "p257_144",
+  "noisy_wav": "{noisy_root}/p257_144_16k.wav",
+  "clean_wav": "{clean_root}/p257_144_16k.wav",
+  "length": 2.799375,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p257_145": {
+  "p_id": "257",
+  "utt_name": "p257_145",
+  "noisy_wav": "{noisy_root}/p257_145_16k.wav",
+  "clean_wav": "{clean_root}/p257_145_16k.wav",
+  "length": 3.370625,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p257_146": {
+  "p_id": "257",
+  "utt_name": "p257_146",
+  "noisy_wav": "{noisy_root}/p257_146_16k.wav",
+  "clean_wav": "{clean_root}/p257_146_16k.wav",
+  "length": 2.0489375,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p257_147": {
+  "p_id": "257",
+  "utt_name": "p257_147",
+  "noisy_wav": "{noisy_root}/p257_147_16k.wav",
+  "clean_wav": "{clean_root}/p257_147_16k.wav",
+  "length": 3.0343125,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p257_148": {
+  "p_id": "257",
+  "utt_name": "p257_148",
+  "noisy_wav": "{noisy_root}/p257_148_16k.wav",
+  "clean_wav": "{clean_root}/p257_148_16k.wav",
+  "length": 1.8509375,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p257_149": {
+  "p_id": "257",
+  "utt_name": "p257_149",
+  "noisy_wav": "{noisy_root}/p257_149_16k.wav",
+  "clean_wav": "{clean_root}/p257_149_16k.wav",
+  "length": 2.47675,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p257_150": {
+  "p_id": "257",
+  "utt_name": "p257_150",
+  "noisy_wav": "{noisy_root}/p257_150_16k.wav",
+  "clean_wav": "{clean_root}/p257_150_16k.wav",
+  "length": 2.1505625,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p257_151": {
+  "p_id": "257",
+  "utt_name": "p257_151",
+  "noisy_wav": "{noisy_root}/p257_151_16k.wav",
+  "clean_wav": "{clean_root}/p257_151_16k.wav",
+  "length": 2.3559375,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p257_152": {
+  "p_id": "257",
+  "utt_name": "p257_152",
+  "noisy_wav": "{noisy_root}/p257_152_16k.wav",
+  "clean_wav": "{clean_root}/p257_152_16k.wav",
+  "length": 1.5698125,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p257_153": {
+  "p_id": "257",
+  "utt_name": "p257_153",
+  "noisy_wav": "{noisy_root}/p257_153_16k.wav",
+  "clean_wav": "{clean_root}/p257_153_16k.wav",
+  "length": 2.1375,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p257_154": {
+  "p_id": "257",
+  "utt_name": "p257_154",
+  "noisy_wav": "{noisy_root}/p257_154_16k.wav",
+  "clean_wav": "{clean_root}/p257_154_16k.wav",
+  "length": 3.3201875,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p257_155": {
+  "p_id": "257",
+  "utt_name": "p257_155",
+  "noisy_wav": "{noisy_root}/p257_155_16k.wav",
+  "clean_wav": "{clean_root}/p257_155_16k.wav",
+  "length": 2.074875,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p257_156": {
+  "p_id": "257",
+  "utt_name": "p257_156",
+  "noisy_wav": "{noisy_root}/p257_156_16k.wav",
+  "clean_wav": "{clean_root}/p257_156_16k.wav",
+  "length": 2.3245,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p257_157": {
+  "p_id": "257",
+  "utt_name": "p257_157",
+  "noisy_wav": "{noisy_root}/p257_157_16k.wav",
+  "clean_wav": "{clean_root}/p257_157_16k.wav",
+  "length": 3.1044375,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p257_158": {
+  "p_id": "257",
+  "utt_name": "p257_158",
+  "noisy_wav": "{noisy_root}/p257_158_16k.wav",
+  "clean_wav": "{clean_root}/p257_158_16k.wav",
+  "length": 1.43575,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p257_159": {
+  "p_id": "257",
+  "utt_name": "p257_159",
+  "noisy_wav": "{noisy_root}/p257_159_16k.wav",
+  "clean_wav": "{clean_root}/p257_159_16k.wav",
+  "length": 1.7626875,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p257_160": {
+  "p_id": "257",
+  "utt_name": "p257_160",
+  "noisy_wav": "{noisy_root}/p257_160_16k.wav",
+  "clean_wav": "{clean_root}/p257_160_16k.wav",
+  "length": 2.51975,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p257_161": {
+  "p_id": "257",
+  "utt_name": "p257_161",
+  "noisy_wav": "{noisy_root}/p257_161_16k.wav",
+  "clean_wav": "{clean_root}/p257_161_16k.wav",
+  "length": 2.1730625,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p257_162": {
+  "p_id": "257",
+  "utt_name": "p257_162",
+  "noisy_wav": "{noisy_root}/p257_162_16k.wav",
+  "clean_wav": "{clean_root}/p257_162_16k.wav",
+  "length": 3.0155,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p257_163": {
+  "p_id": "257",
+  "utt_name": "p257_163",
+  "noisy_wav": "{noisy_root}/p257_163_16k.wav",
+  "clean_wav": "{clean_root}/p257_163_16k.wav",
+  "length": 2.2461875,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p257_164": {
+  "p_id": "257",
+  "utt_name": "p257_164",
+  "noisy_wav": "{noisy_root}/p257_164_16k.wav",
+  "clean_wav": "{clean_root}/p257_164_16k.wav",
+  "length": 3.41725,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p257_165": {
+  "p_id": "257",
+  "utt_name": "p257_165",
+  "noisy_wav": "{noisy_root}/p257_165_16k.wav",
+  "clean_wav": "{clean_root}/p257_165_16k.wav",
+  "length": 1.7328125,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p257_166": {
+  "p_id": "257",
+  "utt_name": "p257_166",
+  "noisy_wav": "{noisy_root}/p257_166_16k.wav",
+  "clean_wav": "{clean_root}/p257_166_16k.wav",
+  "length": 2.275875,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p257_167": {
+  "p_id": "257",
+  "utt_name": "p257_167",
+  "noisy_wav": "{noisy_root}/p257_167_16k.wav",
+  "clean_wav": "{clean_root}/p257_167_16k.wav",
+  "length": 2.709125,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p257_168": {
+  "p_id": "257",
+  "utt_name": "p257_168",
+  "noisy_wav": "{noisy_root}/p257_168_16k.wav",
+  "clean_wav": "{clean_root}/p257_168_16k.wav",
+  "length": 3.157125,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p257_169": {
+  "p_id": "257",
+  "utt_name": "p257_169",
+  "noisy_wav": "{noisy_root}/p257_169_16k.wav",
+  "clean_wav": "{clean_root}/p257_169_16k.wav",
+  "length": 2.5264375,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p257_170": {
+  "p_id": "257",
+  "utt_name": "p257_170",
+  "noisy_wav": "{noisy_root}/p257_170_16k.wav",
+  "clean_wav": "{clean_root}/p257_170_16k.wav",
+  "length": 2.0735,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p257_171": {
+  "p_id": "257",
+  "utt_name": "p257_171",
+  "noisy_wav": "{noisy_root}/p257_171_16k.wav",
+  "clean_wav": "{clean_root}/p257_171_16k.wav",
+  "length": 2.0493125,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p257_172": {
+  "p_id": "257",
+  "utt_name": "p257_172",
+  "noisy_wav": "{noisy_root}/p257_172_16k.wav",
+  "clean_wav": "{clean_root}/p257_172_16k.wav",
+  "length": 2.362875,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p257_173": {
+  "p_id": "257",
+  "utt_name": "p257_173",
+  "noisy_wav": "{noisy_root}/p257_173_16k.wav",
+  "clean_wav": "{clean_root}/p257_173_16k.wav",
+  "length": 2.3560625,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p257_174": {
+  "p_id": "257",
+  "utt_name": "p257_174",
+  "noisy_wav": "{noisy_root}/p257_174_16k.wav",
+  "clean_wav": "{clean_root}/p257_174_16k.wav",
+  "length": 2.361125,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p257_175": {
+  "p_id": "257",
+  "utt_name": "p257_175",
+  "noisy_wav": "{noisy_root}/p257_175_16k.wav",
+  "clean_wav": "{clean_root}/p257_175_16k.wav",
+  "length": 3.3665625,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p257_176": {
+  "p_id": "257",
+  "utt_name": "p257_176",
+  "noisy_wav": "{noisy_root}/p257_176_16k.wav",
+  "clean_wav": "{clean_root}/p257_176_16k.wav",
+  "length": 1.963,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p257_177": {
+  "p_id": "257",
+  "utt_name": "p257_177",
+  "noisy_wav": "{noisy_root}/p257_177_16k.wav",
+  "clean_wav": "{clean_root}/p257_177_16k.wav",
+  "length": 2.651375,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p257_178": {
+  "p_id": "257",
+  "utt_name": "p257_178",
+  "noisy_wav": "{noisy_root}/p257_178_16k.wav",
+  "clean_wav": "{clean_root}/p257_178_16k.wav",
+  "length": 3.30425,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p257_179": {
+  "p_id": "257",
+  "utt_name": "p257_179",
+  "noisy_wav": "{noisy_root}/p257_179_16k.wav",
+  "clean_wav": "{clean_root}/p257_179_16k.wav",
+  "length": 1.9405,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p257_180": {
+  "p_id": "257",
+  "utt_name": "p257_180",
+  "noisy_wav": "{noisy_root}/p257_180_16k.wav",
+  "clean_wav": "{clean_root}/p257_180_16k.wav",
+  "length": 1.95,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p257_181": {
+  "p_id": "257",
+  "utt_name": "p257_181",
+  "noisy_wav": "{noisy_root}/p257_181_16k.wav",
+  "clean_wav": "{clean_root}/p257_181_16k.wav",
+  "length": 2.1963125,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p257_182": {
+  "p_id": "257",
+  "utt_name": "p257_182",
+  "noisy_wav": "{noisy_root}/p257_182_16k.wav",
+  "clean_wav": "{clean_root}/p257_182_16k.wav",
+  "length": 2.2905,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p257_183": {
+  "p_id": "257",
+  "utt_name": "p257_183",
+  "noisy_wav": "{noisy_root}/p257_183_16k.wav",
+  "clean_wav": "{clean_root}/p257_183_16k.wav",
+  "length": 1.6146875,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p257_184": {
+  "p_id": "257",
+  "utt_name": "p257_184",
+  "noisy_wav": "{noisy_root}/p257_184_16k.wav",
+  "clean_wav": "{clean_root}/p257_184_16k.wav",
+  "length": 3.147625,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p257_185": {
+  "p_id": "257",
+  "utt_name": "p257_185",
+  "noisy_wav": "{noisy_root}/p257_185_16k.wav",
+  "clean_wav": "{clean_root}/p257_185_16k.wav",
+  "length": 2.2473125,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p257_186": {
+  "p_id": "257",
+  "utt_name": "p257_186",
+  "noisy_wav": "{noisy_root}/p257_186_16k.wav",
+  "clean_wav": "{clean_root}/p257_186_16k.wav",
+  "length": 3.901375,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p257_187": {
+  "p_id": "257",
+  "utt_name": "p257_187",
+  "noisy_wav": "{noisy_root}/p257_187_16k.wav",
+  "clean_wav": "{clean_root}/p257_187_16k.wav",
+  "length": 1.6746875,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p257_188": {
+  "p_id": "257",
+  "utt_name": "p257_188",
+  "noisy_wav": "{noisy_root}/p257_188_16k.wav",
+  "clean_wav": "{clean_root}/p257_188_16k.wav",
+  "length": 3.0708125,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p257_189": {
+  "p_id": "257",
+  "utt_name": "p257_189",
+  "noisy_wav": "{noisy_root}/p257_189_16k.wav",
+  "clean_wav": "{clean_root}/p257_189_16k.wav",
+  "length": 2.234625,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p257_190": {
+  "p_id": "257",
+  "utt_name": "p257_190",
+  "noisy_wav": "{noisy_root}/p257_190_16k.wav",
+  "clean_wav": "{clean_root}/p257_190_16k.wav",
+  "length": 2.2360625,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p257_191": {
+  "p_id": "257",
+  "utt_name": "p257_191",
+  "noisy_wav": "{noisy_root}/p257_191_16k.wav",
+  "clean_wav": "{clean_root}/p257_191_16k.wav",
+  "length": 2.985125,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p257_192": {
+  "p_id": "257",
+  "utt_name": "p257_192",
+  "noisy_wav": "{noisy_root}/p257_192_16k.wav",
+  "clean_wav": "{clean_root}/p257_192_16k.wav",
+  "length": 1.6256875,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p257_193": {
+  "p_id": "257",
+  "utt_name": "p257_193",
+  "noisy_wav": "{noisy_root}/p257_193_16k.wav",
+  "clean_wav": "{clean_root}/p257_193_16k.wav",
+  "length": 2.558875,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p257_194": {
+  "p_id": "257",
+  "utt_name": "p257_194",
+  "noisy_wav": "{noisy_root}/p257_194_16k.wav",
+  "clean_wav": "{clean_root}/p257_194_16k.wav",
+  "length": 2.633,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p257_195": {
+  "p_id": "257",
+  "utt_name": "p257_195",
+  "noisy_wav": "{noisy_root}/p257_195_16k.wav",
+  "clean_wav": "{clean_root}/p257_195_16k.wav",
+  "length": 1.9099375,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p257_196": {
+  "p_id": "257",
+  "utt_name": "p257_196",
+  "noisy_wav": "{noisy_root}/p257_196_16k.wav",
+  "clean_wav": "{clean_root}/p257_196_16k.wav",
+  "length": 3.130125,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p257_197": {
+  "p_id": "257",
+  "utt_name": "p257_197",
+  "noisy_wav": "{noisy_root}/p257_197_16k.wav",
+  "clean_wav": "{clean_root}/p257_197_16k.wav",
+  "length": 1.6645,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p257_198": {
+  "p_id": "257",
+  "utt_name": "p257_198",
+  "noisy_wav": "{noisy_root}/p257_198_16k.wav",
+  "clean_wav": "{clean_root}/p257_198_16k.wav",
+  "length": 3.0601875,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p257_199": {
+  "p_id": "257",
+  "utt_name": "p257_199",
+  "noisy_wav": "{noisy_root}/p257_199_16k.wav",
+  "clean_wav": "{clean_root}/p257_199_16k.wav",
+  "length": 4.22525,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p257_200": {
+  "p_id": "257",
+  "utt_name": "p257_200",
+  "noisy_wav": "{noisy_root}/p257_200_16k.wav",
+  "clean_wav": "{clean_root}/p257_200_16k.wav",
+  "length": 2.3065,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p257_201": {
+  "p_id": "257",
+  "utt_name": "p257_201",
+  "noisy_wav": "{noisy_root}/p257_201_16k.wav",
+  "clean_wav": "{clean_root}/p257_201_16k.wav",
+  "length": 2.117,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p257_202": {
+  "p_id": "257",
+  "utt_name": "p257_202",
+  "noisy_wav": "{noisy_root}/p257_202_16k.wav",
+  "clean_wav": "{clean_root}/p257_202_16k.wav",
+  "length": 3.0,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p257_203": {
+  "p_id": "257",
+  "utt_name": "p257_203",
+  "noisy_wav": "{noisy_root}/p257_203_16k.wav",
+  "clean_wav": "{clean_root}/p257_203_16k.wav",
+  "length": 2.039625,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p257_204": {
+  "p_id": "257",
+  "utt_name": "p257_204",
+  "noisy_wav": "{noisy_root}/p257_204_16k.wav",
+  "clean_wav": "{clean_root}/p257_204_16k.wav",
+  "length": 1.5891875,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p257_205": {
+  "p_id": "257",
+  "utt_name": "p257_205",
+  "noisy_wav": "{noisy_root}/p257_205_16k.wav",
+  "clean_wav": "{clean_root}/p257_205_16k.wav",
+  "length": 2.25,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p257_206": {
+  "p_id": "257",
+  "utt_name": "p257_206",
+  "noisy_wav": "{noisy_root}/p257_206_16k.wav",
+  "clean_wav": "{clean_root}/p257_206_16k.wav",
+  "length": 2.96625,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p257_207": {
+  "p_id": "257",
+  "utt_name": "p257_207",
+  "noisy_wav": "{noisy_root}/p257_207_16k.wav",
+  "clean_wav": "{clean_root}/p257_207_16k.wav",
+  "length": 3.5298125,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p257_208": {
+  "p_id": "257",
+  "utt_name": "p257_208",
+  "noisy_wav": "{noisy_root}/p257_208_16k.wav",
+  "clean_wav": "{clean_root}/p257_208_16k.wav",
+  "length": 1.7515625,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p257_209": {
+  "p_id": "257",
+  "utt_name": "p257_209",
+  "noisy_wav": "{noisy_root}/p257_209_16k.wav",
+  "clean_wav": "{clean_root}/p257_209_16k.wav",
+  "length": 1.8186875,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p257_210": {
+  "p_id": "257",
+  "utt_name": "p257_210",
+  "noisy_wav": "{noisy_root}/p257_210_16k.wav",
+  "clean_wav": "{clean_root}/p257_210_16k.wav",
+  "length": 2.5125625,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p257_211": {
+  "p_id": "257",
+  "utt_name": "p257_211",
+  "noisy_wav": "{noisy_root}/p257_211_16k.wav",
+  "clean_wav": "{clean_root}/p257_211_16k.wav",
+  "length": 1.9239375,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p257_212": {
+  "p_id": "257",
+  "utt_name": "p257_212",
+  "noisy_wav": "{noisy_root}/p257_212_16k.wav",
+  "clean_wav": "{clean_root}/p257_212_16k.wav",
+  "length": 2.57825,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p257_213": {
+  "p_id": "257",
+  "utt_name": "p257_213",
+  "noisy_wav": "{noisy_root}/p257_213_16k.wav",
+  "clean_wav": "{clean_root}/p257_213_16k.wav",
+  "length": 1.6984375,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p257_214": {
+  "p_id": "257",
+  "utt_name": "p257_214",
+  "noisy_wav": "{noisy_root}/p257_214_16k.wav",
+  "clean_wav": "{clean_root}/p257_214_16k.wav",
+  "length": 2.60625,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p257_215": {
+  "p_id": "257",
+  "utt_name": "p257_215",
+  "noisy_wav": "{noisy_root}/p257_215_16k.wav",
+  "clean_wav": "{clean_root}/p257_215_16k.wav",
+  "length": 1.9528125,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p257_216": {
+  "p_id": "257",
+  "utt_name": "p257_216",
+  "noisy_wav": "{noisy_root}/p257_216_16k.wav",
+  "clean_wav": "{clean_root}/p257_216_16k.wav",
+  "length": 3.13825,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p257_217": {
+  "p_id": "257",
+  "utt_name": "p257_217",
+  "noisy_wav": "{noisy_root}/p257_217_16k.wav",
+  "clean_wav": "{clean_root}/p257_217_16k.wav",
+  "length": 2.7355625,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p257_218": {
+  "p_id": "257",
+  "utt_name": "p257_218",
+  "noisy_wav": "{noisy_root}/p257_218_16k.wav",
+  "clean_wav": "{clean_root}/p257_218_16k.wav",
+  "length": 2.268375,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p257_219": {
+  "p_id": "257",
+  "utt_name": "p257_219",
+  "noisy_wav": "{noisy_root}/p257_219_16k.wav",
+  "clean_wav": "{clean_root}/p257_219_16k.wav",
+  "length": 3.0325625,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p257_220": {
+  "p_id": "257",
+  "utt_name": "p257_220",
+  "noisy_wav": "{noisy_root}/p257_220_16k.wav",
+  "clean_wav": "{clean_root}/p257_220_16k.wav",
+  "length": 1.846625,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p257_221": {
+  "p_id": "257",
+  "utt_name": "p257_221",
+  "noisy_wav": "{noisy_root}/p257_221_16k.wav",
+  "clean_wav": "{clean_root}/p257_221_16k.wav",
+  "length": 2.0295,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p257_222": {
+  "p_id": "257",
+  "utt_name": "p257_222",
+  "noisy_wav": "{noisy_root}/p257_222_16k.wav",
+  "clean_wav": "{clean_root}/p257_222_16k.wav",
+  "length": 2.321,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p257_223": {
+  "p_id": "257",
+  "utt_name": "p257_223",
+  "noisy_wav": "{noisy_root}/p257_223_16k.wav",
+  "clean_wav": "{clean_root}/p257_223_16k.wav",
+  "length": 4.2505625,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p257_224": {
+  "p_id": "257",
+  "utt_name": "p257_224",
+  "noisy_wav": "{noisy_root}/p257_224_16k.wav",
+  "clean_wav": "{clean_root}/p257_224_16k.wav",
+  "length": 3.07475,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p257_225": {
+  "p_id": "257",
+  "utt_name": "p257_225",
+  "noisy_wav": "{noisy_root}/p257_225_16k.wav",
+  "clean_wav": "{clean_root}/p257_225_16k.wav",
+  "length": 2.2778125,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p257_226": {
+  "p_id": "257",
+  "utt_name": "p257_226",
+  "noisy_wav": "{noisy_root}/p257_226_16k.wav",
+  "clean_wav": "{clean_root}/p257_226_16k.wav",
+  "length": 1.9841875,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p257_227": {
+  "p_id": "257",
+  "utt_name": "p257_227",
+  "noisy_wav": "{noisy_root}/p257_227_16k.wav",
+  "clean_wav": "{clean_root}/p257_227_16k.wav",
+  "length": 1.754,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p257_228": {
+  "p_id": "257",
+  "utt_name": "p257_228",
+  "noisy_wav": "{noisy_root}/p257_228_16k.wav",
+  "clean_wav": "{clean_root}/p257_228_16k.wav",
+  "length": 1.62275,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p257_229": {
+  "p_id": "257",
+  "utt_name": "p257_229",
+  "noisy_wav": "{noisy_root}/p257_229_16k.wav",
+  "clean_wav": "{clean_root}/p257_229_16k.wav",
+  "length": 2.1916875,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p257_230": {
+  "p_id": "257",
+  "utt_name": "p257_230",
+  "noisy_wav": "{noisy_root}/p257_230_16k.wav",
+  "clean_wav": "{clean_root}/p257_230_16k.wav",
+  "length": 3.26225,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p257_231": {
+  "p_id": "257",
+  "utt_name": "p257_231",
+  "noisy_wav": "{noisy_root}/p257_231_16k.wav",
+  "clean_wav": "{clean_root}/p257_231_16k.wav",
+  "length": 3.1586875,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p257_232": {
+  "p_id": "257",
+  "utt_name": "p257_232",
+  "noisy_wav": "{noisy_root}/p257_232_16k.wav",
+  "clean_wav": "{clean_root}/p257_232_16k.wav",
+  "length": 3.7451875,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p257_233": {
+  "p_id": "257",
+  "utt_name": "p257_233",
+  "noisy_wav": "{noisy_root}/p257_233_16k.wav",
+  "clean_wav": "{clean_root}/p257_233_16k.wav",
+  "length": 2.393625,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p257_234": {
+  "p_id": "257",
+  "utt_name": "p257_234",
+  "noisy_wav": "{noisy_root}/p257_234_16k.wav",
+  "clean_wav": "{clean_root}/p257_234_16k.wav",
+  "length": 3.46375,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p257_235": {
+  "p_id": "257",
+  "utt_name": "p257_235",
+  "noisy_wav": "{noisy_root}/p257_235_16k.wav",
+  "clean_wav": "{clean_root}/p257_235_16k.wav",
+  "length": 2.253125,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p257_236": {
+  "p_id": "257",
+  "utt_name": "p257_236",
+  "noisy_wav": "{noisy_root}/p257_236_16k.wav",
+  "clean_wav": "{clean_root}/p257_236_16k.wav",
+  "length": 3.5586875,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p257_237": {
+  "p_id": "257",
+  "utt_name": "p257_237",
+  "noisy_wav": "{noisy_root}/p257_237_16k.wav",
+  "clean_wav": "{clean_root}/p257_237_16k.wav",
+  "length": 3.3356875,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p257_238": {
+  "p_id": "257",
+  "utt_name": "p257_238",
+  "noisy_wav": "{noisy_root}/p257_238_16k.wav",
+  "clean_wav": "{clean_root}/p257_238_16k.wav",
+  "length": 2.1140625,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p257_239": {
+  "p_id": "257",
+  "utt_name": "p257_239",
+  "noisy_wav": "{noisy_root}/p257_239_16k.wav",
+  "clean_wav": "{clean_root}/p257_239_16k.wav",
+  "length": 1.9970625,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p257_240": {
+  "p_id": "257",
+  "utt_name": "p257_240",
+  "noisy_wav": "{noisy_root}/p257_240_16k.wav",
+  "clean_wav": "{clean_root}/p257_240_16k.wav",
+  "length": 2.929625,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p257_241": {
+  "p_id": "257",
+  "utt_name": "p257_241",
+  "noisy_wav": "{noisy_root}/p257_241_16k.wav",
+  "clean_wav": "{clean_root}/p257_241_16k.wav",
+  "length": 1.612,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p257_242": {
+  "p_id": "257",
+  "utt_name": "p257_242",
+  "noisy_wav": "{noisy_root}/p257_242_16k.wav",
+  "clean_wav": "{clean_root}/p257_242_16k.wav",
+  "length": 3.0648125,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p257_243": {
+  "p_id": "257",
+  "utt_name": "p257_243",
+  "noisy_wav": "{noisy_root}/p257_243_16k.wav",
+  "clean_wav": "{clean_root}/p257_243_16k.wav",
+  "length": 2.172,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p257_244": {
+  "p_id": "257",
+  "utt_name": "p257_244",
+  "noisy_wav": "{noisy_root}/p257_244_16k.wav",
+  "clean_wav": "{clean_root}/p257_244_16k.wav",
+  "length": 2.6076875,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p257_245": {
+  "p_id": "257",
+  "utt_name": "p257_245",
+  "noisy_wav": "{noisy_root}/p257_245_16k.wav",
+  "clean_wav": "{clean_root}/p257_245_16k.wav",
+  "length": 2.830375,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p257_246": {
+  "p_id": "257",
+  "utt_name": "p257_246",
+  "noisy_wav": "{noisy_root}/p257_246_16k.wav",
+  "clean_wav": "{clean_root}/p257_246_16k.wav",
+  "length": 2.6690625,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p257_247": {
+  "p_id": "257",
+  "utt_name": "p257_247",
+  "noisy_wav": "{noisy_root}/p257_247_16k.wav",
+  "clean_wav": "{clean_root}/p257_247_16k.wav",
+  "length": 3.0899375,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p257_248": {
+  "p_id": "257",
+  "utt_name": "p257_248",
+  "noisy_wav": "{noisy_root}/p257_248_16k.wav",
+  "clean_wav": "{clean_root}/p257_248_16k.wav",
+  "length": 3.139125,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p257_249": {
+  "p_id": "257",
+  "utt_name": "p257_249",
+  "noisy_wav": "{noisy_root}/p257_249_16k.wav",
+  "clean_wav": "{clean_root}/p257_249_16k.wav",
+  "length": 1.602875,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p257_250": {
+  "p_id": "257",
+  "utt_name": "p257_250",
+  "noisy_wav": "{noisy_root}/p257_250_16k.wav",
+  "clean_wav": "{clean_root}/p257_250_16k.wav",
+  "length": 2.57375,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p257_251": {
+  "p_id": "257",
+  "utt_name": "p257_251",
+  "noisy_wav": "{noisy_root}/p257_251_16k.wav",
+  "clean_wav": "{clean_root}/p257_251_16k.wav",
+  "length": 3.04925,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p257_252": {
+  "p_id": "257",
+  "utt_name": "p257_252",
+  "noisy_wav": "{noisy_root}/p257_252_16k.wav",
+  "clean_wav": "{clean_root}/p257_252_16k.wav",
+  "length": 2.107875,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p257_253": {
+  "p_id": "257",
+  "utt_name": "p257_253",
+  "noisy_wav": "{noisy_root}/p257_253_16k.wav",
+  "clean_wav": "{clean_root}/p257_253_16k.wav",
+  "length": 2.81175,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p257_254": {
+  "p_id": "257",
+  "utt_name": "p257_254",
+  "noisy_wav": "{noisy_root}/p257_254_16k.wav",
+  "clean_wav": "{clean_root}/p257_254_16k.wav",
+  "length": 2.1701875,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p257_255": {
+  "p_id": "257",
+  "utt_name": "p257_255",
+  "noisy_wav": "{noisy_root}/p257_255_16k.wav",
+  "clean_wav": "{clean_root}/p257_255_16k.wav",
+  "length": 2.431625,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p257_256": {
+  "p_id": "257",
+  "utt_name": "p257_256",
+  "noisy_wav": "{noisy_root}/p257_256_16k.wav",
+  "clean_wav": "{clean_root}/p257_256_16k.wav",
+  "length": 3.17125,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p257_257": {
+  "p_id": "257",
+  "utt_name": "p257_257",
+  "noisy_wav": "{noisy_root}/p257_257_16k.wav",
+  "clean_wav": "{clean_root}/p257_257_16k.wav",
+  "length": 1.9734375,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p257_258": {
+  "p_id": "257",
+  "utt_name": "p257_258",
+  "noisy_wav": "{noisy_root}/p257_258_16k.wav",
+  "clean_wav": "{clean_root}/p257_258_16k.wav",
+  "length": 3.9575625,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p257_259": {
+  "p_id": "257",
+  "utt_name": "p257_259",
+  "noisy_wav": "{noisy_root}/p257_259_16k.wav",
+  "clean_wav": "{clean_root}/p257_259_16k.wav",
+  "length": 1.4426875,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p257_260": {
+  "p_id": "257",
+  "utt_name": "p257_260",
+  "noisy_wav": "{noisy_root}/p257_260_16k.wav",
+  "clean_wav": "{clean_root}/p257_260_16k.wav",
+  "length": 2.71,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p257_261": {
+  "p_id": "257",
+  "utt_name": "p257_261",
+  "noisy_wav": "{noisy_root}/p257_261_16k.wav",
+  "clean_wav": "{clean_root}/p257_261_16k.wav",
+  "length": 2.6740625,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p257_262": {
+  "p_id": "257",
+  "utt_name": "p257_262",
+  "noisy_wav": "{noisy_root}/p257_262_16k.wav",
+  "clean_wav": "{clean_root}/p257_262_16k.wav",
+  "length": 3.4579375,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p257_263": {
+  "p_id": "257",
+  "utt_name": "p257_263",
+  "noisy_wav": "{noisy_root}/p257_263_16k.wav",
+  "clean_wav": "{clean_root}/p257_263_16k.wav",
+  "length": 2.0496875,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p257_264": {
+  "p_id": "257",
+  "utt_name": "p257_264",
+  "noisy_wav": "{noisy_root}/p257_264_16k.wav",
+  "clean_wav": "{clean_root}/p257_264_16k.wav",
+  "length": 1.4096875,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p257_265": {
+  "p_id": "257",
+  "utt_name": "p257_265",
+  "noisy_wav": "{noisy_root}/p257_265_16k.wav",
+  "clean_wav": "{clean_root}/p257_265_16k.wav",
+  "length": 2.738875,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p257_266": {
+  "p_id": "257",
+  "utt_name": "p257_266",
+  "noisy_wav": "{noisy_root}/p257_266_16k.wav",
+  "clean_wav": "{clean_root}/p257_266_16k.wav",
+  "length": 2.5405,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p257_267": {
+  "p_id": "257",
+  "utt_name": "p257_267",
+  "noisy_wav": "{noisy_root}/p257_267_16k.wav",
+  "clean_wav": "{clean_root}/p257_267_16k.wav",
+  "length": 1.757875,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p257_268": {
+  "p_id": "257",
+  "utt_name": "p257_268",
+  "noisy_wav": "{noisy_root}/p257_268_16k.wav",
+  "clean_wav": "{clean_root}/p257_268_16k.wav",
+  "length": 2.551125,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p257_269": {
+  "p_id": "257",
+  "utt_name": "p257_269",
+  "noisy_wav": "{noisy_root}/p257_269_16k.wav",
+  "clean_wav": "{clean_root}/p257_269_16k.wav",
+  "length": 1.7345,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p257_270": {
+  "p_id": "257",
+  "utt_name": "p257_270",
+  "noisy_wav": "{noisy_root}/p257_270_16k.wav",
+  "clean_wav": "{clean_root}/p257_270_16k.wav",
+  "length": 2.551125,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p257_271": {
+  "p_id": "257",
+  "utt_name": "p257_271",
+  "noisy_wav": "{noisy_root}/p257_271_16k.wav",
+  "clean_wav": "{clean_root}/p257_271_16k.wav",
+  "length": 2.9145625,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p257_272": {
+  "p_id": "257",
+  "utt_name": "p257_272",
+  "noisy_wav": "{noisy_root}/p257_272_16k.wav",
+  "clean_wav": "{clean_root}/p257_272_16k.wav",
+  "length": 1.965875,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p257_273": {
+  "p_id": "257",
+  "utt_name": "p257_273",
+  "noisy_wav": "{noisy_root}/p257_273_16k.wav",
+  "clean_wav": "{clean_root}/p257_273_16k.wav",
+  "length": 2.1233125,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p257_274": {
+  "p_id": "257",
+  "utt_name": "p257_274",
+  "noisy_wav": "{noisy_root}/p257_274_16k.wav",
+  "clean_wav": "{clean_root}/p257_274_16k.wav",
+  "length": 1.83125,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p257_275": {
+  "p_id": "257",
+  "utt_name": "p257_275",
+  "noisy_wav": "{noisy_root}/p257_275_16k.wav",
+  "clean_wav": "{clean_root}/p257_275_16k.wav",
+  "length": 3.107,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p257_276": {
+  "p_id": "257",
+  "utt_name": "p257_276",
+  "noisy_wav": "{noisy_root}/p257_276_16k.wav",
+  "clean_wav": "{clean_root}/p257_276_16k.wav",
+  "length": 2.306875,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p257_277": {
+  "p_id": "257",
+  "utt_name": "p257_277",
+  "noisy_wav": "{noisy_root}/p257_277_16k.wav",
+  "clean_wav": "{clean_root}/p257_277_16k.wav",
+  "length": 2.6209375,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p257_278": {
+  "p_id": "257",
+  "utt_name": "p257_278",
+  "noisy_wav": "{noisy_root}/p257_278_16k.wav",
+  "clean_wav": "{clean_root}/p257_278_16k.wav",
+  "length": 3.1539375,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p257_279": {
+  "p_id": "257",
+  "utt_name": "p257_279",
+  "noisy_wav": "{noisy_root}/p257_279_16k.wav",
+  "clean_wav": "{clean_root}/p257_279_16k.wav",
+  "length": 3.6466875,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p257_280": {
+  "p_id": "257",
+  "utt_name": "p257_280",
+  "noisy_wav": "{noisy_root}/p257_280_16k.wav",
+  "clean_wav": "{clean_root}/p257_280_16k.wav",
+  "length": 2.464625,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p257_281": {
+  "p_id": "257",
+  "utt_name": "p257_281",
+  "noisy_wav": "{noisy_root}/p257_281_16k.wav",
+  "clean_wav": "{clean_root}/p257_281_16k.wav",
+  "length": 1.414,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p257_282": {
+  "p_id": "257",
+  "utt_name": "p257_282",
+  "noisy_wav": "{noisy_root}/p257_282_16k.wav",
+  "clean_wav": "{clean_root}/p257_282_16k.wav",
+  "length": 1.9329375,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p257_283": {
+  "p_id": "257",
+  "utt_name": "p257_283",
+  "noisy_wav": "{noisy_root}/p257_283_16k.wav",
+  "clean_wav": "{clean_root}/p257_283_16k.wav",
+  "length": 2.8213125,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p257_284": {
+  "p_id": "257",
+  "utt_name": "p257_284",
+  "noisy_wav": "{noisy_root}/p257_284_16k.wav",
+  "clean_wav": "{clean_root}/p257_284_16k.wav",
+  "length": 3.2351875,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p257_285": {
+  "p_id": "257",
+  "utt_name": "p257_285",
+  "noisy_wav": "{noisy_root}/p257_285_16k.wav",
+  "clean_wav": "{clean_root}/p257_285_16k.wav",
+  "length": 1.450875,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p257_286": {
+  "p_id": "257",
+  "utt_name": "p257_286",
+  "noisy_wav": "{noisy_root}/p257_286_16k.wav",
+  "clean_wav": "{clean_root}/p257_286_16k.wav",
+  "length": 2.4880625,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p257_287": {
+  "p_id": "257",
+  "utt_name": "p257_287",
+  "noisy_wav": "{noisy_root}/p257_287_16k.wav",
+  "clean_wav": "{clean_root}/p257_287_16k.wav",
+  "length": 1.8923125,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p257_288": {
+  "p_id": "257",
+  "utt_name": "p257_288",
+  "noisy_wav": "{noisy_root}/p257_288_16k.wav",
+  "clean_wav": "{clean_root}/p257_288_16k.wav",
+  "length": 2.83,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p257_289": {
+  "p_id": "257",
+  "utt_name": "p257_289",
+  "noisy_wav": "{noisy_root}/p257_289_16k.wav",
+  "clean_wav": "{clean_root}/p257_289_16k.wav",
+  "length": 2.93,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p257_290": {
+  "p_id": "257",
+  "utt_name": "p257_290",
+  "noisy_wav": "{noisy_root}/p257_290_16k.wav",
+  "clean_wav": "{clean_root}/p257_290_16k.wav",
+  "length": 2.3409375,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p257_291": {
+  "p_id": "257",
+  "utt_name": "p257_291",
+  "noisy_wav": "{noisy_root}/p257_291_16k.wav",
+  "clean_wav": "{clean_root}/p257_291_16k.wav",
+  "length": 1.7,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p257_292": {
+  "p_id": "257",
+  "utt_name": "p257_292",
+  "noisy_wav": "{noisy_root}/p257_292_16k.wav",
+  "clean_wav": "{clean_root}/p257_292_16k.wav",
+  "length": 2.9270625,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p257_293": {
+  "p_id": "257",
+  "utt_name": "p257_293",
+  "noisy_wav": "{noisy_root}/p257_293_16k.wav",
+  "clean_wav": "{clean_root}/p257_293_16k.wav",
+  "length": 2.34925,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p257_294": {
+  "p_id": "257",
+  "utt_name": "p257_294",
+  "noisy_wav": "{noisy_root}/p257_294_16k.wav",
+  "clean_wav": "{clean_root}/p257_294_16k.wav",
+  "length": 1.9976875,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p257_295": {
+  "p_id": "257",
+  "utt_name": "p257_295",
+  "noisy_wav": "{noisy_root}/p257_295_16k.wav",
+  "clean_wav": "{clean_root}/p257_295_16k.wav",
+  "length": 1.697625,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p257_296": {
+  "p_id": "257",
+  "utt_name": "p257_296",
+  "noisy_wav": "{noisy_root}/p257_296_16k.wav",
+  "clean_wav": "{clean_root}/p257_296_16k.wav",
+  "length": 3.0565,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p257_297": {
+  "p_id": "257",
+  "utt_name": "p257_297",
+  "noisy_wav": "{noisy_root}/p257_297_16k.wav",
+  "clean_wav": "{clean_root}/p257_297_16k.wav",
+  "length": 3.3426875,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p257_298": {
+  "p_id": "257",
+  "utt_name": "p257_298",
+  "noisy_wav": "{noisy_root}/p257_298_16k.wav",
+  "clean_wav": "{clean_root}/p257_298_16k.wav",
+  "length": 2.6083125,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p257_299": {
+  "p_id": "257",
+  "utt_name": "p257_299",
+  "noisy_wav": "{noisy_root}/p257_299_16k.wav",
+  "clean_wav": "{clean_root}/p257_299_16k.wav",
+  "length": 3.017625,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p257_300": {
+  "p_id": "257",
+  "utt_name": "p257_300",
+  "noisy_wav": "{noisy_root}/p257_300_16k.wav",
+  "clean_wav": "{clean_root}/p257_300_16k.wav",
+  "length": 1.6656875,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p257_301": {
+  "p_id": "257",
+  "utt_name": "p257_301",
+  "noisy_wav": "{noisy_root}/p257_301_16k.wav",
+  "clean_wav": "{clean_root}/p257_301_16k.wav",
+  "length": 2.60575,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p257_302": {
+  "p_id": "257",
+  "utt_name": "p257_302",
+  "noisy_wav": "{noisy_root}/p257_302_16k.wav",
+  "clean_wav": "{clean_root}/p257_302_16k.wav",
+  "length": 2.3049375,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p257_303": {
+  "p_id": "257",
+  "utt_name": "p257_303",
+  "noisy_wav": "{noisy_root}/p257_303_16k.wav",
+  "clean_wav": "{clean_root}/p257_303_16k.wav",
+  "length": 2.0079375,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p257_304": {
+  "p_id": "257",
+  "utt_name": "p257_304",
+  "noisy_wav": "{noisy_root}/p257_304_16k.wav",
+  "clean_wav": "{clean_root}/p257_304_16k.wav",
+  "length": 1.742625,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p257_305": {
+  "p_id": "257",
+  "utt_name": "p257_305",
+  "noisy_wav": "{noisy_root}/p257_305_16k.wav",
+  "clean_wav": "{clean_root}/p257_305_16k.wav",
+  "length": 1.89275,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p257_306": {
+  "p_id": "257",
+  "utt_name": "p257_306",
+  "noisy_wav": "{noisy_root}/p257_306_16k.wav",
+  "clean_wav": "{clean_root}/p257_306_16k.wav",
+  "length": 1.66625,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p257_307": {
+  "p_id": "257",
+  "utt_name": "p257_307",
+  "noisy_wav": "{noisy_root}/p257_307_16k.wav",
+  "clean_wav": "{clean_root}/p257_307_16k.wav",
+  "length": 3.1325625,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p257_308": {
+  "p_id": "257",
+  "utt_name": "p257_308",
+  "noisy_wav": "{noisy_root}/p257_308_16k.wav",
+  "clean_wav": "{clean_root}/p257_308_16k.wav",
+  "length": 2.325125,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p257_309": {
+  "p_id": "257",
+  "utt_name": "p257_309",
+  "noisy_wav": "{noisy_root}/p257_309_16k.wav",
+  "clean_wav": "{clean_root}/p257_309_16k.wav",
+  "length": 1.7104375,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p257_310": {
+  "p_id": "257",
+  "utt_name": "p257_310",
+  "noisy_wav": "{noisy_root}/p257_310_16k.wav",
+  "clean_wav": "{clean_root}/p257_310_16k.wav",
+  "length": 1.56675,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p257_311": {
+  "p_id": "257",
+  "utt_name": "p257_311",
+  "noisy_wav": "{noisy_root}/p257_311_16k.wav",
+  "clean_wav": "{clean_root}/p257_311_16k.wav",
+  "length": 2.558,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p257_312": {
+  "p_id": "257",
+  "utt_name": "p257_312",
+  "noisy_wav": "{noisy_root}/p257_312_16k.wav",
+  "clean_wav": "{clean_root}/p257_312_16k.wav",
+  "length": 1.7154375,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p257_313": {
+  "p_id": "257",
+  "utt_name": "p257_313",
+  "noisy_wav": "{noisy_root}/p257_313_16k.wav",
+  "clean_wav": "{clean_root}/p257_313_16k.wav",
+  "length": 2.4386875,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p257_314": {
+  "p_id": "257",
+  "utt_name": "p257_314",
+  "noisy_wav": "{noisy_root}/p257_314_16k.wav",
+  "clean_wav": "{clean_root}/p257_314_16k.wav",
+  "length": 3.253625,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p257_315": {
+  "p_id": "257",
+  "utt_name": "p257_315",
+  "noisy_wav": "{noisy_root}/p257_315_16k.wav",
+  "clean_wav": "{clean_root}/p257_315_16k.wav",
+  "length": 1.6681875,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p257_316": {
+  "p_id": "257",
+  "utt_name": "p257_316",
+  "noisy_wav": "{noisy_root}/p257_316_16k.wav",
+  "clean_wav": "{clean_root}/p257_316_16k.wav",
+  "length": 1.8355625,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p257_317": {
+  "p_id": "257",
+  "utt_name": "p257_317",
+  "noisy_wav": "{noisy_root}/p257_317_16k.wav",
+  "clean_wav": "{clean_root}/p257_317_16k.wav",
+  "length": 1.7500625,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p257_318": {
+  "p_id": "257",
+  "utt_name": "p257_318",
+  "noisy_wav": "{noisy_root}/p257_318_16k.wav",
+  "clean_wav": "{clean_root}/p257_318_16k.wav",
+  "length": 2.38,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p257_319": {
+  "p_id": "257",
+  "utt_name": "p257_319",
+  "noisy_wav": "{noisy_root}/p257_319_16k.wav",
+  "clean_wav": "{clean_root}/p257_319_16k.wav",
+  "length": 2.954125,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p257_320": {
+  "p_id": "257",
+  "utt_name": "p257_320",
+  "noisy_wav": "{noisy_root}/p257_320_16k.wav",
+  "clean_wav": "{clean_root}/p257_320_16k.wav",
+  "length": 2.8238125,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p257_321": {
+  "p_id": "257",
+  "utt_name": "p257_321",
+  "noisy_wav": "{noisy_root}/p257_321_16k.wav",
+  "clean_wav": "{clean_root}/p257_321_16k.wav",
+  "length": 1.9553125,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p257_322": {
+  "p_id": "257",
+  "utt_name": "p257_322",
+  "noisy_wav": "{noisy_root}/p257_322_16k.wav",
+  "clean_wav": "{clean_root}/p257_322_16k.wav",
+  "length": 1.8185,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p257_323": {
+  "p_id": "257",
+  "utt_name": "p257_323",
+  "noisy_wav": "{noisy_root}/p257_323_16k.wav",
+  "clean_wav": "{clean_root}/p257_323_16k.wav",
+  "length": 1.738,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p257_324": {
+  "p_id": "257",
+  "utt_name": "p257_324",
+  "noisy_wav": "{noisy_root}/p257_324_16k.wav",
+  "clean_wav": "{clean_root}/p257_324_16k.wav",
+  "length": 3.5205625,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p257_325": {
+  "p_id": "257",
+  "utt_name": "p257_325",
+  "noisy_wav": "{noisy_root}/p257_325_16k.wav",
+  "clean_wav": "{clean_root}/p257_325_16k.wav",
+  "length": 2.0335625,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p257_326": {
+  "p_id": "257",
+  "utt_name": "p257_326",
+  "noisy_wav": "{noisy_root}/p257_326_16k.wav",
+  "clean_wav": "{clean_root}/p257_326_16k.wav",
+  "length": 1.7366875,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p257_327": {
+  "p_id": "257",
+  "utt_name": "p257_327",
+  "noisy_wav": "{noisy_root}/p257_327_16k.wav",
+  "clean_wav": "{clean_root}/p257_327_16k.wav",
+  "length": 1.592125,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p257_328": {
+  "p_id": "257",
+  "utt_name": "p257_328",
+  "noisy_wav": "{noisy_root}/p257_328_16k.wav",
+  "clean_wav": "{clean_root}/p257_328_16k.wav",
+  "length": 1.4516875,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p257_329": {
+  "p_id": "257",
+  "utt_name": "p257_329",
+  "noisy_wav": "{noisy_root}/p257_329_16k.wav",
+  "clean_wav": "{clean_root}/p257_329_16k.wav",
+  "length": 1.574,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p257_330": {
+  "p_id": "257",
+  "utt_name": "p257_330",
+  "noisy_wav": "{noisy_root}/p257_330_16k.wav",
+  "clean_wav": "{clean_root}/p257_330_16k.wav",
+  "length": 2.64875,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p257_331": {
+  "p_id": "257",
+  "utt_name": "p257_331",
+  "noisy_wav": "{noisy_root}/p257_331_16k.wav",
+  "clean_wav": "{clean_root}/p257_331_16k.wav",
+  "length": 2.0765,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p257_332": {
+  "p_id": "257",
+  "utt_name": "p257_332",
+  "noisy_wav": "{noisy_root}/p257_332_16k.wav",
+  "clean_wav": "{clean_root}/p257_332_16k.wav",
+  "length": 2.834375,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p257_333": {
+  "p_id": "257",
+  "utt_name": "p257_333",
+  "noisy_wav": "{noisy_root}/p257_333_16k.wav",
+  "clean_wav": "{clean_root}/p257_333_16k.wav",
+  "length": 2.310625,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p257_334": {
+  "p_id": "257",
+  "utt_name": "p257_334",
+  "noisy_wav": "{noisy_root}/p257_334_16k.wav",
+  "clean_wav": "{clean_root}/p257_334_16k.wav",
+  "length": 2.5190625,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p257_335": {
+  "p_id": "257",
+  "utt_name": "p257_335",
+  "noisy_wav": "{noisy_root}/p257_335_16k.wav",
+  "clean_wav": "{clean_root}/p257_335_16k.wav",
+  "length": 1.58225,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p257_336": {
+  "p_id": "257",
+  "utt_name": "p257_336",
+  "noisy_wav": "{noisy_root}/p257_336_16k.wav",
+  "clean_wav": "{clean_root}/p257_336_16k.wav",
+  "length": 3.19175,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p257_337": {
+  "p_id": "257",
+  "utt_name": "p257_337",
+  "noisy_wav": "{noisy_root}/p257_337_16k.wav",
+  "clean_wav": "{clean_root}/p257_337_16k.wav",
+  "length": 2.109625,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p257_338": {
+  "p_id": "257",
+  "utt_name": "p257_338",
+  "noisy_wav": "{noisy_root}/p257_338_16k.wav",
+  "clean_wav": "{clean_root}/p257_338_16k.wav",
+  "length": 2.6495,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p257_339": {
+  "p_id": "257",
+  "utt_name": "p257_339",
+  "noisy_wav": "{noisy_root}/p257_339_16k.wav",
+  "clean_wav": "{clean_root}/p257_339_16k.wav",
+  "length": 3.273875,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p257_340": {
+  "p_id": "257",
+  "utt_name": "p257_340",
+  "noisy_wav": "{noisy_root}/p257_340_16k.wav",
+  "clean_wav": "{clean_root}/p257_340_16k.wav",
+  "length": 1.8521875,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p257_341": {
+  "p_id": "257",
+  "utt_name": "p257_341",
+  "noisy_wav": "{noisy_root}/p257_341_16k.wav",
+  "clean_wav": "{clean_root}/p257_341_16k.wav",
+  "length": 2.4064375,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p257_342": {
+  "p_id": "257",
+  "utt_name": "p257_342",
+  "noisy_wav": "{noisy_root}/p257_342_16k.wav",
+  "clean_wav": "{clean_root}/p257_342_16k.wav",
+  "length": 1.9975,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p257_343": {
+  "p_id": "257",
+  "utt_name": "p257_343",
+  "noisy_wav": "{noisy_root}/p257_343_16k.wav",
+  "clean_wav": "{clean_root}/p257_343_16k.wav",
+  "length": 2.9839375,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p257_344": {
+  "p_id": "257",
+  "utt_name": "p257_344",
+  "noisy_wav": "{noisy_root}/p257_344_16k.wav",
+  "clean_wav": "{clean_root}/p257_344_16k.wav",
+  "length": 1.89875,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p257_345": {
+  "p_id": "257",
+  "utt_name": "p257_345",
+  "noisy_wav": "{noisy_root}/p257_345_16k.wav",
+  "clean_wav": "{clean_root}/p257_345_16k.wav",
+  "length": 2.935375,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p257_346": {
+  "p_id": "257",
+  "utt_name": "p257_346",
+  "noisy_wav": "{noisy_root}/p257_346_16k.wav",
+  "clean_wav": "{clean_root}/p257_346_16k.wav",
+  "length": 2.2230625,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p257_347": {
+  "p_id": "257",
+  "utt_name": "p257_347",
+  "noisy_wav": "{noisy_root}/p257_347_16k.wav",
+  "clean_wav": "{clean_root}/p257_347_16k.wav",
+  "length": 3.0558125,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p257_348": {
+  "p_id": "257",
+  "utt_name": "p257_348",
+  "noisy_wav": "{noisy_root}/p257_348_16k.wav",
+  "clean_wav": "{clean_root}/p257_348_16k.wav",
+  "length": 2.0423125,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p257_349": {
+  "p_id": "257",
+  "utt_name": "p257_349",
+  "noisy_wav": "{noisy_root}/p257_349_16k.wav",
+  "clean_wav": "{clean_root}/p257_349_16k.wav",
+  "length": 2.627875,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p257_350": {
+  "p_id": "257",
+  "utt_name": "p257_350",
+  "noisy_wav": "{noisy_root}/p257_350_16k.wav",
+  "clean_wav": "{clean_root}/p257_350_16k.wav",
+  "length": 2.7759375,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p257_351": {
+  "p_id": "257",
+  "utt_name": "p257_351",
+  "noisy_wav": "{noisy_root}/p257_351_16k.wav",
+  "clean_wav": "{clean_root}/p257_351_16k.wav",
+  "length": 2.815125,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p257_352": {
+  "p_id": "257",
+  "utt_name": "p257_352",
+  "noisy_wav": "{noisy_root}/p257_352_16k.wav",
+  "clean_wav": "{clean_root}/p257_352_16k.wav",
+  "length": 2.114375,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p257_353": {
+  "p_id": "257",
+  "utt_name": "p257_353",
+  "noisy_wav": "{noisy_root}/p257_353_16k.wav",
+  "clean_wav": "{clean_root}/p257_353_16k.wav",
+  "length": 1.641125,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p257_354": {
+  "p_id": "257",
+  "utt_name": "p257_354",
+  "noisy_wav": "{noisy_root}/p257_354_16k.wav",
+  "clean_wav": "{clean_root}/p257_354_16k.wav",
+  "length": 2.0508125,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p257_355": {
+  "p_id": "257",
+  "utt_name": "p257_355",
+  "noisy_wav": "{noisy_root}/p257_355_16k.wav",
+  "clean_wav": "{clean_root}/p257_355_16k.wav",
+  "length": 1.952,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p257_356": {
+  "p_id": "257",
+  "utt_name": "p257_356",
+  "noisy_wav": "{noisy_root}/p257_356_16k.wav",
+  "clean_wav": "{clean_root}/p257_356_16k.wav",
+  "length": 2.1871875,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p257_357": {
+  "p_id": "257",
+  "utt_name": "p257_357",
+  "noisy_wav": "{noisy_root}/p257_357_16k.wav",
+  "clean_wav": "{clean_root}/p257_357_16k.wav",
+  "length": 2.146625,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p257_358": {
+  "p_id": "257",
+  "utt_name": "p257_358",
+  "noisy_wav": "{noisy_root}/p257_358_16k.wav",
+  "clean_wav": "{clean_root}/p257_358_16k.wav",
+  "length": 3.5960625,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p257_359": {
+  "p_id": "257",
+  "utt_name": "p257_359",
+  "noisy_wav": "{noisy_root}/p257_359_16k.wav",
+  "clean_wav": "{clean_root}/p257_359_16k.wav",
+  "length": 2.51325,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p257_360": {
+  "p_id": "257",
+  "utt_name": "p257_360",
+  "noisy_wav": "{noisy_root}/p257_360_16k.wav",
+  "clean_wav": "{clean_root}/p257_360_16k.wav",
+  "length": 2.8206875,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p257_361": {
+  "p_id": "257",
+  "utt_name": "p257_361",
+  "noisy_wav": "{noisy_root}/p257_361_16k.wav",
+  "clean_wav": "{clean_root}/p257_361_16k.wav",
+  "length": 1.44925,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p257_362": {
+  "p_id": "257",
+  "utt_name": "p257_362",
+  "noisy_wav": "{noisy_root}/p257_362_16k.wav",
+  "clean_wav": "{clean_root}/p257_362_16k.wav",
+  "length": 1.8845,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p257_363": {
+  "p_id": "257",
+  "utt_name": "p257_363",
+  "noisy_wav": "{noisy_root}/p257_363_16k.wav",
+  "clean_wav": "{clean_root}/p257_363_16k.wav",
+  "length": 2.076875,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p257_364": {
+  "p_id": "257",
+  "utt_name": "p257_364",
+  "noisy_wav": "{noisy_root}/p257_364_16k.wav",
+  "clean_wav": "{clean_root}/p257_364_16k.wav",
+  "length": 3.184625,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p257_365": {
+  "p_id": "257",
+  "utt_name": "p257_365",
+  "noisy_wav": "{noisy_root}/p257_365_16k.wav",
+  "clean_wav": "{clean_root}/p257_365_16k.wav",
+  "length": 2.0990625,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p257_366": {
+  "p_id": "257",
+  "utt_name": "p257_366",
+  "noisy_wav": "{noisy_root}/p257_366_16k.wav",
+  "clean_wav": "{clean_root}/p257_366_16k.wav",
+  "length": 3.3651875,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p257_367": {
+  "p_id": "257",
+  "utt_name": "p257_367",
+  "noisy_wav": "{noisy_root}/p257_367_16k.wav",
+  "clean_wav": "{clean_root}/p257_367_16k.wav",
+  "length": 3.244375,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p257_368": {
+  "p_id": "257",
+  "utt_name": "p257_368",
+  "noisy_wav": "{noisy_root}/p257_368_16k.wav",
+  "clean_wav": "{clean_root}/p257_368_16k.wav",
+  "length": 2.098375,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p257_369": {
+  "p_id": "257",
+  "utt_name": "p257_369",
+  "noisy_wav": "{noisy_root}/p257_369_16k.wav",
+  "clean_wav": "{clean_root}/p257_369_16k.wav",
+  "length": 2.2845625,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p257_370": {
+  "p_id": "257",
+  "utt_name": "p257_370",
+  "noisy_wav": "{noisy_root}/p257_370_16k.wav",
+  "clean_wav": "{clean_root}/p257_370_16k.wav",
+  "length": 2.2164375,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p257_371": {
+  "p_id": "257",
+  "utt_name": "p257_371",
+  "noisy_wav": "{noisy_root}/p257_371_16k.wav",
+  "clean_wav": "{clean_root}/p257_371_16k.wav",
+  "length": 1.639375,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p257_372": {
+  "p_id": "257",
+  "utt_name": "p257_372",
+  "noisy_wav": "{noisy_root}/p257_372_16k.wav",
+  "clean_wav": "{clean_root}/p257_372_16k.wav",
+  "length": 2.01,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p257_373": {
+  "p_id": "257",
+  "utt_name": "p257_373",
+  "noisy_wav": "{noisy_root}/p257_373_16k.wav",
+  "clean_wav": "{clean_root}/p257_373_16k.wav",
+  "length": 1.4131875,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p257_374": {
+  "p_id": "257",
+  "utt_name": "p257_374",
+  "noisy_wav": "{noisy_root}/p257_374_16k.wav",
+  "clean_wav": "{clean_root}/p257_374_16k.wav",
+  "length": 2.58125,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p257_375": {
+  "p_id": "257",
+  "utt_name": "p257_375",
+  "noisy_wav": "{noisy_root}/p257_375_16k.wav",
+  "clean_wav": "{clean_root}/p257_375_16k.wav",
+  "length": 2.8949375,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p257_376": {
+  "p_id": "257",
+  "utt_name": "p257_376",
+  "noisy_wav": "{noisy_root}/p257_376_16k.wav",
+  "clean_wav": "{clean_root}/p257_376_16k.wav",
+  "length": 2.27,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p257_377": {
+  "p_id": "257",
+  "utt_name": "p257_377",
+  "noisy_wav": "{noisy_root}/p257_377_16k.wav",
+  "clean_wav": "{clean_root}/p257_377_16k.wav",
+  "length": 2.689125,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p257_378": {
+  "p_id": "257",
+  "utt_name": "p257_378",
+  "noisy_wav": "{noisy_root}/p257_378_16k.wav",
+  "clean_wav": "{clean_root}/p257_378_16k.wav",
+  "length": 1.72,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p257_379": {
+  "p_id": "257",
+  "utt_name": "p257_379",
+  "noisy_wav": "{noisy_root}/p257_379_16k.wav",
+  "clean_wav": "{clean_root}/p257_379_16k.wav",
+  "length": 3.5185625,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p257_380": {
+  "p_id": "257",
+  "utt_name": "p257_380",
+  "noisy_wav": "{noisy_root}/p257_380_16k.wav",
+  "clean_wav": "{clean_root}/p257_380_16k.wav",
+  "length": 2.2214375,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p257_381": {
+  "p_id": "257",
+  "utt_name": "p257_381",
+  "noisy_wav": "{noisy_root}/p257_381_16k.wav",
+  "clean_wav": "{clean_root}/p257_381_16k.wav",
+  "length": 3.0371875,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p257_382": {
+  "p_id": "257",
+  "utt_name": "p257_382",
+  "noisy_wav": "{noisy_root}/p257_382_16k.wav",
+  "clean_wav": "{clean_root}/p257_382_16k.wav",
+  "length": 1.8805625,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p257_383": {
+  "p_id": "257",
+  "utt_name": "p257_383",
+  "noisy_wav": "{noisy_root}/p257_383_16k.wav",
+  "clean_wav": "{clean_root}/p257_383_16k.wav",
+  "length": 3.437125,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p257_384": {
+  "p_id": "257",
+  "utt_name": "p257_384",
+  "noisy_wav": "{noisy_root}/p257_384_16k.wav",
+  "clean_wav": "{clean_root}/p257_384_16k.wav",
+  "length": 2.78,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p257_385": {
+  "p_id": "257",
+  "utt_name": "p257_385",
+  "noisy_wav": "{noisy_root}/p257_385_16k.wav",
+  "clean_wav": "{clean_root}/p257_385_16k.wav",
+  "length": 2.21475,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p257_386": {
+  "p_id": "257",
+  "utt_name": "p257_386",
+  "noisy_wav": "{noisy_root}/p257_386_16k.wav",
+  "clean_wav": "{clean_root}/p257_386_16k.wav",
+  "length": 2.179125,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p257_387": {
+  "p_id": "257",
+  "utt_name": "p257_387",
+  "noisy_wav": "{noisy_root}/p257_387_16k.wav",
+  "clean_wav": "{clean_root}/p257_387_16k.wav",
+  "length": 1.43375,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p257_388": {
+  "p_id": "257",
+  "utt_name": "p257_388",
+  "noisy_wav": "{noisy_root}/p257_388_16k.wav",
+  "clean_wav": "{clean_root}/p257_388_16k.wav",
+  "length": 1.6835625,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p257_389": {
+  "p_id": "257",
+  "utt_name": "p257_389",
+  "noisy_wav": "{noisy_root}/p257_389_16k.wav",
+  "clean_wav": "{clean_root}/p257_389_16k.wav",
+  "length": 3.359875,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p257_390": {
+  "p_id": "257",
+  "utt_name": "p257_390",
+  "noisy_wav": "{noisy_root}/p257_390_16k.wav",
+  "clean_wav": "{clean_root}/p257_390_16k.wav",
+  "length": 1.53725,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p257_391": {
+  "p_id": "257",
+  "utt_name": "p257_391",
+  "noisy_wav": "{noisy_root}/p257_391_16k.wav",
+  "clean_wav": "{clean_root}/p257_391_16k.wav",
+  "length": 2.307375,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p257_392": {
+  "p_id": "257",
+  "utt_name": "p257_392",
+  "noisy_wav": "{noisy_root}/p257_392_16k.wav",
+  "clean_wav": "{clean_root}/p257_392_16k.wav",
+  "length": 2.437,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p257_393": {
+  "p_id": "257",
+  "utt_name": "p257_393",
+  "noisy_wav": "{noisy_root}/p257_393_16k.wav",
+  "clean_wav": "{clean_root}/p257_393_16k.wav",
+  "length": 2.3480625,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p257_394": {
+  "p_id": "257",
+  "utt_name": "p257_394",
+  "noisy_wav": "{noisy_root}/p257_394_16k.wav",
+  "clean_wav": "{clean_root}/p257_394_16k.wav",
+  "length": 2.88275,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p257_395": {
+  "p_id": "257",
+  "utt_name": "p257_395",
+  "noisy_wav": "{noisy_root}/p257_395_16k.wav",
+  "clean_wav": "{clean_root}/p257_395_16k.wav",
+  "length": 2.34675,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p257_396": {
+  "p_id": "257",
+  "utt_name": "p257_396",
+  "noisy_wav": "{noisy_root}/p257_396_16k.wav",
+  "clean_wav": "{clean_root}/p257_396_16k.wav",
+  "length": 1.723875,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p257_397": {
+  "p_id": "257",
+  "utt_name": "p257_397",
+  "noisy_wav": "{noisy_root}/p257_397_16k.wav",
+  "clean_wav": "{clean_root}/p257_397_16k.wav",
+  "length": 1.87975,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p257_398": {
+  "p_id": "257",
+  "utt_name": "p257_398",
+  "noisy_wav": "{noisy_root}/p257_398_16k.wav",
+  "clean_wav": "{clean_root}/p257_398_16k.wav",
+  "length": 1.580125,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p257_399": {
+  "p_id": "257",
+  "utt_name": "p257_399",
+  "noisy_wav": "{noisy_root}/p257_399_16k.wav",
+  "clean_wav": "{clean_root}/p257_399_16k.wav",
+  "length": 2.7849375,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p257_400": {
+  "p_id": "257",
+  "utt_name": "p257_400",
+  "noisy_wav": "{noisy_root}/p257_400_16k.wav",
+  "clean_wav": "{clean_root}/p257_400_16k.wav",
+  "length": 1.9045625,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p257_401": {
+  "p_id": "257",
+  "utt_name": "p257_401",
+  "noisy_wav": "{noisy_root}/p257_401_16k.wav",
+  "clean_wav": "{clean_root}/p257_401_16k.wav",
+  "length": 1.774,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p257_402": {
+  "p_id": "257",
+  "utt_name": "p257_402",
+  "noisy_wav": "{noisy_root}/p257_402_16k.wav",
+  "clean_wav": "{clean_root}/p257_402_16k.wav",
+  "length": 3.001375,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p257_403": {
+  "p_id": "257",
+  "utt_name": "p257_403",
+  "noisy_wav": "{noisy_root}/p257_403_16k.wav",
+  "clean_wav": "{clean_root}/p257_403_16k.wav",
+  "length": 2.122,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p257_404": {
+  "p_id": "257",
+  "utt_name": "p257_404",
+  "noisy_wav": "{noisy_root}/p257_404_16k.wav",
+  "clean_wav": "{clean_root}/p257_404_16k.wav",
+  "length": 2.41,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p257_405": {
+  "p_id": "257",
+  "utt_name": "p257_405",
+  "noisy_wav": "{noisy_root}/p257_405_16k.wav",
+  "clean_wav": "{clean_root}/p257_405_16k.wav",
+  "length": 2.0526875,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p257_406": {
+  "p_id": "257",
+  "utt_name": "p257_406",
+  "noisy_wav": "{noisy_root}/p257_406_16k.wav",
+  "clean_wav": "{clean_root}/p257_406_16k.wav",
+  "length": 2.8001875,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p257_407": {
+  "p_id": "257",
+  "utt_name": "p257_407",
+  "noisy_wav": "{noisy_root}/p257_407_16k.wav",
+  "clean_wav": "{clean_root}/p257_407_16k.wav",
+  "length": 2.518625,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p257_408": {
+  "p_id": "257",
+  "utt_name": "p257_408",
+  "noisy_wav": "{noisy_root}/p257_408_16k.wav",
+  "clean_wav": "{clean_root}/p257_408_16k.wav",
+  "length": 2.3796875,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p257_409": {
+  "p_id": "257",
+  "utt_name": "p257_409",
+  "noisy_wav": "{noisy_root}/p257_409_16k.wav",
+  "clean_wav": "{clean_root}/p257_409_16k.wav",
+  "length": 1.8818125,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p257_410": {
+  "p_id": "257",
+  "utt_name": "p257_410",
+  "noisy_wav": "{noisy_root}/p257_410_16k.wav",
+  "clean_wav": "{clean_root}/p257_410_16k.wav",
+  "length": 3.5811875,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p257_411": {
+  "p_id": "257",
+  "utt_name": "p257_411",
+  "noisy_wav": "{noisy_root}/p257_411_16k.wav",
+  "clean_wav": "{clean_root}/p257_411_16k.wav",
+  "length": 3.1709375,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p257_412": {
+  "p_id": "257",
+  "utt_name": "p257_412",
+  "noisy_wav": "{noisy_root}/p257_412_16k.wav",
+  "clean_wav": "{clean_root}/p257_412_16k.wav",
+  "length": 1.9065625,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p257_413": {
+  "p_id": "257",
+  "utt_name": "p257_413",
+  "noisy_wav": "{noisy_root}/p257_413_16k.wav",
+  "clean_wav": "{clean_root}/p257_413_16k.wav",
+  "length": 2.035875,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p257_414": {
+  "p_id": "257",
+  "utt_name": "p257_414",
+  "noisy_wav": "{noisy_root}/p257_414_16k.wav",
+  "clean_wav": "{clean_root}/p257_414_16k.wav",
+  "length": 1.8469375,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p257_415": {
+  "p_id": "257",
+  "utt_name": "p257_415",
+  "noisy_wav": "{noisy_root}/p257_415_16k.wav",
+  "clean_wav": "{clean_root}/p257_415_16k.wav",
+  "length": 1.9773125,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p257_416": {
+  "p_id": "257",
+  "utt_name": "p257_416",
+  "noisy_wav": "{noisy_root}/p257_416_16k.wav",
+  "clean_wav": "{clean_root}/p257_416_16k.wav",
+  "length": 2.182375,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p257_417": {
+  "p_id": "257",
+  "utt_name": "p257_417",
+  "noisy_wav": "{noisy_root}/p257_417_16k.wav",
+  "clean_wav": "{clean_root}/p257_417_16k.wav",
+  "length": 1.66075,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p257_418": {
+  "p_id": "257",
+  "utt_name": "p257_418",
+  "noisy_wav": "{noisy_root}/p257_418_16k.wav",
+  "clean_wav": "{clean_root}/p257_418_16k.wav",
+  "length": 2.6871875,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p257_419": {
+  "p_id": "257",
+  "utt_name": "p257_419",
+  "noisy_wav": "{noisy_root}/p257_419_16k.wav",
+  "clean_wav": "{clean_root}/p257_419_16k.wav",
+  "length": 2.3035625,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p257_420": {
+  "p_id": "257",
+  "utt_name": "p257_420",
+  "noisy_wav": "{noisy_root}/p257_420_16k.wav",
+  "clean_wav": "{clean_root}/p257_420_16k.wav",
+  "length": 1.61125,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p257_421": {
+  "p_id": "257",
+  "utt_name": "p257_421",
+  "noisy_wav": "{noisy_root}/p257_421_16k.wav",
+  "clean_wav": "{clean_root}/p257_421_16k.wav",
+  "length": 1.5855625,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p257_422": {
+  "p_id": "257",
+  "utt_name": "p257_422",
+  "noisy_wav": "{noisy_root}/p257_422_16k.wav",
+  "clean_wav": "{clean_root}/p257_422_16k.wav",
+  "length": 3.0680625,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p257_423": {
+  "p_id": "257",
+  "utt_name": "p257_423",
+  "noisy_wav": "{noisy_root}/p257_423_16k.wav",
+  "clean_wav": "{clean_root}/p257_423_16k.wav",
+  "length": 1.95275,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p257_424": {
+  "p_id": "257",
+  "utt_name": "p257_424",
+  "noisy_wav": "{noisy_root}/p257_424_16k.wav",
+  "clean_wav": "{clean_root}/p257_424_16k.wav",
+  "length": 3.435375,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p257_425": {
+  "p_id": "257",
+  "utt_name": "p257_425",
+  "noisy_wav": "{noisy_root}/p257_425_16k.wav",
+  "clean_wav": "{clean_root}/p257_425_16k.wav",
+  "length": 1.6238125,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p257_426": {
+  "p_id": "257",
+  "utt_name": "p257_426",
+  "noisy_wav": "{noisy_root}/p257_426_16k.wav",
+  "clean_wav": "{clean_root}/p257_426_16k.wav",
+  "length": 2.298125,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p257_427": {
+  "p_id": "257",
+  "utt_name": "p257_427",
+  "noisy_wav": "{noisy_root}/p257_427_16k.wav",
+  "clean_wav": "{clean_root}/p257_427_16k.wav",
+  "length": 1.9245625,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p257_428": {
+  "p_id": "257",
+  "utt_name": "p257_428",
+  "noisy_wav": "{noisy_root}/p257_428_16k.wav",
+  "clean_wav": "{clean_root}/p257_428_16k.wav",
+  "length": 2.4295625,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p257_429": {
+  "p_id": "257",
+  "utt_name": "p257_429",
+  "noisy_wav": "{noisy_root}/p257_429_16k.wav",
+  "clean_wav": "{clean_root}/p257_429_16k.wav",
+  "length": 1.3905625,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p257_430": {
+  "p_id": "257",
+  "utt_name": "p257_430",
+  "noisy_wav": "{noisy_root}/p257_430_16k.wav",
+  "clean_wav": "{clean_root}/p257_430_16k.wav",
+  "length": 3.41525,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p257_431": {
+  "p_id": "257",
+  "utt_name": "p257_431",
+  "noisy_wav": "{noisy_root}/p257_431_16k.wav",
+  "clean_wav": "{clean_root}/p257_431_16k.wav",
+  "length": 2.4120625,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p257_432": {
+  "p_id": "257",
+  "utt_name": "p257_432",
+  "noisy_wav": "{noisy_root}/p257_432_16k.wav",
+  "clean_wav": "{clean_root}/p257_432_16k.wav",
+  "length": 2.21,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p257_433": {
+  "p_id": "257",
+  "utt_name": "p257_433",
+  "noisy_wav": "{noisy_root}/p257_433_16k.wav",
+  "clean_wav": "{clean_root}/p257_433_16k.wav",
+  "length": 2.311,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p257_434": {
+  "p_id": "257",
+  "utt_name": "p257_434",
+  "noisy_wav": "{noisy_root}/p257_434_16k.wav",
+  "clean_wav": "{clean_root}/p257_434_16k.wav",
+  "length": 2.083875,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p232_001": {
+  "p_id": "232",
+  "utt_name": "p232_001",
+  "noisy_wav": "{noisy_root}/p232_001_16k.wav",
+  "clean_wav": "{clean_root}/p232_001_16k.wav",
+  "length": 1.7413125,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p232_002": {
+  "p_id": "232",
+  "utt_name": "p232_002",
+  "noisy_wav": "{noisy_root}/p232_002_16k.wav",
+  "clean_wav": "{clean_root}/p232_002_16k.wav",
+  "length": 2.71525,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p232_003": {
+  "p_id": "232",
+  "utt_name": "p232_003",
+  "noisy_wav": "{noisy_root}/p232_003_16k.wav",
+  "clean_wav": "{clean_root}/p232_003_16k.wav",
+  "length": 7.184875,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p232_005": {
+  "p_id": "232",
+  "utt_name": "p232_005",
+  "noisy_wav": "{noisy_root}/p232_005_16k.wav",
+  "clean_wav": "{clean_root}/p232_005_16k.wav",
+  "length": 6.246625,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p232_006": {
+  "p_id": "232",
+  "utt_name": "p232_006",
+  "noisy_wav": "{noisy_root}/p232_006_16k.wav",
+  "clean_wav": "{clean_root}/p232_006_16k.wav",
+  "length": 5.1035,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p232_007": {
+  "p_id": "232",
+  "utt_name": "p232_007",
+  "noisy_wav": "{noisy_root}/p232_007_16k.wav",
+  "clean_wav": "{clean_root}/p232_007_16k.wav",
+  "length": 3.9559375,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p232_009": {
+  "p_id": "232",
+  "utt_name": "p232_009",
+  "noisy_wav": "{noisy_root}/p232_009_16k.wav",
+  "clean_wav": "{clean_root}/p232_009_16k.wav",
+  "length": 4.157625,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p232_010": {
+  "p_id": "232",
+  "utt_name": "p232_010",
+  "noisy_wav": "{noisy_root}/p232_010_16k.wav",
+  "clean_wav": "{clean_root}/p232_010_16k.wav",
+  "length": 2.764375,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p232_011": {
+  "p_id": "232",
+  "utt_name": "p232_011",
+  "noisy_wav": "{noisy_root}/p232_011_16k.wav",
+  "clean_wav": "{clean_root}/p232_011_16k.wav",
+  "length": 6.5381875,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p232_012": {
+  "p_id": "232",
+  "utt_name": "p232_012",
+  "noisy_wav": "{noisy_root}/p232_012_16k.wav",
+  "clean_wav": "{clean_root}/p232_012_16k.wav",
+  "length": 4.3356875,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p232_013": {
+  "p_id": "232",
+  "utt_name": "p232_013",
+  "noisy_wav": "{noisy_root}/p232_013_16k.wav",
+  "clean_wav": "{clean_root}/p232_013_16k.wav",
+  "length": 3.9434375,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p232_014": {
+  "p_id": "232",
+  "utt_name": "p232_014",
+  "noisy_wav": "{noisy_root}/p232_014_16k.wav",
+  "clean_wav": "{clean_root}/p232_014_16k.wav",
+  "length": 4.616875,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p232_015": {
+  "p_id": "232",
+  "utt_name": "p232_015",
+  "noisy_wav": "{noisy_root}/p232_015_16k.wav",
+  "clean_wav": "{clean_root}/p232_015_16k.wav",
+  "length": 5.3199375,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p232_016": {
+  "p_id": "232",
+  "utt_name": "p232_016",
+  "noisy_wav": "{noisy_root}/p232_016_16k.wav",
+  "clean_wav": "{clean_root}/p232_016_16k.wav",
+  "length": 5.569375,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p232_017": {
+  "p_id": "232",
+  "utt_name": "p232_017",
+  "noisy_wav": "{noisy_root}/p232_017_16k.wav",
+  "clean_wav": "{clean_root}/p232_017_16k.wav",
+  "length": 2.8893125,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p232_019": {
+  "p_id": "232",
+  "utt_name": "p232_019",
+  "noisy_wav": "{noisy_root}/p232_019_16k.wav",
+  "clean_wav": "{clean_root}/p232_019_16k.wav",
+  "length": 6.7355625,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p232_020": {
+  "p_id": "232",
+  "utt_name": "p232_020",
+  "noisy_wav": "{noisy_root}/p232_020_16k.wav",
+  "clean_wav": "{clean_root}/p232_020_16k.wav",
+  "length": 3.6166875,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p232_021": {
+  "p_id": "232",
+  "utt_name": "p232_021",
+  "noisy_wav": "{noisy_root}/p232_021_16k.wav",
+  "clean_wav": "{clean_root}/p232_021_16k.wav",
+  "length": 8.5095,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p232_022": {
+  "p_id": "232",
+  "utt_name": "p232_022",
+  "noisy_wav": "{noisy_root}/p232_022_16k.wav",
+  "clean_wav": "{clean_root}/p232_022_16k.wav",
+  "length": 5.794,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p232_023": {
+  "p_id": "232",
+  "utt_name": "p232_023",
+  "noisy_wav": "{noisy_root}/p232_023_16k.wav",
+  "clean_wav": "{clean_root}/p232_023_16k.wav",
+  "length": 9.768875,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p232_024": {
+  "p_id": "232",
+  "utt_name": "p232_024",
+  "noisy_wav": "{noisy_root}/p232_024_16k.wav",
+  "clean_wav": "{clean_root}/p232_024_16k.wav",
+  "length": 5.5204375,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p232_025": {
+  "p_id": "232",
+  "utt_name": "p232_025",
+  "noisy_wav": "{noisy_root}/p232_025_16k.wav",
+  "clean_wav": "{clean_root}/p232_025_16k.wav",
+  "length": 1.8756875,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p232_027": {
+  "p_id": "232",
+  "utt_name": "p232_027",
+  "noisy_wav": "{noisy_root}/p232_027_16k.wav",
+  "clean_wav": "{clean_root}/p232_027_16k.wav",
+  "length": 3.7711875,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p232_028": {
+  "p_id": "232",
+  "utt_name": "p232_028",
+  "noisy_wav": "{noisy_root}/p232_028_16k.wav",
+  "clean_wav": "{clean_root}/p232_028_16k.wav",
+  "length": 2.065,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p232_029": {
+  "p_id": "232",
+  "utt_name": "p232_029",
+  "noisy_wav": "{noisy_root}/p232_029_16k.wav",
+  "clean_wav": "{clean_root}/p232_029_16k.wav",
+  "length": 3.4153125,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p232_030": {
+  "p_id": "232",
+  "utt_name": "p232_030",
+  "noisy_wav": "{noisy_root}/p232_030_16k.wav",
+  "clean_wav": "{clean_root}/p232_030_16k.wav",
+  "length": 3.8489375,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p232_031": {
+  "p_id": "232",
+  "utt_name": "p232_031",
+  "noisy_wav": "{noisy_root}/p232_031_16k.wav",
+  "clean_wav": "{clean_root}/p232_031_16k.wav",
+  "length": 2.2903125,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p232_032": {
+  "p_id": "232",
+  "utt_name": "p232_032",
+  "noisy_wav": "{noisy_root}/p232_032_16k.wav",
+  "clean_wav": "{clean_root}/p232_032_16k.wav",
+  "length": 3.4900625,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p232_033": {
+  "p_id": "232",
+  "utt_name": "p232_033",
+  "noisy_wav": "{noisy_root}/p232_033_16k.wav",
+  "clean_wav": "{clean_root}/p232_033_16k.wav",
+  "length": 1.4479375,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p232_034": {
+  "p_id": "232",
+  "utt_name": "p232_034",
+  "noisy_wav": "{noisy_root}/p232_034_16k.wav",
+  "clean_wav": "{clean_root}/p232_034_16k.wav",
+  "length": 1.4720625,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p232_035": {
+  "p_id": "232",
+  "utt_name": "p232_035",
+  "noisy_wav": "{noisy_root}/p232_035_16k.wav",
+  "clean_wav": "{clean_root}/p232_035_16k.wav",
+  "length": 3.1585,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p232_036": {
+  "p_id": "232",
+  "utt_name": "p232_036",
+  "noisy_wav": "{noisy_root}/p232_036_16k.wav",
+  "clean_wav": "{clean_root}/p232_036_16k.wav",
+  "length": 2.843375,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p232_037": {
+  "p_id": "232",
+  "utt_name": "p232_037",
+  "noisy_wav": "{noisy_root}/p232_037_16k.wav",
+  "clean_wav": "{clean_root}/p232_037_16k.wav",
+  "length": 3.856,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p232_038": {
+  "p_id": "232",
+  "utt_name": "p232_038",
+  "noisy_wav": "{noisy_root}/p232_038_16k.wav",
+  "clean_wav": "{clean_root}/p232_038_16k.wav",
+  "length": 2.0905625,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p232_039": {
+  "p_id": "232",
+  "utt_name": "p232_039",
+  "noisy_wav": "{noisy_root}/p232_039_16k.wav",
+  "clean_wav": "{clean_root}/p232_039_16k.wav",
+  "length": 1.94,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p232_040": {
+  "p_id": "232",
+  "utt_name": "p232_040",
+  "noisy_wav": "{noisy_root}/p232_040_16k.wav",
+  "clean_wav": "{clean_root}/p232_040_16k.wav",
+  "length": 1.8975625,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p232_041": {
+  "p_id": "232",
+  "utt_name": "p232_041",
+  "noisy_wav": "{noisy_root}/p232_041_16k.wav",
+  "clean_wav": "{clean_root}/p232_041_16k.wav",
+  "length": 2.0074375,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p232_042": {
+  "p_id": "232",
+  "utt_name": "p232_042",
+  "noisy_wav": "{noisy_root}/p232_042_16k.wav",
+  "clean_wav": "{clean_root}/p232_042_16k.wav",
+  "length": 2.5135625,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p232_043": {
+  "p_id": "232",
+  "utt_name": "p232_043",
+  "noisy_wav": "{noisy_root}/p232_043_16k.wav",
+  "clean_wav": "{clean_root}/p232_043_16k.wav",
+  "length": 1.9603125,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p232_044": {
+  "p_id": "232",
+  "utt_name": "p232_044",
+  "noisy_wav": "{noisy_root}/p232_044_16k.wav",
+  "clean_wav": "{clean_root}/p232_044_16k.wav",
+  "length": 1.3833125,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p232_045": {
+  "p_id": "232",
+  "utt_name": "p232_045",
+  "noisy_wav": "{noisy_root}/p232_045_16k.wav",
+  "clean_wav": "{clean_root}/p232_045_16k.wav",
+  "length": 1.2375625,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p232_046": {
+  "p_id": "232",
+  "utt_name": "p232_046",
+  "noisy_wav": "{noisy_root}/p232_046_16k.wav",
+  "clean_wav": "{clean_root}/p232_046_16k.wav",
+  "length": 1.4159375,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p232_047": {
+  "p_id": "232",
+  "utt_name": "p232_047",
+  "noisy_wav": "{noisy_root}/p232_047_16k.wav",
+  "clean_wav": "{clean_root}/p232_047_16k.wav",
+  "length": 1.9265,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p232_048": {
+  "p_id": "232",
+  "utt_name": "p232_048",
+  "noisy_wav": "{noisy_root}/p232_048_16k.wav",
+  "clean_wav": "{clean_root}/p232_048_16k.wav",
+  "length": 1.81975,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p232_049": {
+  "p_id": "232",
+  "utt_name": "p232_049",
+  "noisy_wav": "{noisy_root}/p232_049_16k.wav",
+  "clean_wav": "{clean_root}/p232_049_16k.wav",
+  "length": 2.941125,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p232_050": {
+  "p_id": "232",
+  "utt_name": "p232_050",
+  "noisy_wav": "{noisy_root}/p232_050_16k.wav",
+  "clean_wav": "{clean_root}/p232_050_16k.wav",
+  "length": 1.733375,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p232_051": {
+  "p_id": "232",
+  "utt_name": "p232_051",
+  "noisy_wav": "{noisy_root}/p232_051_16k.wav",
+  "clean_wav": "{clean_root}/p232_051_16k.wav",
+  "length": 1.47625,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p232_052": {
+  "p_id": "232",
+  "utt_name": "p232_052",
+  "noisy_wav": "{noisy_root}/p232_052_16k.wav",
+  "clean_wav": "{clean_root}/p232_052_16k.wav",
+  "length": 2.199,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p232_053": {
+  "p_id": "232",
+  "utt_name": "p232_053",
+  "noisy_wav": "{noisy_root}/p232_053_16k.wav",
+  "clean_wav": "{clean_root}/p232_053_16k.wav",
+  "length": 1.644,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p232_054": {
+  "p_id": "232",
+  "utt_name": "p232_054",
+  "noisy_wav": "{noisy_root}/p232_054_16k.wav",
+  "clean_wav": "{clean_root}/p232_054_16k.wav",
+  "length": 3.70625,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p232_055": {
+  "p_id": "232",
+  "utt_name": "p232_055",
+  "noisy_wav": "{noisy_root}/p232_055_16k.wav",
+  "clean_wav": "{clean_root}/p232_055_16k.wav",
+  "length": 1.52575,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p232_056": {
+  "p_id": "232",
+  "utt_name": "p232_056",
+  "noisy_wav": "{noisy_root}/p232_056_16k.wav",
+  "clean_wav": "{clean_root}/p232_056_16k.wav",
+  "length": 1.802625,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p232_057": {
+  "p_id": "232",
+  "utt_name": "p232_057",
+  "noisy_wav": "{noisy_root}/p232_057_16k.wav",
+  "clean_wav": "{clean_root}/p232_057_16k.wav",
+  "length": 2.23575,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p232_058": {
+  "p_id": "232",
+  "utt_name": "p232_058",
+  "noisy_wav": "{noisy_root}/p232_058_16k.wav",
+  "clean_wav": "{clean_root}/p232_058_16k.wav",
+  "length": 3.898625,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p232_059": {
+  "p_id": "232",
+  "utt_name": "p232_059",
+  "noisy_wav": "{noisy_root}/p232_059_16k.wav",
+  "clean_wav": "{clean_root}/p232_059_16k.wav",
+  "length": 1.3204375,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p232_060": {
+  "p_id": "232",
+  "utt_name": "p232_060",
+  "noisy_wav": "{noisy_root}/p232_060_16k.wav",
+  "clean_wav": "{clean_root}/p232_060_16k.wav",
+  "length": 2.34,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p232_061": {
+  "p_id": "232",
+  "utt_name": "p232_061",
+  "noisy_wav": "{noisy_root}/p232_061_16k.wav",
+  "clean_wav": "{clean_root}/p232_061_16k.wav",
+  "length": 3.248625,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p232_062": {
+  "p_id": "232",
+  "utt_name": "p232_062",
+  "noisy_wav": "{noisy_root}/p232_062_16k.wav",
+  "clean_wav": "{clean_root}/p232_062_16k.wav",
+  "length": 2.964,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p232_063": {
+  "p_id": "232",
+  "utt_name": "p232_063",
+  "noisy_wav": "{noisy_root}/p232_063_16k.wav",
+  "clean_wav": "{clean_root}/p232_063_16k.wav",
+  "length": 2.26375,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p232_064": {
+  "p_id": "232",
+  "utt_name": "p232_064",
+  "noisy_wav": "{noisy_root}/p232_064_16k.wav",
+  "clean_wav": "{clean_root}/p232_064_16k.wav",
+  "length": 2.01025,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p232_065": {
+  "p_id": "232",
+  "utt_name": "p232_065",
+  "noisy_wav": "{noisy_root}/p232_065_16k.wav",
+  "clean_wav": "{clean_root}/p232_065_16k.wav",
+  "length": 1.5235,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p232_066": {
+  "p_id": "232",
+  "utt_name": "p232_066",
+  "noisy_wav": "{noisy_root}/p232_066_16k.wav",
+  "clean_wav": "{clean_root}/p232_066_16k.wav",
+  "length": 3.2770625,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p232_067": {
+  "p_id": "232",
+  "utt_name": "p232_067",
+  "noisy_wav": "{noisy_root}/p232_067_16k.wav",
+  "clean_wav": "{clean_root}/p232_067_16k.wav",
+  "length": 2.6171875,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p232_068": {
+  "p_id": "232",
+  "utt_name": "p232_068",
+  "noisy_wav": "{noisy_root}/p232_068_16k.wav",
+  "clean_wav": "{clean_root}/p232_068_16k.wav",
+  "length": 2.5223125,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p232_069": {
+  "p_id": "232",
+  "utt_name": "p232_069",
+  "noisy_wav": "{noisy_root}/p232_069_16k.wav",
+  "clean_wav": "{clean_root}/p232_069_16k.wav",
+  "length": 2.668875,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p232_070": {
+  "p_id": "232",
+  "utt_name": "p232_070",
+  "noisy_wav": "{noisy_root}/p232_070_16k.wav",
+  "clean_wav": "{clean_root}/p232_070_16k.wav",
+  "length": 2.543875,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p232_071": {
+  "p_id": "232",
+  "utt_name": "p232_071",
+  "noisy_wav": "{noisy_root}/p232_071_16k.wav",
+  "clean_wav": "{clean_root}/p232_071_16k.wav",
+  "length": 2.588625,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p232_072": {
+  "p_id": "232",
+  "utt_name": "p232_072",
+  "noisy_wav": "{noisy_root}/p232_072_16k.wav",
+  "clean_wav": "{clean_root}/p232_072_16k.wav",
+  "length": 1.9874375,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p232_073": {
+  "p_id": "232",
+  "utt_name": "p232_073",
+  "noisy_wav": "{noisy_root}/p232_073_16k.wav",
+  "clean_wav": "{clean_root}/p232_073_16k.wav",
+  "length": 1.9083125,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p232_074": {
+  "p_id": "232",
+  "utt_name": "p232_074",
+  "noisy_wav": "{noisy_root}/p232_074_16k.wav",
+  "clean_wav": "{clean_root}/p232_074_16k.wav",
+  "length": 2.2096875,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p232_075": {
+  "p_id": "232",
+  "utt_name": "p232_075",
+  "noisy_wav": "{noisy_root}/p232_075_16k.wav",
+  "clean_wav": "{clean_root}/p232_075_16k.wav",
+  "length": 2.3465625,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p232_076": {
+  "p_id": "232",
+  "utt_name": "p232_076",
+  "noisy_wav": "{noisy_root}/p232_076_16k.wav",
+  "clean_wav": "{clean_root}/p232_076_16k.wav",
+  "length": 1.926875,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p232_077": {
+  "p_id": "232",
+  "utt_name": "p232_077",
+  "noisy_wav": "{noisy_root}/p232_077_16k.wav",
+  "clean_wav": "{clean_root}/p232_077_16k.wav",
+  "length": 1.74225,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p232_078": {
+  "p_id": "232",
+  "utt_name": "p232_078",
+  "noisy_wav": "{noisy_root}/p232_078_16k.wav",
+  "clean_wav": "{clean_root}/p232_078_16k.wav",
+  "length": 2.260625,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p232_079": {
+  "p_id": "232",
+  "utt_name": "p232_079",
+  "noisy_wav": "{noisy_root}/p232_079_16k.wav",
+  "clean_wav": "{clean_root}/p232_079_16k.wav",
+  "length": 2.394375,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p232_080": {
+  "p_id": "232",
+  "utt_name": "p232_080",
+  "noisy_wav": "{noisy_root}/p232_080_16k.wav",
+  "clean_wav": "{clean_root}/p232_080_16k.wav",
+  "length": 2.08,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p232_081": {
+  "p_id": "232",
+  "utt_name": "p232_081",
+  "noisy_wav": "{noisy_root}/p232_081_16k.wav",
+  "clean_wav": "{clean_root}/p232_081_16k.wav",
+  "length": 1.8851875,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p232_082": {
+  "p_id": "232",
+  "utt_name": "p232_082",
+  "noisy_wav": "{noisy_root}/p232_082_16k.wav",
+  "clean_wav": "{clean_root}/p232_082_16k.wav",
+  "length": 1.559375,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p232_083": {
+  "p_id": "232",
+  "utt_name": "p232_083",
+  "noisy_wav": "{noisy_root}/p232_083_16k.wav",
+  "clean_wav": "{clean_root}/p232_083_16k.wav",
+  "length": 1.661375,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p232_084": {
+  "p_id": "232",
+  "utt_name": "p232_084",
+  "noisy_wav": "{noisy_root}/p232_084_16k.wav",
+  "clean_wav": "{clean_root}/p232_084_16k.wav",
+  "length": 1.390625,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p232_085": {
+  "p_id": "232",
+  "utt_name": "p232_085",
+  "noisy_wav": "{noisy_root}/p232_085_16k.wav",
+  "clean_wav": "{clean_root}/p232_085_16k.wav",
+  "length": 2.0673125,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p232_086": {
+  "p_id": "232",
+  "utt_name": "p232_086",
+  "noisy_wav": "{noisy_root}/p232_086_16k.wav",
+  "clean_wav": "{clean_root}/p232_086_16k.wav",
+  "length": 1.9684375,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p232_087": {
+  "p_id": "232",
+  "utt_name": "p232_087",
+  "noisy_wav": "{noisy_root}/p232_087_16k.wav",
+  "clean_wav": "{clean_root}/p232_087_16k.wav",
+  "length": 1.9781875,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p232_088": {
+  "p_id": "232",
+  "utt_name": "p232_088",
+  "noisy_wav": "{noisy_root}/p232_088_16k.wav",
+  "clean_wav": "{clean_root}/p232_088_16k.wav",
+  "length": 2.923625,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p232_089": {
+  "p_id": "232",
+  "utt_name": "p232_089",
+  "noisy_wav": "{noisy_root}/p232_089_16k.wav",
+  "clean_wav": "{clean_root}/p232_089_16k.wav",
+  "length": 2.2335,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p232_090": {
+  "p_id": "232",
+  "utt_name": "p232_090",
+  "noisy_wav": "{noisy_root}/p232_090_16k.wav",
+  "clean_wav": "{clean_root}/p232_090_16k.wav",
+  "length": 3.943125,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p232_091": {
+  "p_id": "232",
+  "utt_name": "p232_091",
+  "noisy_wav": "{noisy_root}/p232_091_16k.wav",
+  "clean_wav": "{clean_root}/p232_091_16k.wav",
+  "length": 1.5625625,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p232_092": {
+  "p_id": "232",
+  "utt_name": "p232_092",
+  "noisy_wav": "{noisy_root}/p232_092_16k.wav",
+  "clean_wav": "{clean_root}/p232_092_16k.wav",
+  "length": 1.968,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p232_093": {
+  "p_id": "232",
+  "utt_name": "p232_093",
+  "noisy_wav": "{noisy_root}/p232_093_16k.wav",
+  "clean_wav": "{clean_root}/p232_093_16k.wav",
+  "length": 2.22125,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p232_094": {
+  "p_id": "232",
+  "utt_name": "p232_094",
+  "noisy_wav": "{noisy_root}/p232_094_16k.wav",
+  "clean_wav": "{clean_root}/p232_094_16k.wav",
+  "length": 2.8159375,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p232_095": {
+  "p_id": "232",
+  "utt_name": "p232_095",
+  "noisy_wav": "{noisy_root}/p232_095_16k.wav",
+  "clean_wav": "{clean_root}/p232_095_16k.wav",
+  "length": 3.5736875,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p232_096": {
+  "p_id": "232",
+  "utt_name": "p232_096",
+  "noisy_wav": "{noisy_root}/p232_096_16k.wav",
+  "clean_wav": "{clean_root}/p232_096_16k.wav",
+  "length": 1.678,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p232_097": {
+  "p_id": "232",
+  "utt_name": "p232_097",
+  "noisy_wav": "{noisy_root}/p232_097_16k.wav",
+  "clean_wav": "{clean_root}/p232_097_16k.wav",
+  "length": 2.704625,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p232_098": {
+  "p_id": "232",
+  "utt_name": "p232_098",
+  "noisy_wav": "{noisy_root}/p232_098_16k.wav",
+  "clean_wav": "{clean_root}/p232_098_16k.wav",
+  "length": 2.3846875,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p232_099": {
+  "p_id": "232",
+  "utt_name": "p232_099",
+  "noisy_wav": "{noisy_root}/p232_099_16k.wav",
+  "clean_wav": "{clean_root}/p232_099_16k.wav",
+  "length": 2.76475,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p232_100": {
+  "p_id": "232",
+  "utt_name": "p232_100",
+  "noisy_wav": "{noisy_root}/p232_100_16k.wav",
+  "clean_wav": "{clean_root}/p232_100_16k.wav",
+  "length": 1.6,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p232_101": {
+  "p_id": "232",
+  "utt_name": "p232_101",
+  "noisy_wav": "{noisy_root}/p232_101_16k.wav",
+  "clean_wav": "{clean_root}/p232_101_16k.wav",
+  "length": 1.9461875,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p232_102": {
+  "p_id": "232",
+  "utt_name": "p232_102",
+  "noisy_wav": "{noisy_root}/p232_102_16k.wav",
+  "clean_wav": "{clean_root}/p232_102_16k.wav",
+  "length": 1.894,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p232_103": {
+  "p_id": "232",
+  "utt_name": "p232_103",
+  "noisy_wav": "{noisy_root}/p232_103_16k.wav",
+  "clean_wav": "{clean_root}/p232_103_16k.wav",
+  "length": 3.5469375,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p232_104": {
+  "p_id": "232",
+  "utt_name": "p232_104",
+  "noisy_wav": "{noisy_root}/p232_104_16k.wav",
+  "clean_wav": "{clean_root}/p232_104_16k.wav",
+  "length": 3.92,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p232_105": {
+  "p_id": "232",
+  "utt_name": "p232_105",
+  "noisy_wav": "{noisy_root}/p232_105_16k.wav",
+  "clean_wav": "{clean_root}/p232_105_16k.wav",
+  "length": 1.7566875,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p232_106": {
+  "p_id": "232",
+  "utt_name": "p232_106",
+  "noisy_wav": "{noisy_root}/p232_106_16k.wav",
+  "clean_wav": "{clean_root}/p232_106_16k.wav",
+  "length": 2.388,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p232_107": {
+  "p_id": "232",
+  "utt_name": "p232_107",
+  "noisy_wav": "{noisy_root}/p232_107_16k.wav",
+  "clean_wav": "{clean_root}/p232_107_16k.wav",
+  "length": 2.642375,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p232_108": {
+  "p_id": "232",
+  "utt_name": "p232_108",
+  "noisy_wav": "{noisy_root}/p232_108_16k.wav",
+  "clean_wav": "{clean_root}/p232_108_16k.wav",
+  "length": 1.6815625,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p232_109": {
+  "p_id": "232",
+  "utt_name": "p232_109",
+  "noisy_wav": "{noisy_root}/p232_109_16k.wav",
+  "clean_wav": "{clean_root}/p232_109_16k.wav",
+  "length": 3.49175,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p232_110": {
+  "p_id": "232",
+  "utt_name": "p232_110",
+  "noisy_wav": "{noisy_root}/p232_110_16k.wav",
+  "clean_wav": "{clean_root}/p232_110_16k.wav",
+  "length": 2.0346875,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p232_112": {
+  "p_id": "232",
+  "utt_name": "p232_112",
+  "noisy_wav": "{noisy_root}/p232_112_16k.wav",
+  "clean_wav": "{clean_root}/p232_112_16k.wav",
+  "length": 1.6440625,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p232_113": {
+  "p_id": "232",
+  "utt_name": "p232_113",
+  "noisy_wav": "{noisy_root}/p232_113_16k.wav",
+  "clean_wav": "{clean_root}/p232_113_16k.wav",
+  "length": 1.367625,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p232_114": {
+  "p_id": "232",
+  "utt_name": "p232_114",
+  "noisy_wav": "{noisy_root}/p232_114_16k.wav",
+  "clean_wav": "{clean_root}/p232_114_16k.wav",
+  "length": 3.1960625,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p232_115": {
+  "p_id": "232",
+  "utt_name": "p232_115",
+  "noisy_wav": "{noisy_root}/p232_115_16k.wav",
+  "clean_wav": "{clean_root}/p232_115_16k.wav",
+  "length": 2.744875,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p232_116": {
+  "p_id": "232",
+  "utt_name": "p232_116",
+  "noisy_wav": "{noisy_root}/p232_116_16k.wav",
+  "clean_wav": "{clean_root}/p232_116_16k.wav",
+  "length": 1.9833125,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p232_117": {
+  "p_id": "232",
+  "utt_name": "p232_117",
+  "noisy_wav": "{noisy_root}/p232_117_16k.wav",
+  "clean_wav": "{clean_root}/p232_117_16k.wav",
+  "length": 3.4729375,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p232_118": {
+  "p_id": "232",
+  "utt_name": "p232_118",
+  "noisy_wav": "{noisy_root}/p232_118_16k.wav",
+  "clean_wav": "{clean_root}/p232_118_16k.wav",
+  "length": 3.1344375,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p232_119": {
+  "p_id": "232",
+  "utt_name": "p232_119",
+  "noisy_wav": "{noisy_root}/p232_119_16k.wav",
+  "clean_wav": "{clean_root}/p232_119_16k.wav",
+  "length": 3.1679375,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p232_120": {
+  "p_id": "232",
+  "utt_name": "p232_120",
+  "noisy_wav": "{noisy_root}/p232_120_16k.wav",
+  "clean_wav": "{clean_root}/p232_120_16k.wav",
+  "length": 1.463125,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p232_121": {
+  "p_id": "232",
+  "utt_name": "p232_121",
+  "noisy_wav": "{noisy_root}/p232_121_16k.wav",
+  "clean_wav": "{clean_root}/p232_121_16k.wav",
+  "length": 3.064875,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p232_123": {
+  "p_id": "232",
+  "utt_name": "p232_123",
+  "noisy_wav": "{noisy_root}/p232_123_16k.wav",
+  "clean_wav": "{clean_root}/p232_123_16k.wav",
+  "length": 3.707125,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p232_124": {
+  "p_id": "232",
+  "utt_name": "p232_124",
+  "noisy_wav": "{noisy_root}/p232_124_16k.wav",
+  "clean_wav": "{clean_root}/p232_124_16k.wav",
+  "length": 1.4909375,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p232_125": {
+  "p_id": "232",
+  "utt_name": "p232_125",
+  "noisy_wav": "{noisy_root}/p232_125_16k.wav",
+  "clean_wav": "{clean_root}/p232_125_16k.wav",
+  "length": 1.608,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p232_126": {
+  "p_id": "232",
+  "utt_name": "p232_126",
+  "noisy_wav": "{noisy_root}/p232_126_16k.wav",
+  "clean_wav": "{clean_root}/p232_126_16k.wav",
+  "length": 2.1139375,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p232_127": {
+  "p_id": "232",
+  "utt_name": "p232_127",
+  "noisy_wav": "{noisy_root}/p232_127_16k.wav",
+  "clean_wav": "{clean_root}/p232_127_16k.wav",
+  "length": 1.9740625,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p232_128": {
+  "p_id": "232",
+  "utt_name": "p232_128",
+  "noisy_wav": "{noisy_root}/p232_128_16k.wav",
+  "clean_wav": "{clean_root}/p232_128_16k.wav",
+  "length": 2.96175,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p232_129": {
+  "p_id": "232",
+  "utt_name": "p232_129",
+  "noisy_wav": "{noisy_root}/p232_129_16k.wav",
+  "clean_wav": "{clean_root}/p232_129_16k.wav",
+  "length": 3.5615,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p232_130": {
+  "p_id": "232",
+  "utt_name": "p232_130",
+  "noisy_wav": "{noisy_root}/p232_130_16k.wav",
+  "clean_wav": "{clean_root}/p232_130_16k.wav",
+  "length": 2.4646875,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p232_131": {
+  "p_id": "232",
+  "utt_name": "p232_131",
+  "noisy_wav": "{noisy_root}/p232_131_16k.wav",
+  "clean_wav": "{clean_root}/p232_131_16k.wav",
+  "length": 3.0540625,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p232_132": {
+  "p_id": "232",
+  "utt_name": "p232_132",
+  "noisy_wav": "{noisy_root}/p232_132_16k.wav",
+  "clean_wav": "{clean_root}/p232_132_16k.wav",
+  "length": 1.8530625,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p232_133": {
+  "p_id": "232",
+  "utt_name": "p232_133",
+  "noisy_wav": "{noisy_root}/p232_133_16k.wav",
+  "clean_wav": "{clean_root}/p232_133_16k.wav",
+  "length": 2.439625,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p232_134": {
+  "p_id": "232",
+  "utt_name": "p232_134",
+  "noisy_wav": "{noisy_root}/p232_134_16k.wav",
+  "clean_wav": "{clean_root}/p232_134_16k.wav",
+  "length": 1.8035625,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p232_135": {
+  "p_id": "232",
+  "utt_name": "p232_135",
+  "noisy_wav": "{noisy_root}/p232_135_16k.wav",
+  "clean_wav": "{clean_root}/p232_135_16k.wav",
+  "length": 1.98375,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p232_136": {
+  "p_id": "232",
+  "utt_name": "p232_136",
+  "noisy_wav": "{noisy_root}/p232_136_16k.wav",
+  "clean_wav": "{clean_root}/p232_136_16k.wav",
+  "length": 1.7381875,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p232_137": {
+  "p_id": "232",
+  "utt_name": "p232_137",
+  "noisy_wav": "{noisy_root}/p232_137_16k.wav",
+  "clean_wav": "{clean_root}/p232_137_16k.wav",
+  "length": 1.6191875,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p232_138": {
+  "p_id": "232",
+  "utt_name": "p232_138",
+  "noisy_wav": "{noisy_root}/p232_138_16k.wav",
+  "clean_wav": "{clean_root}/p232_138_16k.wav",
+  "length": 1.5735,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p232_139": {
+  "p_id": "232",
+  "utt_name": "p232_139",
+  "noisy_wav": "{noisy_root}/p232_139_16k.wav",
+  "clean_wav": "{clean_root}/p232_139_16k.wav",
+  "length": 2.1856875,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p232_140": {
+  "p_id": "232",
+  "utt_name": "p232_140",
+  "noisy_wav": "{noisy_root}/p232_140_16k.wav",
+  "clean_wav": "{clean_root}/p232_140_16k.wav",
+  "length": 1.5865,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p232_141": {
+  "p_id": "232",
+  "utt_name": "p232_141",
+  "noisy_wav": "{noisy_root}/p232_141_16k.wav",
+  "clean_wav": "{clean_root}/p232_141_16k.wav",
+  "length": 1.7359375,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p232_142": {
+  "p_id": "232",
+  "utt_name": "p232_142",
+  "noisy_wav": "{noisy_root}/p232_142_16k.wav",
+  "clean_wav": "{clean_root}/p232_142_16k.wav",
+  "length": 2.7140625,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p232_143": {
+  "p_id": "232",
+  "utt_name": "p232_143",
+  "noisy_wav": "{noisy_root}/p232_143_16k.wav",
+  "clean_wav": "{clean_root}/p232_143_16k.wav",
+  "length": 1.774,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p232_144": {
+  "p_id": "232",
+  "utt_name": "p232_144",
+  "noisy_wav": "{noisy_root}/p232_144_16k.wav",
+  "clean_wav": "{clean_root}/p232_144_16k.wav",
+  "length": 2.280125,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p232_145": {
+  "p_id": "232",
+  "utt_name": "p232_145",
+  "noisy_wav": "{noisy_root}/p232_145_16k.wav",
+  "clean_wav": "{clean_root}/p232_145_16k.wav",
+  "length": 2.65,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p232_146": {
+  "p_id": "232",
+  "utt_name": "p232_146",
+  "noisy_wav": "{noisy_root}/p232_146_16k.wav",
+  "clean_wav": "{clean_root}/p232_146_16k.wav",
+  "length": 2.04075,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p232_147": {
+  "p_id": "232",
+  "utt_name": "p232_147",
+  "noisy_wav": "{noisy_root}/p232_147_16k.wav",
+  "clean_wav": "{clean_root}/p232_147_16k.wav",
+  "length": 2.72525,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p232_148": {
+  "p_id": "232",
+  "utt_name": "p232_148",
+  "noisy_wav": "{noisy_root}/p232_148_16k.wav",
+  "clean_wav": "{clean_root}/p232_148_16k.wav",
+  "length": 3.8730625,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p232_150": {
+  "p_id": "232",
+  "utt_name": "p232_150",
+  "noisy_wav": "{noisy_root}/p232_150_16k.wav",
+  "clean_wav": "{clean_root}/p232_150_16k.wav",
+  "length": 2.1053125,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p232_151": {
+  "p_id": "232",
+  "utt_name": "p232_151",
+  "noisy_wav": "{noisy_root}/p232_151_16k.wav",
+  "clean_wav": "{clean_root}/p232_151_16k.wav",
+  "length": 2.7268125,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p232_152": {
+  "p_id": "232",
+  "utt_name": "p232_152",
+  "noisy_wav": "{noisy_root}/p232_152_16k.wav",
+  "clean_wav": "{clean_root}/p232_152_16k.wav",
+  "length": 1.866,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p232_153": {
+  "p_id": "232",
+  "utt_name": "p232_153",
+  "noisy_wav": "{noisy_root}/p232_153_16k.wav",
+  "clean_wav": "{clean_root}/p232_153_16k.wav",
+  "length": 1.9315,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p232_154": {
+  "p_id": "232",
+  "utt_name": "p232_154",
+  "noisy_wav": "{noisy_root}/p232_154_16k.wav",
+  "clean_wav": "{clean_root}/p232_154_16k.wav",
+  "length": 2.34075,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p232_155": {
+  "p_id": "232",
+  "utt_name": "p232_155",
+  "noisy_wav": "{noisy_root}/p232_155_16k.wav",
+  "clean_wav": "{clean_root}/p232_155_16k.wav",
+  "length": 2.5508125,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p232_156": {
+  "p_id": "232",
+  "utt_name": "p232_156",
+  "noisy_wav": "{noisy_root}/p232_156_16k.wav",
+  "clean_wav": "{clean_root}/p232_156_16k.wav",
+  "length": 2.0568125,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p232_158": {
+  "p_id": "232",
+  "utt_name": "p232_158",
+  "noisy_wav": "{noisy_root}/p232_158_16k.wav",
+  "clean_wav": "{clean_root}/p232_158_16k.wav",
+  "length": 2.6820625,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p232_159": {
+  "p_id": "232",
+  "utt_name": "p232_159",
+  "noisy_wav": "{noisy_root}/p232_159_16k.wav",
+  "clean_wav": "{clean_root}/p232_159_16k.wav",
+  "length": 1.8755,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p232_160": {
+  "p_id": "232",
+  "utt_name": "p232_160",
+  "noisy_wav": "{noisy_root}/p232_160_16k.wav",
+  "clean_wav": "{clean_root}/p232_160_16k.wav",
+  "length": 3.9425,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p232_161": {
+  "p_id": "232",
+  "utt_name": "p232_161",
+  "noisy_wav": "{noisy_root}/p232_161_16k.wav",
+  "clean_wav": "{clean_root}/p232_161_16k.wav",
+  "length": 2.721875,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p232_162": {
+  "p_id": "232",
+  "utt_name": "p232_162",
+  "noisy_wav": "{noisy_root}/p232_162_16k.wav",
+  "clean_wav": "{clean_root}/p232_162_16k.wav",
+  "length": 1.5961875,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p232_163": {
+  "p_id": "232",
+  "utt_name": "p232_163",
+  "noisy_wav": "{noisy_root}/p232_163_16k.wav",
+  "clean_wav": "{clean_root}/p232_163_16k.wav",
+  "length": 2.163375,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p232_164": {
+  "p_id": "232",
+  "utt_name": "p232_164",
+  "noisy_wav": "{noisy_root}/p232_164_16k.wav",
+  "clean_wav": "{clean_root}/p232_164_16k.wav",
+  "length": 2.468875,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p232_165": {
+  "p_id": "232",
+  "utt_name": "p232_165",
+  "noisy_wav": "{noisy_root}/p232_165_16k.wav",
+  "clean_wav": "{clean_root}/p232_165_16k.wav",
+  "length": 1.749,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p232_167": {
+  "p_id": "232",
+  "utt_name": "p232_167",
+  "noisy_wav": "{noisy_root}/p232_167_16k.wav",
+  "clean_wav": "{clean_root}/p232_167_16k.wav",
+  "length": 2.6829375,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p232_169": {
+  "p_id": "232",
+  "utt_name": "p232_169",
+  "noisy_wav": "{noisy_root}/p232_169_16k.wav",
+  "clean_wav": "{clean_root}/p232_169_16k.wav",
+  "length": 3.3879375,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p232_170": {
+  "p_id": "232",
+  "utt_name": "p232_170",
+  "noisy_wav": "{noisy_root}/p232_170_16k.wav",
+  "clean_wav": "{clean_root}/p232_170_16k.wav",
+  "length": 2.0926875,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p232_171": {
+  "p_id": "232",
+  "utt_name": "p232_171",
+  "noisy_wav": "{noisy_root}/p232_171_16k.wav",
+  "clean_wav": "{clean_root}/p232_171_16k.wav",
+  "length": 2.0141875,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p232_172": {
+  "p_id": "232",
+  "utt_name": "p232_172",
+  "noisy_wav": "{noisy_root}/p232_172_16k.wav",
+  "clean_wav": "{clean_root}/p232_172_16k.wav",
+  "length": 2.0198125,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p232_173": {
+  "p_id": "232",
+  "utt_name": "p232_173",
+  "noisy_wav": "{noisy_root}/p232_173_16k.wav",
+  "clean_wav": "{clean_root}/p232_173_16k.wav",
+  "length": 2.145375,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p232_174": {
+  "p_id": "232",
+  "utt_name": "p232_174",
+  "noisy_wav": "{noisy_root}/p232_174_16k.wav",
+  "clean_wav": "{clean_root}/p232_174_16k.wav",
+  "length": 2.1546875,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p232_175": {
+  "p_id": "232",
+  "utt_name": "p232_175",
+  "noisy_wav": "{noisy_root}/p232_175_16k.wav",
+  "clean_wav": "{clean_root}/p232_175_16k.wav",
+  "length": 3.126,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p232_176": {
+  "p_id": "232",
+  "utt_name": "p232_176",
+  "noisy_wav": "{noisy_root}/p232_176_16k.wav",
+  "clean_wav": "{clean_root}/p232_176_16k.wav",
+  "length": 2.77025,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p232_177": {
+  "p_id": "232",
+  "utt_name": "p232_177",
+  "noisy_wav": "{noisy_root}/p232_177_16k.wav",
+  "clean_wav": "{clean_root}/p232_177_16k.wav",
+  "length": 2.220125,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p232_178": {
+  "p_id": "232",
+  "utt_name": "p232_178",
+  "noisy_wav": "{noisy_root}/p232_178_16k.wav",
+  "clean_wav": "{clean_root}/p232_178_16k.wav",
+  "length": 2.0085625,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p232_179": {
+  "p_id": "232",
+  "utt_name": "p232_179",
+  "noisy_wav": "{noisy_root}/p232_179_16k.wav",
+  "clean_wav": "{clean_root}/p232_179_16k.wav",
+  "length": 3.441125,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p232_180": {
+  "p_id": "232",
+  "utt_name": "p232_180",
+  "noisy_wav": "{noisy_root}/p232_180_16k.wav",
+  "clean_wav": "{clean_root}/p232_180_16k.wav",
+  "length": 3.2495625,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p232_181": {
+  "p_id": "232",
+  "utt_name": "p232_181",
+  "noisy_wav": "{noisy_root}/p232_181_16k.wav",
+  "clean_wav": "{clean_root}/p232_181_16k.wav",
+  "length": 1.8245625,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p232_182": {
+  "p_id": "232",
+  "utt_name": "p232_182",
+  "noisy_wav": "{noisy_root}/p232_182_16k.wav",
+  "clean_wav": "{clean_root}/p232_182_16k.wav",
+  "length": 2.5120625,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p232_183": {
+  "p_id": "232",
+  "utt_name": "p232_183",
+  "noisy_wav": "{noisy_root}/p232_183_16k.wav",
+  "clean_wav": "{clean_root}/p232_183_16k.wav",
+  "length": 2.154,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p232_184": {
+  "p_id": "232",
+  "utt_name": "p232_184",
+  "noisy_wav": "{noisy_root}/p232_184_16k.wav",
+  "clean_wav": "{clean_root}/p232_184_16k.wav",
+  "length": 2.1343125,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p232_185": {
+  "p_id": "232",
+  "utt_name": "p232_185",
+  "noisy_wav": "{noisy_root}/p232_185_16k.wav",
+  "clean_wav": "{clean_root}/p232_185_16k.wav",
+  "length": 2.85575,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p232_186": {
+  "p_id": "232",
+  "utt_name": "p232_186",
+  "noisy_wav": "{noisy_root}/p232_186_16k.wav",
+  "clean_wav": "{clean_root}/p232_186_16k.wav",
+  "length": 1.9129375,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p232_187": {
+  "p_id": "232",
+  "utt_name": "p232_187",
+  "noisy_wav": "{noisy_root}/p232_187_16k.wav",
+  "clean_wav": "{clean_root}/p232_187_16k.wav",
+  "length": 1.374625,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p232_188": {
+  "p_id": "232",
+  "utt_name": "p232_188",
+  "noisy_wav": "{noisy_root}/p232_188_16k.wav",
+  "clean_wav": "{clean_root}/p232_188_16k.wav",
+  "length": 3.83,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p232_189": {
+  "p_id": "232",
+  "utt_name": "p232_189",
+  "noisy_wav": "{noisy_root}/p232_189_16k.wav",
+  "clean_wav": "{clean_root}/p232_189_16k.wav",
+  "length": 2.55325,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p232_190": {
+  "p_id": "232",
+  "utt_name": "p232_190",
+  "noisy_wav": "{noisy_root}/p232_190_16k.wav",
+  "clean_wav": "{clean_root}/p232_190_16k.wav",
+  "length": 1.95175,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p232_191": {
+  "p_id": "232",
+  "utt_name": "p232_191",
+  "noisy_wav": "{noisy_root}/p232_191_16k.wav",
+  "clean_wav": "{clean_root}/p232_191_16k.wav",
+  "length": 1.9156875,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p232_193": {
+  "p_id": "232",
+  "utt_name": "p232_193",
+  "noisy_wav": "{noisy_root}/p232_193_16k.wav",
+  "clean_wav": "{clean_root}/p232_193_16k.wav",
+  "length": 2.41775,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p232_194": {
+  "p_id": "232",
+  "utt_name": "p232_194",
+  "noisy_wav": "{noisy_root}/p232_194_16k.wav",
+  "clean_wav": "{clean_root}/p232_194_16k.wav",
+  "length": 3.431,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p232_195": {
+  "p_id": "232",
+  "utt_name": "p232_195",
+  "noisy_wav": "{noisy_root}/p232_195_16k.wav",
+  "clean_wav": "{clean_root}/p232_195_16k.wav",
+  "length": 2.3469375,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p232_196": {
+  "p_id": "232",
+  "utt_name": "p232_196",
+  "noisy_wav": "{noisy_root}/p232_196_16k.wav",
+  "clean_wav": "{clean_root}/p232_196_16k.wav",
+  "length": 2.23,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p232_197": {
+  "p_id": "232",
+  "utt_name": "p232_197",
+  "noisy_wav": "{noisy_root}/p232_197_16k.wav",
+  "clean_wav": "{clean_root}/p232_197_16k.wav",
+  "length": 3.782125,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p232_198": {
+  "p_id": "232",
+  "utt_name": "p232_198",
+  "noisy_wav": "{noisy_root}/p232_198_16k.wav",
+  "clean_wav": "{clean_root}/p232_198_16k.wav",
+  "length": 2.331875,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p232_199": {
+  "p_id": "232",
+  "utt_name": "p232_199",
+  "noisy_wav": "{noisy_root}/p232_199_16k.wav",
+  "clean_wav": "{clean_root}/p232_199_16k.wav",
+  "length": 2.3984375,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p232_200": {
+  "p_id": "232",
+  "utt_name": "p232_200",
+  "noisy_wav": "{noisy_root}/p232_200_16k.wav",
+  "clean_wav": "{clean_root}/p232_200_16k.wav",
+  "length": 3.51,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p232_201": {
+  "p_id": "232",
+  "utt_name": "p232_201",
+  "noisy_wav": "{noisy_root}/p232_201_16k.wav",
+  "clean_wav": "{clean_root}/p232_201_16k.wav",
+  "length": 2.7019375,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p232_202": {
+  "p_id": "232",
+  "utt_name": "p232_202",
+  "noisy_wav": "{noisy_root}/p232_202_16k.wav",
+  "clean_wav": "{clean_root}/p232_202_16k.wav",
+  "length": 3.025125,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p232_203": {
+  "p_id": "232",
+  "utt_name": "p232_203",
+  "noisy_wav": "{noisy_root}/p232_203_16k.wav",
+  "clean_wav": "{clean_root}/p232_203_16k.wav",
+  "length": 2.0131875,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p232_204": {
+  "p_id": "232",
+  "utt_name": "p232_204",
+  "noisy_wav": "{noisy_root}/p232_204_16k.wav",
+  "clean_wav": "{clean_root}/p232_204_16k.wav",
+  "length": 3.4063125,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p232_205": {
+  "p_id": "232",
+  "utt_name": "p232_205",
+  "noisy_wav": "{noisy_root}/p232_205_16k.wav",
+  "clean_wav": "{clean_root}/p232_205_16k.wav",
+  "length": 1.8403125,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p232_206": {
+  "p_id": "232",
+  "utt_name": "p232_206",
+  "noisy_wav": "{noisy_root}/p232_206_16k.wav",
+  "clean_wav": "{clean_root}/p232_206_16k.wav",
+  "length": 2.7054375,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p232_207": {
+  "p_id": "232",
+  "utt_name": "p232_207",
+  "noisy_wav": "{noisy_root}/p232_207_16k.wav",
+  "clean_wav": "{clean_root}/p232_207_16k.wav",
+  "length": 1.5853125,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p232_208": {
+  "p_id": "232",
+  "utt_name": "p232_208",
+  "noisy_wav": "{noisy_root}/p232_208_16k.wav",
+  "clean_wav": "{clean_root}/p232_208_16k.wav",
+  "length": 1.349125,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p232_209": {
+  "p_id": "232",
+  "utt_name": "p232_209",
+  "noisy_wav": "{noisy_root}/p232_209_16k.wav",
+  "clean_wav": "{clean_root}/p232_209_16k.wav",
+  "length": 1.436875,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p232_210": {
+  "p_id": "232",
+  "utt_name": "p232_210",
+  "noisy_wav": "{noisy_root}/p232_210_16k.wav",
+  "clean_wav": "{clean_root}/p232_210_16k.wav",
+  "length": 1.52875,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p232_211": {
+  "p_id": "232",
+  "utt_name": "p232_211",
+  "noisy_wav": "{noisy_root}/p232_211_16k.wav",
+  "clean_wav": "{clean_root}/p232_211_16k.wav",
+  "length": 1.4064375,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p232_213": {
+  "p_id": "232",
+  "utt_name": "p232_213",
+  "noisy_wav": "{noisy_root}/p232_213_16k.wav",
+  "clean_wav": "{clean_root}/p232_213_16k.wav",
+  "length": 2.373125,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p232_214": {
+  "p_id": "232",
+  "utt_name": "p232_214",
+  "noisy_wav": "{noisy_root}/p232_214_16k.wav",
+  "clean_wav": "{clean_root}/p232_214_16k.wav",
+  "length": 1.93125,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p232_215": {
+  "p_id": "232",
+  "utt_name": "p232_215",
+  "noisy_wav": "{noisy_root}/p232_215_16k.wav",
+  "clean_wav": "{clean_root}/p232_215_16k.wav",
+  "length": 2.282375,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p232_216": {
+  "p_id": "232",
+  "utt_name": "p232_216",
+  "noisy_wav": "{noisy_root}/p232_216_16k.wav",
+  "clean_wav": "{clean_root}/p232_216_16k.wav",
+  "length": 3.0010625,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p232_217": {
+  "p_id": "232",
+  "utt_name": "p232_217",
+  "noisy_wav": "{noisy_root}/p232_217_16k.wav",
+  "clean_wav": "{clean_root}/p232_217_16k.wav",
+  "length": 1.538625,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p232_218": {
+  "p_id": "232",
+  "utt_name": "p232_218",
+  "noisy_wav": "{noisy_root}/p232_218_16k.wav",
+  "clean_wav": "{clean_root}/p232_218_16k.wav",
+  "length": 2.13825,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p232_219": {
+  "p_id": "232",
+  "utt_name": "p232_219",
+  "noisy_wav": "{noisy_root}/p232_219_16k.wav",
+  "clean_wav": "{clean_root}/p232_219_16k.wav",
+  "length": 3.4576875,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p232_220": {
+  "p_id": "232",
+  "utt_name": "p232_220",
+  "noisy_wav": "{noisy_root}/p232_220_16k.wav",
+  "clean_wav": "{clean_root}/p232_220_16k.wav",
+  "length": 3.6615,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p232_221": {
+  "p_id": "232",
+  "utt_name": "p232_221",
+  "noisy_wav": "{noisy_root}/p232_221_16k.wav",
+  "clean_wav": "{clean_root}/p232_221_16k.wav",
+  "length": 3.317375,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p232_223": {
+  "p_id": "232",
+  "utt_name": "p232_223",
+  "noisy_wav": "{noisy_root}/p232_223_16k.wav",
+  "clean_wav": "{clean_root}/p232_223_16k.wav",
+  "length": 2.5131875,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p232_224": {
+  "p_id": "232",
+  "utt_name": "p232_224",
+  "noisy_wav": "{noisy_root}/p232_224_16k.wav",
+  "clean_wav": "{clean_root}/p232_224_16k.wav",
+  "length": 2.06925,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p232_225": {
+  "p_id": "232",
+  "utt_name": "p232_225",
+  "noisy_wav": "{noisy_root}/p232_225_16k.wav",
+  "clean_wav": "{clean_root}/p232_225_16k.wav",
+  "length": 1.67275,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p232_226": {
+  "p_id": "232",
+  "utt_name": "p232_226",
+  "noisy_wav": "{noisy_root}/p232_226_16k.wav",
+  "clean_wav": "{clean_root}/p232_226_16k.wav",
+  "length": 2.3133125,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p232_227": {
+  "p_id": "232",
+  "utt_name": "p232_227",
+  "noisy_wav": "{noisy_root}/p232_227_16k.wav",
+  "clean_wav": "{clean_root}/p232_227_16k.wav",
+  "length": 3.246125,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p232_228": {
+  "p_id": "232",
+  "utt_name": "p232_228",
+  "noisy_wav": "{noisy_root}/p232_228_16k.wav",
+  "clean_wav": "{clean_root}/p232_228_16k.wav",
+  "length": 1.6609375,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p232_229": {
+  "p_id": "232",
+  "utt_name": "p232_229",
+  "noisy_wav": "{noisy_root}/p232_229_16k.wav",
+  "clean_wav": "{clean_root}/p232_229_16k.wav",
+  "length": 1.8749375,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p232_230": {
+  "p_id": "232",
+  "utt_name": "p232_230",
+  "noisy_wav": "{noisy_root}/p232_230_16k.wav",
+  "clean_wav": "{clean_root}/p232_230_16k.wav",
+  "length": 1.888875,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p232_231": {
+  "p_id": "232",
+  "utt_name": "p232_231",
+  "noisy_wav": "{noisy_root}/p232_231_16k.wav",
+  "clean_wav": "{clean_root}/p232_231_16k.wav",
+  "length": 2.1906875,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p232_232": {
+  "p_id": "232",
+  "utt_name": "p232_232",
+  "noisy_wav": "{noisy_root}/p232_232_16k.wav",
+  "clean_wav": "{clean_root}/p232_232_16k.wav",
+  "length": 4.28,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p232_234": {
+  "p_id": "232",
+  "utt_name": "p232_234",
+  "noisy_wav": "{noisy_root}/p232_234_16k.wav",
+  "clean_wav": "{clean_root}/p232_234_16k.wav",
+  "length": 1.597375,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p232_235": {
+  "p_id": "232",
+  "utt_name": "p232_235",
+  "noisy_wav": "{noisy_root}/p232_235_16k.wav",
+  "clean_wav": "{clean_root}/p232_235_16k.wav",
+  "length": 3.9588125,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p232_236": {
+  "p_id": "232",
+  "utt_name": "p232_236",
+  "noisy_wav": "{noisy_root}/p232_236_16k.wav",
+  "clean_wav": "{clean_root}/p232_236_16k.wav",
+  "length": 1.567875,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p232_237": {
+  "p_id": "232",
+  "utt_name": "p232_237",
+  "noisy_wav": "{noisy_root}/p232_237_16k.wav",
+  "clean_wav": "{clean_root}/p232_237_16k.wav",
+  "length": 2.8215625,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p232_238": {
+  "p_id": "232",
+  "utt_name": "p232_238",
+  "noisy_wav": "{noisy_root}/p232_238_16k.wav",
+  "clean_wav": "{clean_root}/p232_238_16k.wav",
+  "length": 2.35175,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p232_239": {
+  "p_id": "232",
+  "utt_name": "p232_239",
+  "noisy_wav": "{noisy_root}/p232_239_16k.wav",
+  "clean_wav": "{clean_root}/p232_239_16k.wav",
+  "length": 1.861375,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p232_240": {
+  "p_id": "232",
+  "utt_name": "p232_240",
+  "noisy_wav": "{noisy_root}/p232_240_16k.wav",
+  "clean_wav": "{clean_root}/p232_240_16k.wav",
+  "length": 3.3024375,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p232_241": {
+  "p_id": "232",
+  "utt_name": "p232_241",
+  "noisy_wav": "{noisy_root}/p232_241_16k.wav",
+  "clean_wav": "{clean_root}/p232_241_16k.wav",
+  "length": 1.519625,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p232_242": {
+  "p_id": "232",
+  "utt_name": "p232_242",
+  "noisy_wav": "{noisy_root}/p232_242_16k.wav",
+  "clean_wav": "{clean_root}/p232_242_16k.wav",
+  "length": 1.7231875,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p232_243": {
+  "p_id": "232",
+  "utt_name": "p232_243",
+  "noisy_wav": "{noisy_root}/p232_243_16k.wav",
+  "clean_wav": "{clean_root}/p232_243_16k.wav",
+  "length": 1.9116875,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p232_244": {
+  "p_id": "232",
+  "utt_name": "p232_244",
+  "noisy_wav": "{noisy_root}/p232_244_16k.wav",
+  "clean_wav": "{clean_root}/p232_244_16k.wav",
+  "length": 3.2873125,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p232_245": {
+  "p_id": "232",
+  "utt_name": "p232_245",
+  "noisy_wav": "{noisy_root}/p232_245_16k.wav",
+  "clean_wav": "{clean_root}/p232_245_16k.wav",
+  "length": 2.1376875,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p232_246": {
+  "p_id": "232",
+  "utt_name": "p232_246",
+  "noisy_wav": "{noisy_root}/p232_246_16k.wav",
+  "clean_wav": "{clean_root}/p232_246_16k.wav",
+  "length": 2.5395625,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p232_247": {
+  "p_id": "232",
+  "utt_name": "p232_247",
+  "noisy_wav": "{noisy_root}/p232_247_16k.wav",
+  "clean_wav": "{clean_root}/p232_247_16k.wav",
+  "length": 1.7411875,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p232_248": {
+  "p_id": "232",
+  "utt_name": "p232_248",
+  "noisy_wav": "{noisy_root}/p232_248_16k.wav",
+  "clean_wav": "{clean_root}/p232_248_16k.wav",
+  "length": 3.350375,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p232_249": {
+  "p_id": "232",
+  "utt_name": "p232_249",
+  "noisy_wav": "{noisy_root}/p232_249_16k.wav",
+  "clean_wav": "{clean_root}/p232_249_16k.wav",
+  "length": 2.8853125,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p232_250": {
+  "p_id": "232",
+  "utt_name": "p232_250",
+  "noisy_wav": "{noisy_root}/p232_250_16k.wav",
+  "clean_wav": "{clean_root}/p232_250_16k.wav",
+  "length": 2.8271875,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p232_251": {
+  "p_id": "232",
+  "utt_name": "p232_251",
+  "noisy_wav": "{noisy_root}/p232_251_16k.wav",
+  "clean_wav": "{clean_root}/p232_251_16k.wav",
+  "length": 3.33725,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p232_252": {
+  "p_id": "232",
+  "utt_name": "p232_252",
+  "noisy_wav": "{noisy_root}/p232_252_16k.wav",
+  "clean_wav": "{clean_root}/p232_252_16k.wav",
+  "length": 2.97,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p232_253": {
+  "p_id": "232",
+  "utt_name": "p232_253",
+  "noisy_wav": "{noisy_root}/p232_253_16k.wav",
+  "clean_wav": "{clean_root}/p232_253_16k.wav",
+  "length": 3.027875,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p232_254": {
+  "p_id": "232",
+  "utt_name": "p232_254",
+  "noisy_wav": "{noisy_root}/p232_254_16k.wav",
+  "clean_wav": "{clean_root}/p232_254_16k.wav",
+  "length": 2.84,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p232_255": {
+  "p_id": "232",
+  "utt_name": "p232_255",
+  "noisy_wav": "{noisy_root}/p232_255_16k.wav",
+  "clean_wav": "{clean_root}/p232_255_16k.wav",
+  "length": 2.7515625,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p232_256": {
+  "p_id": "232",
+  "utt_name": "p232_256",
+  "noisy_wav": "{noisy_root}/p232_256_16k.wav",
+  "clean_wav": "{clean_root}/p232_256_16k.wav",
+  "length": 2.0246875,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p232_257": {
+  "p_id": "232",
+  "utt_name": "p232_257",
+  "noisy_wav": "{noisy_root}/p232_257_16k.wav",
+  "clean_wav": "{clean_root}/p232_257_16k.wav",
+  "length": 1.7491875,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p232_258": {
+  "p_id": "232",
+  "utt_name": "p232_258",
+  "noisy_wav": "{noisy_root}/p232_258_16k.wav",
+  "clean_wav": "{clean_root}/p232_258_16k.wav",
+  "length": 2.7593125,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p232_259": {
+  "p_id": "232",
+  "utt_name": "p232_259",
+  "noisy_wav": "{noisy_root}/p232_259_16k.wav",
+  "clean_wav": "{clean_root}/p232_259_16k.wav",
+  "length": 3.908,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p232_260": {
+  "p_id": "232",
+  "utt_name": "p232_260",
+  "noisy_wav": "{noisy_root}/p232_260_16k.wav",
+  "clean_wav": "{clean_root}/p232_260_16k.wav",
+  "length": 2.8565625,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p232_261": {
+  "p_id": "232",
+  "utt_name": "p232_261",
+  "noisy_wav": "{noisy_root}/p232_261_16k.wav",
+  "clean_wav": "{clean_root}/p232_261_16k.wav",
+  "length": 3.189125,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p232_263": {
+  "p_id": "232",
+  "utt_name": "p232_263",
+  "noisy_wav": "{noisy_root}/p232_263_16k.wav",
+  "clean_wav": "{clean_root}/p232_263_16k.wav",
+  "length": 2.9283125,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p232_264": {
+  "p_id": "232",
+  "utt_name": "p232_264",
+  "noisy_wav": "{noisy_root}/p232_264_16k.wav",
+  "clean_wav": "{clean_root}/p232_264_16k.wav",
+  "length": 3.16275,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p232_265": {
+  "p_id": "232",
+  "utt_name": "p232_265",
+  "noisy_wav": "{noisy_root}/p232_265_16k.wav",
+  "clean_wav": "{clean_root}/p232_265_16k.wav",
+  "length": 1.881,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p232_266": {
+  "p_id": "232",
+  "utt_name": "p232_266",
+  "noisy_wav": "{noisy_root}/p232_266_16k.wav",
+  "clean_wav": "{clean_root}/p232_266_16k.wav",
+  "length": 2.3356875,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p232_267": {
+  "p_id": "232",
+  "utt_name": "p232_267",
+  "noisy_wav": "{noisy_root}/p232_267_16k.wav",
+  "clean_wav": "{clean_root}/p232_267_16k.wav",
+  "length": 3.336375,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p232_268": {
+  "p_id": "232",
+  "utt_name": "p232_268",
+  "noisy_wav": "{noisy_root}/p232_268_16k.wav",
+  "clean_wav": "{clean_root}/p232_268_16k.wav",
+  "length": 2.1374375,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p232_269": {
+  "p_id": "232",
+  "utt_name": "p232_269",
+  "noisy_wav": "{noisy_root}/p232_269_16k.wav",
+  "clean_wav": "{clean_root}/p232_269_16k.wav",
+  "length": 2.958,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p232_270": {
+  "p_id": "232",
+  "utt_name": "p232_270",
+  "noisy_wav": "{noisy_root}/p232_270_16k.wav",
+  "clean_wav": "{clean_root}/p232_270_16k.wav",
+  "length": 3.0149375,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p232_271": {
+  "p_id": "232",
+  "utt_name": "p232_271",
+  "noisy_wav": "{noisy_root}/p232_271_16k.wav",
+  "clean_wav": "{clean_root}/p232_271_16k.wav",
+  "length": 2.983625,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p232_272": {
+  "p_id": "232",
+  "utt_name": "p232_272",
+  "noisy_wav": "{noisy_root}/p232_272_16k.wav",
+  "clean_wav": "{clean_root}/p232_272_16k.wav",
+  "length": 2.0786875,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p232_273": {
+  "p_id": "232",
+  "utt_name": "p232_273",
+  "noisy_wav": "{noisy_root}/p232_273_16k.wav",
+  "clean_wav": "{clean_root}/p232_273_16k.wav",
+  "length": 2.554,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p232_274": {
+  "p_id": "232",
+  "utt_name": "p232_274",
+  "noisy_wav": "{noisy_root}/p232_274_16k.wav",
+  "clean_wav": "{clean_root}/p232_274_16k.wav",
+  "length": 3.0113125,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p232_275": {
+  "p_id": "232",
+  "utt_name": "p232_275",
+  "noisy_wav": "{noisy_root}/p232_275_16k.wav",
+  "clean_wav": "{clean_root}/p232_275_16k.wav",
+  "length": 3.073625,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p232_276": {
+  "p_id": "232",
+  "utt_name": "p232_276",
+  "noisy_wav": "{noisy_root}/p232_276_16k.wav",
+  "clean_wav": "{clean_root}/p232_276_16k.wav",
+  "length": 2.624625,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p232_277": {
+  "p_id": "232",
+  "utt_name": "p232_277",
+  "noisy_wav": "{noisy_root}/p232_277_16k.wav",
+  "clean_wav": "{clean_root}/p232_277_16k.wav",
+  "length": 3.0454375,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p232_278": {
+  "p_id": "232",
+  "utt_name": "p232_278",
+  "noisy_wav": "{noisy_root}/p232_278_16k.wav",
+  "clean_wav": "{clean_root}/p232_278_16k.wav",
+  "length": 2.4678125,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p232_279": {
+  "p_id": "232",
+  "utt_name": "p232_279",
+  "noisy_wav": "{noisy_root}/p232_279_16k.wav",
+  "clean_wav": "{clean_root}/p232_279_16k.wav",
+  "length": 2.317125,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p232_280": {
+  "p_id": "232",
+  "utt_name": "p232_280",
+  "noisy_wav": "{noisy_root}/p232_280_16k.wav",
+  "clean_wav": "{clean_root}/p232_280_16k.wav",
+  "length": 3.0670625,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p232_281": {
+  "p_id": "232",
+  "utt_name": "p232_281",
+  "noisy_wav": "{noisy_root}/p232_281_16k.wav",
+  "clean_wav": "{clean_root}/p232_281_16k.wav",
+  "length": 1.844375,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p232_282": {
+  "p_id": "232",
+  "utt_name": "p232_282",
+  "noisy_wav": "{noisy_root}/p232_282_16k.wav",
+  "clean_wav": "{clean_root}/p232_282_16k.wav",
+  "length": 3.5884375,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p232_283": {
+  "p_id": "232",
+  "utt_name": "p232_283",
+  "noisy_wav": "{noisy_root}/p232_283_16k.wav",
+  "clean_wav": "{clean_root}/p232_283_16k.wav",
+  "length": 1.80125,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p232_284": {
+  "p_id": "232",
+  "utt_name": "p232_284",
+  "noisy_wav": "{noisy_root}/p232_284_16k.wav",
+  "clean_wav": "{clean_root}/p232_284_16k.wav",
+  "length": 2.615875,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p232_285": {
+  "p_id": "232",
+  "utt_name": "p232_285",
+  "noisy_wav": "{noisy_root}/p232_285_16k.wav",
+  "clean_wav": "{clean_root}/p232_285_16k.wav",
+  "length": 2.181875,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p232_286": {
+  "p_id": "232",
+  "utt_name": "p232_286",
+  "noisy_wav": "{noisy_root}/p232_286_16k.wav",
+  "clean_wav": "{clean_root}/p232_286_16k.wav",
+  "length": 2.2515,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p232_287": {
+  "p_id": "232",
+  "utt_name": "p232_287",
+  "noisy_wav": "{noisy_root}/p232_287_16k.wav",
+  "clean_wav": "{clean_root}/p232_287_16k.wav",
+  "length": 2.1556875,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p232_288": {
+  "p_id": "232",
+  "utt_name": "p232_288",
+  "noisy_wav": "{noisy_root}/p232_288_16k.wav",
+  "clean_wav": "{clean_root}/p232_288_16k.wav",
+  "length": 1.677875,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p232_289": {
+  "p_id": "232",
+  "utt_name": "p232_289",
+  "noisy_wav": "{noisy_root}/p232_289_16k.wav",
+  "clean_wav": "{clean_root}/p232_289_16k.wav",
+  "length": 3.27025,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p232_290": {
+  "p_id": "232",
+  "utt_name": "p232_290",
+  "noisy_wav": "{noisy_root}/p232_290_16k.wav",
+  "clean_wav": "{clean_root}/p232_290_16k.wav",
+  "length": 1.8731875,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p232_291": {
+  "p_id": "232",
+  "utt_name": "p232_291",
+  "noisy_wav": "{noisy_root}/p232_291_16k.wav",
+  "clean_wav": "{clean_root}/p232_291_16k.wav",
+  "length": 2.286125,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p232_292": {
+  "p_id": "232",
+  "utt_name": "p232_292",
+  "noisy_wav": "{noisy_root}/p232_292_16k.wav",
+  "clean_wav": "{clean_root}/p232_292_16k.wav",
+  "length": 2.4900625,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p232_293": {
+  "p_id": "232",
+  "utt_name": "p232_293",
+  "noisy_wav": "{noisy_root}/p232_293_16k.wav",
+  "clean_wav": "{clean_root}/p232_293_16k.wav",
+  "length": 3.4145,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p232_294": {
+  "p_id": "232",
+  "utt_name": "p232_294",
+  "noisy_wav": "{noisy_root}/p232_294_16k.wav",
+  "clean_wav": "{clean_root}/p232_294_16k.wav",
+  "length": 3.4866875,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p232_295": {
+  "p_id": "232",
+  "utt_name": "p232_295",
+  "noisy_wav": "{noisy_root}/p232_295_16k.wav",
+  "clean_wav": "{clean_root}/p232_295_16k.wav",
+  "length": 3.0771875,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p232_296": {
+  "p_id": "232",
+  "utt_name": "p232_296",
+  "noisy_wav": "{noisy_root}/p232_296_16k.wav",
+  "clean_wav": "{clean_root}/p232_296_16k.wav",
+  "length": 2.172,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p232_297": {
+  "p_id": "232",
+  "utt_name": "p232_297",
+  "noisy_wav": "{noisy_root}/p232_297_16k.wav",
+  "clean_wav": "{clean_root}/p232_297_16k.wav",
+  "length": 2.1638125,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p232_298": {
+  "p_id": "232",
+  "utt_name": "p232_298",
+  "noisy_wav": "{noisy_root}/p232_298_16k.wav",
+  "clean_wav": "{clean_root}/p232_298_16k.wav",
+  "length": 1.6003125,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p232_299": {
+  "p_id": "232",
+  "utt_name": "p232_299",
+  "noisy_wav": "{noisy_root}/p232_299_16k.wav",
+  "clean_wav": "{clean_root}/p232_299_16k.wav",
+  "length": 1.694375,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p232_300": {
+  "p_id": "232",
+  "utt_name": "p232_300",
+  "noisy_wav": "{noisy_root}/p232_300_16k.wav",
+  "clean_wav": "{clean_root}/p232_300_16k.wav",
+  "length": 1.53175,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p232_301": {
+  "p_id": "232",
+  "utt_name": "p232_301",
+  "noisy_wav": "{noisy_root}/p232_301_16k.wav",
+  "clean_wav": "{clean_root}/p232_301_16k.wav",
+  "length": 2.3813125,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p232_302": {
+  "p_id": "232",
+  "utt_name": "p232_302",
+  "noisy_wav": "{noisy_root}/p232_302_16k.wav",
+  "clean_wav": "{clean_root}/p232_302_16k.wav",
+  "length": 1.6976875,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p232_303": {
+  "p_id": "232",
+  "utt_name": "p232_303",
+  "noisy_wav": "{noisy_root}/p232_303_16k.wav",
+  "clean_wav": "{clean_root}/p232_303_16k.wav",
+  "length": 3.672875,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p232_305": {
+  "p_id": "232",
+  "utt_name": "p232_305",
+  "noisy_wav": "{noisy_root}/p232_305_16k.wav",
+  "clean_wav": "{clean_root}/p232_305_16k.wav",
+  "length": 1.4545625,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p232_306": {
+  "p_id": "232",
+  "utt_name": "p232_306",
+  "noisy_wav": "{noisy_root}/p232_306_16k.wav",
+  "clean_wav": "{clean_root}/p232_306_16k.wav",
+  "length": 1.796375,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p232_307": {
+  "p_id": "232",
+  "utt_name": "p232_307",
+  "noisy_wav": "{noisy_root}/p232_307_16k.wav",
+  "clean_wav": "{clean_root}/p232_307_16k.wav",
+  "length": 3.912625,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p232_308": {
+  "p_id": "232",
+  "utt_name": "p232_308",
+  "noisy_wav": "{noisy_root}/p232_308_16k.wav",
+  "clean_wav": "{clean_root}/p232_308_16k.wav",
+  "length": 2.0745625,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p232_309": {
+  "p_id": "232",
+  "utt_name": "p232_309",
+  "noisy_wav": "{noisy_root}/p232_309_16k.wav",
+  "clean_wav": "{clean_root}/p232_309_16k.wav",
+  "length": 2.476375,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p232_310": {
+  "p_id": "232",
+  "utt_name": "p232_310",
+  "noisy_wav": "{noisy_root}/p232_310_16k.wav",
+  "clean_wav": "{clean_root}/p232_310_16k.wav",
+  "length": 1.4520625,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p232_311": {
+  "p_id": "232",
+  "utt_name": "p232_311",
+  "noisy_wav": "{noisy_root}/p232_311_16k.wav",
+  "clean_wav": "{clean_root}/p232_311_16k.wav",
+  "length": 2.02325,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p232_312": {
+  "p_id": "232",
+  "utt_name": "p232_312",
+  "noisy_wav": "{noisy_root}/p232_312_16k.wav",
+  "clean_wav": "{clean_root}/p232_312_16k.wav",
+  "length": 2.770625,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p232_313": {
+  "p_id": "232",
+  "utt_name": "p232_313",
+  "noisy_wav": "{noisy_root}/p232_313_16k.wav",
+  "clean_wav": "{clean_root}/p232_313_16k.wav",
+  "length": 2.126125,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p232_314": {
+  "p_id": "232",
+  "utt_name": "p232_314",
+  "noisy_wav": "{noisy_root}/p232_314_16k.wav",
+  "clean_wav": "{clean_root}/p232_314_16k.wav",
+  "length": 1.7798125,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p232_315": {
+  "p_id": "232",
+  "utt_name": "p232_315",
+  "noisy_wav": "{noisy_root}/p232_315_16k.wav",
+  "clean_wav": "{clean_root}/p232_315_16k.wav",
+  "length": 1.538875,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p232_316": {
+  "p_id": "232",
+  "utt_name": "p232_316",
+  "noisy_wav": "{noisy_root}/p232_316_16k.wav",
+  "clean_wav": "{clean_root}/p232_316_16k.wav",
+  "length": 1.6316875,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p232_317": {
+  "p_id": "232",
+  "utt_name": "p232_317",
+  "noisy_wav": "{noisy_root}/p232_317_16k.wav",
+  "clean_wav": "{clean_root}/p232_317_16k.wav",
+  "length": 2.4048125,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p232_318": {
+  "p_id": "232",
+  "utt_name": "p232_318",
+  "noisy_wav": "{noisy_root}/p232_318_16k.wav",
+  "clean_wav": "{clean_root}/p232_318_16k.wav",
+  "length": 2.390875,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p232_319": {
+  "p_id": "232",
+  "utt_name": "p232_319",
+  "noisy_wav": "{noisy_root}/p232_319_16k.wav",
+  "clean_wav": "{clean_root}/p232_319_16k.wav",
+  "length": 2.472,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p232_320": {
+  "p_id": "232",
+  "utt_name": "p232_320",
+  "noisy_wav": "{noisy_root}/p232_320_16k.wav",
+  "clean_wav": "{clean_root}/p232_320_16k.wav",
+  "length": 1.9813125,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p232_321": {
+  "p_id": "232",
+  "utt_name": "p232_321",
+  "noisy_wav": "{noisy_root}/p232_321_16k.wav",
+  "clean_wav": "{clean_root}/p232_321_16k.wav",
+  "length": 2.5575625,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p232_322": {
+  "p_id": "232",
+  "utt_name": "p232_322",
+  "noisy_wav": "{noisy_root}/p232_322_16k.wav",
+  "clean_wav": "{clean_root}/p232_322_16k.wav",
+  "length": 2.6695,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p232_323": {
+  "p_id": "232",
+  "utt_name": "p232_323",
+  "noisy_wav": "{noisy_root}/p232_323_16k.wav",
+  "clean_wav": "{clean_root}/p232_323_16k.wav",
+  "length": 2.1223125,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p232_324": {
+  "p_id": "232",
+  "utt_name": "p232_324",
+  "noisy_wav": "{noisy_root}/p232_324_16k.wav",
+  "clean_wav": "{clean_root}/p232_324_16k.wav",
+  "length": 2.5594375,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p232_325": {
+  "p_id": "232",
+  "utt_name": "p232_325",
+  "noisy_wav": "{noisy_root}/p232_325_16k.wav",
+  "clean_wav": "{clean_root}/p232_325_16k.wav",
+  "length": 1.757125,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p232_326": {
+  "p_id": "232",
+  "utt_name": "p232_326",
+  "noisy_wav": "{noisy_root}/p232_326_16k.wav",
+  "clean_wav": "{clean_root}/p232_326_16k.wav",
+  "length": 1.6506875,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p232_327": {
+  "p_id": "232",
+  "utt_name": "p232_327",
+  "noisy_wav": "{noisy_root}/p232_327_16k.wav",
+  "clean_wav": "{clean_root}/p232_327_16k.wav",
+  "length": 2.382625,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p232_328": {
+  "p_id": "232",
+  "utt_name": "p232_328",
+  "noisy_wav": "{noisy_root}/p232_328_16k.wav",
+  "clean_wav": "{clean_root}/p232_328_16k.wav",
+  "length": 2.655375,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p232_329": {
+  "p_id": "232",
+  "utt_name": "p232_329",
+  "noisy_wav": "{noisy_root}/p232_329_16k.wav",
+  "clean_wav": "{clean_root}/p232_329_16k.wav",
+  "length": 1.9905,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p232_330": {
+  "p_id": "232",
+  "utt_name": "p232_330",
+  "noisy_wav": "{noisy_root}/p232_330_16k.wav",
+  "clean_wav": "{clean_root}/p232_330_16k.wav",
+  "length": 2.2131875,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p232_331": {
+  "p_id": "232",
+  "utt_name": "p232_331",
+  "noisy_wav": "{noisy_root}/p232_331_16k.wav",
+  "clean_wav": "{clean_root}/p232_331_16k.wav",
+  "length": 2.290625,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p232_332": {
+  "p_id": "232",
+  "utt_name": "p232_332",
+  "noisy_wav": "{noisy_root}/p232_332_16k.wav",
+  "clean_wav": "{clean_root}/p232_332_16k.wav",
+  "length": 2.1443125,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p232_333": {
+  "p_id": "232",
+  "utt_name": "p232_333",
+  "noisy_wav": "{noisy_root}/p232_333_16k.wav",
+  "clean_wav": "{clean_root}/p232_333_16k.wav",
+  "length": 1.9954375,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p232_334": {
+  "p_id": "232",
+  "utt_name": "p232_334",
+  "noisy_wav": "{noisy_root}/p232_334_16k.wav",
+  "clean_wav": "{clean_root}/p232_334_16k.wav",
+  "length": 3.0804375,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p232_335": {
+  "p_id": "232",
+  "utt_name": "p232_335",
+  "noisy_wav": "{noisy_root}/p232_335_16k.wav",
+  "clean_wav": "{clean_root}/p232_335_16k.wav",
+  "length": 2.0916875,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p232_336": {
+  "p_id": "232",
+  "utt_name": "p232_336",
+  "noisy_wav": "{noisy_root}/p232_336_16k.wav",
+  "clean_wav": "{clean_root}/p232_336_16k.wav",
+  "length": 2.9143125,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p232_337": {
+  "p_id": "232",
+  "utt_name": "p232_337",
+  "noisy_wav": "{noisy_root}/p232_337_16k.wav",
+  "clean_wav": "{clean_root}/p232_337_16k.wav",
+  "length": 2.8546875,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p232_338": {
+  "p_id": "232",
+  "utt_name": "p232_338",
+  "noisy_wav": "{noisy_root}/p232_338_16k.wav",
+  "clean_wav": "{clean_root}/p232_338_16k.wav",
+  "length": 2.3106875,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p232_339": {
+  "p_id": "232",
+  "utt_name": "p232_339",
+  "noisy_wav": "{noisy_root}/p232_339_16k.wav",
+  "clean_wav": "{clean_root}/p232_339_16k.wav",
+  "length": 1.9653125,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p232_340": {
+  "p_id": "232",
+  "utt_name": "p232_340",
+  "noisy_wav": "{noisy_root}/p232_340_16k.wav",
+  "clean_wav": "{clean_root}/p232_340_16k.wav",
+  "length": 1.441125,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p232_341": {
+  "p_id": "232",
+  "utt_name": "p232_341",
+  "noisy_wav": "{noisy_root}/p232_341_16k.wav",
+  "clean_wav": "{clean_root}/p232_341_16k.wav",
+  "length": 2.6,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p232_342": {
+  "p_id": "232",
+  "utt_name": "p232_342",
+  "noisy_wav": "{noisy_root}/p232_342_16k.wav",
+  "clean_wav": "{clean_root}/p232_342_16k.wav",
+  "length": 2.6228125,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p232_343": {
+  "p_id": "232",
+  "utt_name": "p232_343",
+  "noisy_wav": "{noisy_root}/p232_343_16k.wav",
+  "clean_wav": "{clean_root}/p232_343_16k.wav",
+  "length": 3.881125,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p232_344": {
+  "p_id": "232",
+  "utt_name": "p232_344",
+  "noisy_wav": "{noisy_root}/p232_344_16k.wav",
+  "clean_wav": "{clean_root}/p232_344_16k.wav",
+  "length": 1.5815625,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p232_346": {
+  "p_id": "232",
+  "utt_name": "p232_346",
+  "noisy_wav": "{noisy_root}/p232_346_16k.wav",
+  "clean_wav": "{clean_root}/p232_346_16k.wav",
+  "length": 1.9528125,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p232_347": {
+  "p_id": "232",
+  "utt_name": "p232_347",
+  "noisy_wav": "{noisy_root}/p232_347_16k.wav",
+  "clean_wav": "{clean_root}/p232_347_16k.wav",
+  "length": 3.2945625,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p232_348": {
+  "p_id": "232",
+  "utt_name": "p232_348",
+  "noisy_wav": "{noisy_root}/p232_348_16k.wav",
+  "clean_wav": "{clean_root}/p232_348_16k.wav",
+  "length": 2.74525,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p232_349": {
+  "p_id": "232",
+  "utt_name": "p232_349",
+  "noisy_wav": "{noisy_root}/p232_349_16k.wav",
+  "clean_wav": "{clean_root}/p232_349_16k.wav",
+  "length": 2.6585,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p232_350": {
+  "p_id": "232",
+  "utt_name": "p232_350",
+  "noisy_wav": "{noisy_root}/p232_350_16k.wav",
+  "clean_wav": "{clean_root}/p232_350_16k.wav",
+  "length": 2.77,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p232_351": {
+  "p_id": "232",
+  "utt_name": "p232_351",
+  "noisy_wav": "{noisy_root}/p232_351_16k.wav",
+  "clean_wav": "{clean_root}/p232_351_16k.wav",
+  "length": 1.870125,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p232_352": {
+  "p_id": "232",
+  "utt_name": "p232_352",
+  "noisy_wav": "{noisy_root}/p232_352_16k.wav",
+  "clean_wav": "{clean_root}/p232_352_16k.wav",
+  "length": 1.841125,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p232_353": {
+  "p_id": "232",
+  "utt_name": "p232_353",
+  "noisy_wav": "{noisy_root}/p232_353_16k.wav",
+  "clean_wav": "{clean_root}/p232_353_16k.wav",
+  "length": 2.4139375,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p232_354": {
+  "p_id": "232",
+  "utt_name": "p232_354",
+  "noisy_wav": "{noisy_root}/p232_354_16k.wav",
+  "clean_wav": "{clean_root}/p232_354_16k.wav",
+  "length": 1.685375,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p232_355": {
+  "p_id": "232",
+  "utt_name": "p232_355",
+  "noisy_wav": "{noisy_root}/p232_355_16k.wav",
+  "clean_wav": "{clean_root}/p232_355_16k.wav",
+  "length": 3.107625,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p232_356": {
+  "p_id": "232",
+  "utt_name": "p232_356",
+  "noisy_wav": "{noisy_root}/p232_356_16k.wav",
+  "clean_wav": "{clean_root}/p232_356_16k.wav",
+  "length": 2.962625,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p232_357": {
+  "p_id": "232",
+  "utt_name": "p232_357",
+  "noisy_wav": "{noisy_root}/p232_357_16k.wav",
+  "clean_wav": "{clean_root}/p232_357_16k.wav",
+  "length": 2.2158125,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p232_358": {
+  "p_id": "232",
+  "utt_name": "p232_358",
+  "noisy_wav": "{noisy_root}/p232_358_16k.wav",
+  "clean_wav": "{clean_root}/p232_358_16k.wav",
+  "length": 1.739,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p232_359": {
+  "p_id": "232",
+  "utt_name": "p232_359",
+  "noisy_wav": "{noisy_root}/p232_359_16k.wav",
+  "clean_wav": "{clean_root}/p232_359_16k.wav",
+  "length": 1.4725625,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p232_360": {
+  "p_id": "232",
+  "utt_name": "p232_360",
+  "noisy_wav": "{noisy_root}/p232_360_16k.wav",
+  "clean_wav": "{clean_root}/p232_360_16k.wav",
+  "length": 2.7328125,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p232_361": {
+  "p_id": "232",
+  "utt_name": "p232_361",
+  "noisy_wav": "{noisy_root}/p232_361_16k.wav",
+  "clean_wav": "{clean_root}/p232_361_16k.wav",
+  "length": 1.93525,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p232_362": {
+  "p_id": "232",
+  "utt_name": "p232_362",
+  "noisy_wav": "{noisy_root}/p232_362_16k.wav",
+  "clean_wav": "{clean_root}/p232_362_16k.wav",
+  "length": 2.8750625,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p232_363": {
+  "p_id": "232",
+  "utt_name": "p232_363",
+  "noisy_wav": "{noisy_root}/p232_363_16k.wav",
+  "clean_wav": "{clean_root}/p232_363_16k.wav",
+  "length": 3.3263125,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p232_364": {
+  "p_id": "232",
+  "utt_name": "p232_364",
+  "noisy_wav": "{noisy_root}/p232_364_16k.wav",
+  "clean_wav": "{clean_root}/p232_364_16k.wav",
+  "length": 2.47125,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p232_365": {
+  "p_id": "232",
+  "utt_name": "p232_365",
+  "noisy_wav": "{noisy_root}/p232_365_16k.wav",
+  "clean_wav": "{clean_root}/p232_365_16k.wav",
+  "length": 2.2230625,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p232_366": {
+  "p_id": "232",
+  "utt_name": "p232_366",
+  "noisy_wav": "{noisy_root}/p232_366_16k.wav",
+  "clean_wav": "{clean_root}/p232_366_16k.wav",
+  "length": 1.976625,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p232_367": {
+  "p_id": "232",
+  "utt_name": "p232_367",
+  "noisy_wav": "{noisy_root}/p232_367_16k.wav",
+  "clean_wav": "{clean_root}/p232_367_16k.wav",
+  "length": 1.8273125,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p232_368": {
+  "p_id": "232",
+  "utt_name": "p232_368",
+  "noisy_wav": "{noisy_root}/p232_368_16k.wav",
+  "clean_wav": "{clean_root}/p232_368_16k.wav",
+  "length": 1.98775,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p232_369": {
+  "p_id": "232",
+  "utt_name": "p232_369",
+  "noisy_wav": "{noisy_root}/p232_369_16k.wav",
+  "clean_wav": "{clean_root}/p232_369_16k.wav",
+  "length": 3.2589375,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p232_370": {
+  "p_id": "232",
+  "utt_name": "p232_370",
+  "noisy_wav": "{noisy_root}/p232_370_16k.wav",
+  "clean_wav": "{clean_root}/p232_370_16k.wav",
+  "length": 1.6110625,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p232_371": {
+  "p_id": "232",
+  "utt_name": "p232_371",
+  "noisy_wav": "{noisy_root}/p232_371_16k.wav",
+  "clean_wav": "{clean_root}/p232_371_16k.wav",
+  "length": 1.848875,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p232_372": {
+  "p_id": "232",
+  "utt_name": "p232_372",
+  "noisy_wav": "{noisy_root}/p232_372_16k.wav",
+  "clean_wav": "{clean_root}/p232_372_16k.wav",
+  "length": 3.37125,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p232_373": {
+  "p_id": "232",
+  "utt_name": "p232_373",
+  "noisy_wav": "{noisy_root}/p232_373_16k.wav",
+  "clean_wav": "{clean_root}/p232_373_16k.wav",
+  "length": 3.2524375,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p232_374": {
+  "p_id": "232",
+  "utt_name": "p232_374",
+  "noisy_wav": "{noisy_root}/p232_374_16k.wav",
+  "clean_wav": "{clean_root}/p232_374_16k.wav",
+  "length": 2.9183125,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p232_375": {
+  "p_id": "232",
+  "utt_name": "p232_375",
+  "noisy_wav": "{noisy_root}/p232_375_16k.wav",
+  "clean_wav": "{clean_root}/p232_375_16k.wav",
+  "length": 2.5520625,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p232_377": {
+  "p_id": "232",
+  "utt_name": "p232_377",
+  "noisy_wav": "{noisy_root}/p232_377_16k.wav",
+  "clean_wav": "{clean_root}/p232_377_16k.wav",
+  "length": 2.9668125,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p232_378": {
+  "p_id": "232",
+  "utt_name": "p232_378",
+  "noisy_wav": "{noisy_root}/p232_378_16k.wav",
+  "clean_wav": "{clean_root}/p232_378_16k.wav",
+  "length": 3.551,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p232_379": {
+  "p_id": "232",
+  "utt_name": "p232_379",
+  "noisy_wav": "{noisy_root}/p232_379_16k.wav",
+  "clean_wav": "{clean_root}/p232_379_16k.wav",
+  "length": 2.6593125,
+  "noise_type": "bus",
+  "snr": "1.750000e+01"
+ },
+ "p232_380": {
+  "p_id": "232",
+  "utt_name": "p232_380",
+  "noisy_wav": "{noisy_root}/p232_380_16k.wav",
+  "clean_wav": "{clean_root}/p232_380_16k.wav",
+  "length": 2.8225,
+  "noise_type": "bus",
+  "snr": "1.250000e+01"
+ },
+ "p232_381": {
+  "p_id": "232",
+  "utt_name": "p232_381",
+  "noisy_wav": "{noisy_root}/p232_381_16k.wav",
+  "clean_wav": "{clean_root}/p232_381_16k.wav",
+  "length": 2.0355,
+  "noise_type": "bus",
+  "snr": "7.500000e+00"
+ },
+ "p232_382": {
+  "p_id": "232",
+  "utt_name": "p232_382",
+  "noisy_wav": "{noisy_root}/p232_382_16k.wav",
+  "clean_wav": "{clean_root}/p232_382_16k.wav",
+  "length": 1.898125,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p232_383": {
+  "p_id": "232",
+  "utt_name": "p232_383",
+  "noisy_wav": "{noisy_root}/p232_383_16k.wav",
+  "clean_wav": "{clean_root}/p232_383_16k.wav",
+  "length": 1.674625,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p232_384": {
+  "p_id": "232",
+  "utt_name": "p232_384",
+  "noisy_wav": "{noisy_root}/p232_384_16k.wav",
+  "clean_wav": "{clean_root}/p232_384_16k.wav",
+  "length": 1.75975,
+  "noise_type": "cafe",
+  "snr": "1.250000e+01"
+ },
+ "p232_385": {
+  "p_id": "232",
+  "utt_name": "p232_385",
+  "noisy_wav": "{noisy_root}/p232_385_16k.wav",
+  "clean_wav": "{clean_root}/p232_385_16k.wav",
+  "length": 3.0069375,
+  "noise_type": "cafe",
+  "snr": "7.500000e+00"
+ },
+ "p232_386": {
+  "p_id": "232",
+  "utt_name": "p232_386",
+  "noisy_wav": "{noisy_root}/p232_386_16k.wav",
+  "clean_wav": "{clean_root}/p232_386_16k.wav",
+  "length": 2.2435,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ },
+ "p232_387": {
+  "p_id": "232",
+  "utt_name": "p232_387",
+  "noisy_wav": "{noisy_root}/p232_387_16k.wav",
+  "clean_wav": "{clean_root}/p232_387_16k.wav",
+  "length": 3.003375,
+  "noise_type": "living",
+  "snr": "1.750000e+01"
+ },
+ "p232_388": {
+  "p_id": "232",
+  "utt_name": "p232_388",
+  "noisy_wav": "{noisy_root}/p232_388_16k.wav",
+  "clean_wav": "{clean_root}/p232_388_16k.wav",
+  "length": 2.5320625,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p232_389": {
+  "p_id": "232",
+  "utt_name": "p232_389",
+  "noisy_wav": "{noisy_root}/p232_389_16k.wav",
+  "clean_wav": "{clean_root}/p232_389_16k.wav",
+  "length": 2.1044375,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p232_390": {
+  "p_id": "232",
+  "utt_name": "p232_390",
+  "noisy_wav": "{noisy_root}/p232_390_16k.wav",
+  "clean_wav": "{clean_root}/p232_390_16k.wav",
+  "length": 1.8426875,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p232_391": {
+  "p_id": "232",
+  "utt_name": "p232_391",
+  "noisy_wav": "{noisy_root}/p232_391_16k.wav",
+  "clean_wav": "{clean_root}/p232_391_16k.wav",
+  "length": 1.8220625,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p232_392": {
+  "p_id": "232",
+  "utt_name": "p232_392",
+  "noisy_wav": "{noisy_root}/p232_392_16k.wav",
+  "clean_wav": "{clean_root}/p232_392_16k.wav",
+  "length": 3.221,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p232_393": {
+  "p_id": "232",
+  "utt_name": "p232_393",
+  "noisy_wav": "{noisy_root}/p232_393_16k.wav",
+  "clean_wav": "{clean_root}/p232_393_16k.wav",
+  "length": 3.2763125,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p232_394": {
+  "p_id": "232",
+  "utt_name": "p232_394",
+  "noisy_wav": "{noisy_root}/p232_394_16k.wav",
+  "clean_wav": "{clean_root}/p232_394_16k.wav",
+  "length": 3.186125,
+  "noise_type": "office",
+  "snr": "2.500000e+00"
+ },
+ "p232_396": {
+  "p_id": "232",
+  "utt_name": "p232_396",
+  "noisy_wav": "{noisy_root}/p232_396_16k.wav",
+  "clean_wav": "{clean_root}/p232_396_16k.wav",
+  "length": 1.8471875,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p232_397": {
+  "p_id": "232",
+  "utt_name": "p232_397",
+  "noisy_wav": "{noisy_root}/p232_397_16k.wav",
+  "clean_wav": "{clean_root}/p232_397_16k.wav",
+  "length": 3.0599375,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p232_398": {
+  "p_id": "232",
+  "utt_name": "p232_398",
+  "noisy_wav": "{noisy_root}/p232_398_16k.wav",
+  "clean_wav": "{clean_root}/p232_398_16k.wav",
+  "length": 2.976,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p232_399": {
+  "p_id": "232",
+  "utt_name": "p232_399",
+  "noisy_wav": "{noisy_root}/p232_399_16k.wav",
+  "clean_wav": "{clean_root}/p232_399_16k.wav",
+  "length": 2.2413125,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p232_400": {
+  "p_id": "232",
+  "utt_name": "p232_400",
+  "noisy_wav": "{noisy_root}/p232_400_16k.wav",
+  "clean_wav": "{clean_root}/p232_400_16k.wav",
+  "length": 2.6826875,
+  "noise_type": "psquare",
+  "snr": "1.750000e+01"
+ },
+ "p232_402": {
+  "p_id": "232",
+  "utt_name": "p232_402",
+  "noisy_wav": "{noisy_root}/p232_402_16k.wav",
+  "clean_wav": "{clean_root}/p232_402_16k.wav",
+  "length": 1.78025,
+  "noise_type": "living",
+  "snr": "7.500000e+00"
+ },
+ "p232_403": {
+  "p_id": "232",
+  "utt_name": "p232_403",
+  "noisy_wav": "{noisy_root}/p232_403_16k.wav",
+  "clean_wav": "{clean_root}/p232_403_16k.wav",
+  "length": 2.1508125,
+  "noise_type": "living",
+  "snr": "1.250000e+01"
+ },
+ "p232_404": {
+  "p_id": "232",
+  "utt_name": "p232_404",
+  "noisy_wav": "{noisy_root}/p232_404_16k.wav",
+  "clean_wav": "{clean_root}/p232_404_16k.wav",
+  "length": 2.4820625,
+  "noise_type": "cafe",
+  "snr": "1.750000e+01"
+ },
+ "p232_405": {
+  "p_id": "232",
+  "utt_name": "p232_405",
+  "noisy_wav": "{noisy_root}/p232_405_16k.wav",
+  "clean_wav": "{clean_root}/p232_405_16k.wav",
+  "length": 2.5423125,
+  "noise_type": "psquare",
+  "snr": "7.500000e+00"
+ },
+ "p232_407": {
+  "p_id": "232",
+  "utt_name": "p232_407",
+  "noisy_wav": "{noisy_root}/p232_407_16k.wav",
+  "clean_wav": "{clean_root}/p232_407_16k.wav",
+  "length": 1.4880625,
+  "noise_type": "living",
+  "snr": "2.500000e+00"
+ },
+ "p232_409": {
+  "p_id": "232",
+  "utt_name": "p232_409",
+  "noisy_wav": "{noisy_root}/p232_409_16k.wav",
+  "clean_wav": "{clean_root}/p232_409_16k.wav",
+  "length": 4.09,
+  "noise_type": "psquare",
+  "snr": "2.500000e+00"
+ },
+ "p232_410": {
+  "p_id": "232",
+  "utt_name": "p232_410",
+  "noisy_wav": "{noisy_root}/p232_410_16k.wav",
+  "clean_wav": "{clean_root}/p232_410_16k.wav",
+  "length": 3.2346875,
+  "noise_type": "office",
+  "snr": "7.500000e+00"
+ },
+ "p232_411": {
+  "p_id": "232",
+  "utt_name": "p232_411",
+  "noisy_wav": "{noisy_root}/p232_411_16k.wav",
+  "clean_wav": "{clean_root}/p232_411_16k.wav",
+  "length": 2.113125,
+  "noise_type": "office",
+  "snr": "1.750000e+01"
+ },
+ "p232_412": {
+  "p_id": "232",
+  "utt_name": "p232_412",
+  "noisy_wav": "{noisy_root}/p232_412_16k.wav",
+  "clean_wav": "{clean_root}/p232_412_16k.wav",
+  "length": 3.3504375,
+  "noise_type": "psquare",
+  "snr": "1.250000e+01"
+ },
+ "p232_413": {
+  "p_id": "232",
+  "utt_name": "p232_413",
+  "noisy_wav": "{noisy_root}/p232_413_16k.wav",
+  "clean_wav": "{clean_root}/p232_413_16k.wav",
+  "length": 2.269375,
+  "noise_type": "office",
+  "snr": "1.250000e+01"
+ },
+ "p232_414": {
+  "p_id": "232",
+  "utt_name": "p232_414",
+  "noisy_wav": "{noisy_root}/p232_414_16k.wav",
+  "clean_wav": "{clean_root}/p232_414_16k.wav",
+  "length": 1.7395625,
+  "noise_type": "bus",
+  "snr": "2.500000e+00"
+ },
+ "p232_415": {
+  "p_id": "232",
+  "utt_name": "p232_415",
+  "noisy_wav": "{noisy_root}/p232_415_16k.wav",
+  "clean_wav": "{clean_root}/p232_415_16k.wav",
+  "length": 2.8041875,
+  "noise_type": "cafe",
+  "snr": "2.500000e+00"
+ }
+}
