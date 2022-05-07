@@ -7,4 +7,3 @@ OAR.*
 .DS_Store
 .vscode/*
 results/*
-trained_models/*

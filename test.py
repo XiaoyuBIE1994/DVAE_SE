@@ -2,9 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 Copyright (c) 2022 by Inria
-Authoried by Xiaoyu BIE (xiaoyu.bie@inrai.fr)
+Authoried by Xiaoyu BIE (xiaoyu.bie@inria.fr)
 License agreement in LICENSE.txt
-
 """
 
 
@@ -58,7 +57,9 @@ def speech_enhance(params):
                                      nsamples_E_step=params['nsamples_E_step'], nsamples_WF=params['nsamples_WF'], lr=params['lr'],
                                      device=params['device'])
 
-        rmse, sisdr, pesq, pesq_wb, pesq_nb, estoi = eval_metrics.eval(audio_est=recon_file, audio_ref=clean_file)
+        x_recon, fs_x = sf.read(recon_file)
+        x_ref, _ = sf.read(clean_file)
+        rmse, sisdr, pesq, pesq_wb, pesq_nb, estoi = eval_metrics.eval(x_est=x_recon, x_ref=x, fs=fs_x)
         end_time = datetime.now()
         elapsed = (end_time - start_time).seconds
 

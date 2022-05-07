@@ -63,10 +63,8 @@ class EvalMetrics():
 
         self.metric = metric
 
-    def eval(self, audio_est, audio_ref):
+    def eval(self, x_est, x_ref, fs):
 
-        x_est, fs_est = sf.read(audio_est)
-        x_ref, fs_ref = sf.read(audio_ref)
         # mono channel
         if len(x_est.shape) > 1:
             x_est = x_est[:,0]
@@ -76,30 +74,25 @@ class EvalMetrics():
         len_x = np.min([len(x_est), len(x_ref)])
         x_est = x_est[:len_x]
         x_ref = x_ref[:len_x]
-
         # x_ref = x_ref / np.max(np.abs(x_ref))
-
-        if fs_est != fs_ref:
-            raise ValueError('Sampling rate is different amon estimated audio and reference audio')
 
         if self.metric  == 'rmse':
             return compute_rmse(x_est, x_ref)
         elif self.metric == 'sisdr':
             return compute_sisdr(x_est, x_ref)
         elif self.metric == 'pesq':
-            return pesq(fs_est, x_ref, x_est, mode='wb'), pesq(fs_est, x_ref, x_est, mode='nb')
-            # return pesq(x_ref, x_est, fs_est)
+            return pesq(fs, x_ref, x_est, mode='wb'), pesq(fs, x_ref, x_est, mode='nb')
         elif self.metric == 'stoi':
-            return stoi(x_ref, x_est, fs_est, extended=False)
+            return stoi(x_ref, x_est, fs, extended=False)
         elif self.metric == 'estoi':
-            return stoi(x_ref, x_est, fs_est, extended=True)
+            return stoi(x_ref, x_est, fs, extended=True)
         elif self.metric == 'all':
             score_rmse = compute_rmse(x_est, x_ref)
             score_sisdr = compute_sisdr(x_est, x_ref)
-            score_pesq = pypesq(x_ref, x_est, fs_est)
-            score_pesq_wb = pesq(fs_est, x_ref, x_est, mode='wb')
-            score_pesq_nb = pesq(fs_est, x_ref, x_est, mode='nb')
-            score_estoi = stoi(x_ref, x_est, fs_est, extended=True)
+            score_pesq = pypesq(x_ref, x_est, fs)
+            score_pesq_wb = pesq(fs, x_ref, x_est, mode='wb')
+            score_pesq_nb = pesq(fs, x_ref, x_est, mode='nb')
+            score_estoi = stoi(x_ref, x_est, fs, extended=True)
             return score_rmse, score_sisdr, score_pesq, score_pesq_wb, score_pesq_nb, score_estoi
         else:
-            raise ValueError('Evaluation only support: rmse, pesq, (e)stoi, all')
+            raise ValueError('Evaluation only support: RMSE, SI-SDE, PESQ, (E)STOI, all')
