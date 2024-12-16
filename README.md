@@ -16,10 +16,17 @@ For HumanEva-I and Human3.6M, we follow the instructions in gsps, then put all d
 
 ## Train
 
+```Python
+python train.py --cfg PATH_TO_CFG 
+```
 
 ## Test
 
-
+```Python
+# don't forget to change the path to your own
+python _create_wsj.py
+python _create_vb.py
+```
 
 ## Bibtex
 If you find this code useful, please star the project and consider citing:
